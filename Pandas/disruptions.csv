@@ -2,7 +2,6 @@ Event Description,Year,Date Event Began,Time Event Began,Date of Restoration,Tim
 Severe Weather - Thunderstorms,2014,6/30/2014,8:00 PM,7/2/2014,6:30 PM,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"420,000","severe weather, thunderstorm"
 Severe Weather - Thunderstorms,2014,6/30/2014,11:20 PM,7/1/2014,5:00 PM,Northern Indiana Public Service Company,North Central Indiana,RFC,Unknown,"127,000","severe weather, thunderstorm"
 Severe Weather - Thunderstorms,2014,6/30/2014,5:55 PM,7/1/2014,2:53 AM,We Energies,Southeast  Wisconsin,MRO,424,"120,000","severe weather, thunderstorm"
-Fuel Supply Emergency - Coal,2014,6/27/2014,1:21 PM,Unknown,Unknown,We Energies,Wisconsin,MRO,Unknown,Unknown,"fuel supply emergency, coal"
 Physical Attack - Vandalism,2014,6/24/2014,2:54 PM,6/24/2014,2:55 PM,Tennessee Valley Authority,"Nashville, Tennessee",SERC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,6/19/2014,8:47 AM,6/19/2014,8:48 AM,Tennessee Valley Authority,"Nashville, Tennessee",SERC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,6/18/2014,9:52 AM,6/18/2014,7:00 PM,Public Utility District No.1 of Snohomish County (SNPD),Washington,WECC,Unknown,Unknown,"vandalism, physical"
@@ -12,14 +11,12 @@ Suspected Physical Attack,2014,6/12/2014,9:10 AM,6/12/2014,9:11 AM,"Luminant Ene
 Severe Weather - Thunderstorms,2014,6/10/2014,9:50 PM,6/11/2014,2:30 PM,American Electric Power,West Virginia,RFC,Unknown,"66,383","severe weather, thunderstorm"
 Electrical System Islanding,2014,6/9/2014,11:07 AM,6/9/2014,11:30 AM,Peak Reliability,"Alberta, Canada",WECC,Unknown,Unknown,islanding
 Severe Weather - Thunderstorms,2014,6/7/2014,11:00 PM,6/8/2014,5:30 AM,Southern Company,"North and Central , Alabama",SERC,217,"65,000","severe weather, thunderstorm"
-Fuel Supply Emergency - Coal,2014,6/6/2014,1:00 PM,Unknown,Unknown,"Luminant Energy Company, LLC",Texas,ERCOT,Unknown,Unknown,"fuel supply emergency, coal"
 Severe Weather - Thunderstorms,2014,6/5/2014,3:00 AM,6/7/2014,11:45 PM,Memphis Light Gas and Water Division,"Shelby County, Tennessee",SERC,494,"38,500","severe weather, thunderstorm"
 Severe Weather - Thunderstorms,2014,6/5/2014,1:06 PM,6/5/2014,1:07 PM,Tennessee Valley Authority,West Tennessee,SERC,Unknown,"56,475","severe weather, thunderstorm"
 Physical Attack - Vandalism,2014,6/3/2014,1:38 AM,6/3/2014,1:43 AM,Lower Colorado River Authority,Texas,ERCOT,Unknown,Unknown,"vandalism, physical"
 Electrical System Separation (Islanding),2014,5/26/2014,12:31 PM,5/26/2014,1:18 PM,Peak Reliability,"British Columbia & Alberta, Canada",WECC,Unknown,Unknown,islanding
 Physical Attack - Vandalism,2014,5/23/2014,3:00 PM,5/25/2014,7:00 PM,Duke Energy Progress,North Carolina,SERC,Unknown,Unknown,"vandalism, physical"
 Public Appeal to Reduce Electricity Usage - Wild Fires,2014,5/16/2014,10:43 AM,5/16/2014,9:00 PM,San Diego Gas & Electric Co,"San Diego & Orange Counties, California",WECC,"3,900","1,400,000","wild fire, public appeal"
-Public Appeal to Reduce Electricity Usage - Wild Fires,2014,5/15/2014,10:43 AM,Unknown,Unknown,San Diego Gas & Electric Co,"San Diego & Orange Counties, California",WECC,"3,300","1,400,000","wild fire, public appeal"
 Physical Attack - Vandalism,2014,5/12/2014,1:14 PM,5/12/2014,1:15 PM,PacifiCorp,"Layton, Utah",WECC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,5/11/2014,6:38 PM,5/11/2014,6:39 PM,Great River Energy,"MISO North, Minnesota",MRO,Unknown,Unknown,"vandalism, physical"
 Severe Weather - Heavy Winds,2014,5/9/2014,6:00 PM,5/11/2014,1:00 PM,Vectren Energy Delivery of Indiana,Indiana,RFC,Unknown,"56,000","severe weather, wind"
@@ -28,7 +25,6 @@ Physical Attack,2014,5/8/2014,1:00 AM,5/8/2014,1:01 AM,Clarksdale Public Utiliti
 Severe Weather - Thunderstorms,2014,4/30/2014,3:50 AM,4/30/2014,2:00 PM,Southern Company,"Alabama, Florida, Georgia",SERC,296,"89,000","severe weather, thunderstorm"
 Severe Weather - Thunderstorms,2014,4/29/2014,11:30 PM,4/29/2014,12:30 PM,Southern Company,"Mississippi, Alabama",SERC,355,"106,648","severe weather, thunderstorm"
 Severe Weather - Thunderstorms,2014,4/29/2014,9:37 AM,5/1/2014,9:00 AM,Tennessee Valley Authority,"Northeastern Mississippi, Northern Alabama",SERC,Unknown,"57,000","severe weather, thunderstorm"
-Electrical System Separation (Islanding),2014,4/27/2014,9:15 AM,Unknown,Unknown,Peak Reliability,"Alberta, Canada",WECC,9750,"4,000,000",islanding
 Physical Attack - Vandalism,2014,4/27/2014,12:07 PM,4/27/2014,12:09 PM,PacifiCorp,"Albany, Oregon",WECC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,4/25/2014,7:00 AM,4/25/2014,7:30 AM,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,"vandalism, physical"
 Electrical System Separation (Islanding),2014,4/24/2014,3:02 PM,4/24/2014,5:13 PM,Peak Reliability,"Alberta, Canada",WECC,Unknown,Unknown,islanding
@@ -38,7 +34,6 @@ Severe Weather - Thunderstorms,2014,4/12/2014,6:15 PM,4/14/2014,9:00 AM,Consumer
 Physical Attack - Vandalism,2014,4/8/2014,1:00 PM,4/8/2014,1:01 PM,"Western Area Power Administration, Sierra Nevada Region","Davis, California",WECC,Unknown,Unknown,"vandalism, physical"
 Voltage Reduction,2014,4/8/2014,11:09 AM,4/8/2014,11:20 AM,Puerto Rico Electric Power Authority,Puerto Rico,PR,Unknown,Unknown,voltage reduction
 Severe Weather - Wind,2014,4/4/2014,3:30 AM,4/4/2014,8:15 AM,"Entergy Services, Inc.",Central Arkansas,SERC,Unknown,"57,200","severe weather, wind"
-Fuel Supply Emergency - Coal,2014,4/3/2014,12:00 AM,Unknown,Unknown,City of Garland / Texas Municipal Power Agency,Texas,TRE,Unknown,Unknown,"fuel supply emergency, coal"
 Fuel Supply Emergency - Coal,2014,4/3/2014,2:45 PM,4/9/2014,11:53 AM,We Energies,Wisconsin,MRO,Unknown,Unknown,"fuel supply emergency, coal"
 System Wide Voltage Reduction,2014,3/31/2014,3:41 PM,3/31/2014,8:08 PM,Puerto Rico Electric Power Authority,Puerto Rico,PR,Unknown,Unknown,voltage reduction
 Electrical System Separation (Islanding),2014,3/26/2014,1:37 PM,3/26/2014,2:33 PM,Peak Reliability,Montana,WECC,Unknown,Unknown,islanding
@@ -73,10 +68,8 @@ Severe Weather - Ice,2014,2/5/2014,8:05 AM,2/5/2014,8:06 AM,Baltimore Gas & Elec
 Fuel Supply Emergency - Coal,2014,2/5/2014,7:00 AM,2/23/2014,7:00 AM,Upstate New York Power Producers,New York,NPCC,300,Unknown,"fuel supply emergency, coal"
 Severe Weather - Snow/Ice,2014,2/5/2014,5:00 AM,2/5/2014,5:01 AM,Exelon Corporation/PECO,Pennsylvania,RFC,Unknown,"715,000","severe weather, winter storm"
 Severe Weather - Snow/Ice,2014,2/5/2014,7:35 AM,2/7/2014,4:03 AM,PPL Electric Utilities Corp,"Lancaster Region, Pennsylvania",RFC,Unknown,"62,159","severe weather, winter storm"
-Physical Attack - Vandalism,2014,1/30/2014,3:00 PM,Unknown,Unknown,Tucson Electric Power,Arizona,WECC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,1/29/2014,4:00 PM,1/29/2014,4:44 PM,Madison Gas and Electric,Unknown,MRO,Unknown,Unknown,"vandalism, physical"
 Public Appeal due to Severe Weather - Cold,2014,1/27/2014,2:20 PM,1/28/2014,9:00 PM,PJM Interconnection,Maryland,RFC,Unknown,Unknown,"severe weather, cold"
-Physical Attack,2014,1/26/2014,11:00 PM,Unknown,Unknown,Public Service Electric &Gas,New Jersey,RFC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,1/25/2014,10:00 AM,1/25/2014,11:00 AM,Madison Gas and Electric,"Madison, Wisconsin",MRO,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,1/24/2014,3:30 PM,1/24/2014,5:00 PM,Madison Gas and Electric,Wisconsin,MRO,Unknown,Unknown,"vandalism, physical"
 Fuel Supply Emergency - Coal,2014,1/24/2014,12:00 AM,4/9/2014,11:53 AM,We Energies,Wisconsin,RFC,Unknown,Unknown,"fuel supply emergency, coal"
@@ -88,9 +81,7 @@ Physical Attack - Vandalism,2014,1/22/2014,9:45 AM,1/22/2014,8:19 PM,Duke Energy
 Physical Attack - Vandalism,2014,1/22/2014,1:55 PM,1/22/2014,2:55 PM,Madison Gas and Electric,Wisconsin,MRO,Unknown,Unknown,"vandalism, physical"
 Suspected Physical Attack,2014,1/22/2014,9:15 PM,1/23/2014,3:08 AM,Public Service Electric &Gas,"Burlington County, New Jersey",RFC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,1/22/2014,12:30 AM,1/22/2014,2:45 AM,Madison Gas and Electric,Wisconsin,MRO,Unknown,Unknown,"vandalism, physical"
-Physical Attack - Vandalism,2014,1/21/2014,5:00 PM,Unknown,Unknown,Public Service Electric &Gas,New Jersey,RFC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,1/21/2014,12:14 PM,1/21/2014,12:39 PM,Ameren Missouri,Missouri,SERC,10,Unknown,"vandalism, physical"
-Electrical System Islanding,2014,1/18/2014,5:39 PM,Unknown,Unknown,First Energy Solutions Corp.,Unknown,RFC,Unknown,Unknown,islanding
 Public Appeal to Reduce Electricity Usage,2014,1/18/2014,9:00 AM,1/18/2014,9:45 AM,ERCOT,Texas,TRE,Unknown,Unknown,public appeal
 Suspected Physical Attack,2014,1/17/2014,12:20 PM,1/17/2014,12:20 PM,Dayton Power & Light Co,Ohio,RFC,Unknown,Unknown,"vandalism, physical"
 Physical Attack - Vandalism,2014,1/15/2014,2:32 PM,1/15/2014,2:45 PM,PacifiCorp,Utah,WECC,Unknown,Unknown,"vandalism, physical"
@@ -213,7 +204,6 @@ Generator Trip; Load Shed 100+ MW,2013,5/20/2013,5:22 PM,5/20/2013,9:09 PM,Enter
 Severe Weather - Tornados,2013,5/20/2013,3:00 PM,5/22/2013,5:00 PM,Oklahoma Gas & Electric Co,"Moore, Oklahoma",SPP,Unknown,"41,306","severe weather, tornado"
 Vandalism,2013,5/17/2013,8:35 AM,5/17/2013,8:36 AM,Delmarva Power & Light Company,"Newcastle, Delaware",RFC,Unknown,Unknown,vandalism
 Vandalism,2013,5/15/2013,2:11 PM,5/15/2013,2:12 PM,Delmarva Power & Light Company,"Wilmington, Delaware",RFC,Unknown,Unknown,vandalism
-Fuel Supply Emergency - Hydro,2013,5/13/2013,12:52 PM,Ongoing,Ongoing,California Department of Water Resources,Central California,WECC,176,Unknown,"fuel supply emergency, hydro"
 Electrical System Separation (Islanding),2013,5/9/2013,1:21 PM,5/9/2013,4:21 PM,WECC,"Alberta, Canada; Washington State",WECC,Unknown,Unknown,islanding
 Electrical System Separation (Islanding),2013,5/2/2013,6:52 AM,5/2/2013,10:07 AM,WECC,Unknown,WECC,Unknown,Unknown,islanding
 Electrical System Separation (Islanding),2013,5/1/2013,9:22 AM,5/1/2013,9:24 AM,Xcel Energy/Public Service Company of Colorado,Northeast Colorado,WECC,123,"35,230",islanding
@@ -634,531 +624,332 @@ Vandalism,2011,1/23/2011,7:00 AM,1/23/2011,1:00 PM,PacifiCorp,"Franklin County, 
 Vandalism,2011,1/18/2011,2:00 PM,1/18/2011,2:00 PM,National Grid,"Whitman, Auburn St Substation, Massachusetts",NPCC,0,0,vandalism
 Firm System Load Shed,2011,1/13/2011,7:21 AM,1/13/2011,8:13 AM,JEA,North Florida,FRCC,150,"20,900",load shedding
 Electrical Fault at Generator,2011,1/11/2011,11:08 PM,1/11/2011,11:08 PM,New Athens Generating Co. LLC,"Athens, New York",NPCC,0,0,equipment failure
-Severe Weather,2010,12/18/2010,5:00 a.m.,12/19/2010,10:00 PM,Puget Sound Energy,"Redmond, Washington",WECC,184,"92,090",severe weather
-Electrical System Separation - Islanding,2010,12/14/2010,7:20 a.m.,12/14/2010,7:25 AM,Pacific Gas and Electric,California,WECC,9,"6,635",islanding
-Severe Weather,2010,12/12/2010,4:30 p.m.,12/15/2010,2:00 PM,Detroit Edison,Southeastern Michigan,RFC,210,"60,175",severe weather
-Electrical System Separation - Islanding,2010,12/3/2010,9:32 p.m.,12/4/2010,2:00 AM,Pacific Gas and Electric,California,WECC,22,"7,077",islanding
-Electrical System Separation - Islanding,2010,11/23/2010,2:01 p.m.,11/23/2010,6:12 PM,Pacific Gas and Electric,Northern California,WECC,22,"7,077",islanding
-Winter Storm,2010,11/22/2010,11:00 p.m.,11/24/2010,8:00 PM,Puget Sound Energy,"Puget Sound Region, Washington",WECC,420,"123,535","severe weather, winter storm"
-Winter Storm,2010,11/21/2010,1:39 a.m.,11/24/2010,4:46 PM,Pacific Gas and Electric,Northern and Central California,WECC,75,"60,000","severe weather, winter storm"
-High Winds,2010,11/15/2010,11:00 p.m.,11/16/2010,2:14 AM,Puget Sound Energy,Puget Sound Region,WECC,391,"149,256","severe weather, wind"
-Electrical System Separation - Islanding,2010,11/6/2010,3:53 p.m.,11/6/2010,6:08 PM,Pacific Gas and Electric,Northern California,WECC,20,4,islanding
-Electrical System Separation-Islanding,2010,10/27/2010,5:16 p.m.,10/27/2010,5:27 PM,Pacific Gas and Electric,Northern California,WECC,16,"2,674",islanding
-High Winds,2010,10/27/2010,8:00 a.m.,10/29/2010,7:00 AM,Consumers Energy,Michigan's Northerly Lower Peninsula,RFC,240,"285,000","severe weather, wind"
-Thunderstorms,2010,9/22/2010,5:38 p.m.,9/24/2010,11:30 PM,Allegheny Power,Western Pennsylvania,RFC,389,"82,861","severe weather, thunderstorm"
-Thunderstorms,2010,9/22/2010,4:08 p.m.,9/26/2010,12:00 AM,Duquesne Light Company,"City of Pittsburgh, Pennsylvania",RFC,156,"52,000","severe weather, thunderstorm"
-Electrical System Separation (Islanding),2010,9/1/2010,10:20 a.m.,9/1/2010,12:44 PM,Pacific Gas and Electric,"Pittsburg (Bay Area), California",WECC,31,"15,000",islanding
-Severe Weather,2010,8/23/2010,5:50 p.m.,8/24/2010,9:30 AM,CenterPoint Energy,"Houston, Texas",TRE,746,"81,586",severe weather
-Severe Weather,2010,8/19/2010,6:00 p.m.,8/23/2010,3:30 PM,Detroit Edison,Southeastern Michigan,RFC,340,"80,000",severe weather
-Made Public Appeals,2010,8/12/2010,3:42 p.m.,8/12/2010,10:10 PM,Wisconsin Public Service,"City of Oshkosh, Wisconsin",MRO,30,"7,600",public appeal
-Thunderstorms,2010,8/4/2010,4:45 p.m.,8/7/2010,12:00 AM,Allegheny Power,"Western Pennsylvania, Northwestern and Central West Virginia",RFC,60,"11,186","severe weather, thunderstorm"
-Severe Weather,2010,7/25/2010,4:11 p.m.,7/25/2010,8:06 PM,Dominion - Virginia Power,Northern Virginia,SERC,900-1000,"81,000",severe weather
-Severe Weather,2010,7/25/2010,3:20 p.m.,7/27/2010,6:00 PM,Baltimore Gas and Electric,Central Maryland,RFC,480,"124,000",severe weather
-Severe Weather,2010,7/23/2010,7:30 p.m.,7/26/2010,6:30 PM,Detroit Edison,Southeastern Michigan,RFC,400,"82,000",severe weather
-Severe Weather,2010,7/15/2010,7:00 p.m.,7/19/2010,11:30 PM,Detroit Edison,Southeastern Michigan,RFC,540,"127,534",severe weather
-Transformer Outage,2010,7/6/2010,3:47 a.m.,7/6/2010,4:37 AM,Delmarva Power & Light Company,"Newark, DE",RFC,95,"18,400",equipment failure
-Made Public Appeal/Transmission Equipment Failure,2010,6/22/2010,3:34 p.m.,6/22/2010,7:00 PM,Entergy,West/Central Arkansas,SERC,84,"25,159","public appeal, equipment failure"
-Thunderstorms,2010,6/21/2010,1:48 p.m.,6/22/2010,8:31 PM,Duke Energy Midwest,"Cincinnati, OH",RFC,400,"50,636","severe weather, thunderstorm"
-Firm Load Shed,2010,6/7/2010,6:29 p.m.,6/8/2010,1:00 AM,Public Service Company of Colorado,Denver Metropolitan Area,WECC,300,"31,000",load shedding
-Electric System Separation,2010,6/6/2010,4:45 a.m.,6/6/2010,5:35 AM,Pacific Gas and Electric,Northern California,WECC,3,"2,650",islanding
-Firm Load Shed,2010,6/1/2010,10:03 p.m.,6/18/2010,12:30 AM,Southern Indiana Gas and Electric Company,Southwestern Indiana,RFC,500,1,load shedding
-Severe Thunderstorms,2010,4/16/2010,5:15 p.m.,4/18/2010,5:00 PM,Allegheny Power,Southwestern Pennsylvania,RFC,15,"120,000","severe weather, thunderstorm"
-Shed Firm Load,2010,3/31/2010,11:59 p.m.,4/1/2010,12:55 AM,San Diego Gas & Electric Company,San Diego and Orange Counties,WECC,324,"290,000",load shedding
-High Winds and Rain,2010,3/13/2010,12:00 p.m.,3/15/2010,8:05 PM,ISO New England,Connecticut,NPCC,50,"50,246","severe weather, wind, rain"
-High Winds and Rain,2010,3/13/2010,6:00 p.m.,3/20/2010,12:59 PM,Public Service Electric & Gas Company,"Southern, Central and Northern New Jersey",RFC,100,"360,000","severe weather, wind, rain"
-Winter Storm,2010,2/25/2010,11:53 p.m.,3/1/2010,4:40 PM,ISO New England,Southern Maine and New Hampshire,NPCC,510,"509,606","severe weather, winter storm"
-Winter Storm,2010,2/14/2010,10:00 a.m.,2/14/2010,12:00 PM,Allegheny Power,Western Pennsylvania nd Northeast Central WV,RFC,900,"190,000","severe weather, winter storm"
-Winter Storm,2010,2/6/2010,2:30 a.m.,2/7/2010,7:00 AM,Dominion,"Virginia, North Carolina",SERC,600,"104,736","severe weather, winter storm"
-Winter Storm,2010,2/5/2010,6:48 p.m.,2/7/2010,5:00 PM,Duke Energy Carolinas,North and South Carolina,SERC,500,"74,000","severe weather, winter storm"
-Ice Storm/Electrical System Separation,2010,2/1/2010,2:32 p.m.,2/1/2010,5:00 PM,Western Farmers Electric Cooperative,Oklahoma,SPP,30,0,"severe weather, winter storm, islanding"
-Severe Storm,2010,1/19/2010,2:30 p.m.,1/20/2010,3:00 PM,San Diego Gas & Electric Company,San Diego and Orange Counties,WECC,"2,650","50,000","severe weather, storm"
-Severe Storm,2010,1/19/2010,7:30 a.m.,1/19/2010,12:24 PM,California ISO,San Francisco,WECC,300,"30,000","severe weather, storm"
-Severe Storm,2010,1/18/2010,11:30 a.m.,1/28/2010,8:00 AM,Pacific Gas and Electric Company,Northern and Central California,WECC,290,"1,700,000","severe weather, storm"
-Tropical Storm Ida,2009,11/12/2009,6:45 p.m.,11/14/2009,4:25 a.m.,Dominion VirginiaPower/Dominion North Carolina Power,"Southeastern Virginia, Northeastern North Carolina",SERC,400,"335,000","severe weather, hurricane/tropical storm"
-High Winds,2009,10/13/2009,3:45 p.m.,10/13/2009,5:50 p.m.,Sacramento Municipal Utility District,Sacramento County,WECC,90,"94,000","severe weather, wind"
-Ice,2009,10/13/2009,12:48 p.m.,10/13/2009,2:34 p.m.,Western Area Power Administration Upper Great Plains Region,Southeastern Wyoming,WECC,101,"35,500","severe weather, winter storm"
-High Winds and Rain,2009,10/13/2009,4:00 p.m.,10/13/2009,10:30 p.m.,Pacific Gas and Electric,Northern California,WECC,350,"859,554","severe weather, wind, rain"
-Electrical System Separation,2009,8/29/2009,11:00 a.m.,8/29/2009,2:01 p.m.,Western Area Power Administration Upper Great Plains Region,Western South Dakota,MRO,373,18,islanding
-Electrical System Separation,2009,8/29/2009,10:54 p.m.,8/29/2009,11:53 p.m.,Midwest ISO,Western South Dakota,RFC,84,0,islanding
-Thunderstorms,2009,8/21/2009,7:00 p.m.,8/22/2009,8:00 a.m.,CenterPoint Energy,Houston Metropolitan Service Area,TRE,544,"80,000","severe weather, thunderstorm"
-Thunderstorms,2009,8/12/2009,6:25 p.m.,8/12/2009,10:00 a.m.,CenterPoint Energy,South Houston Service Area,TRE,491,"73,000","severe weather, thunderstorm"
-Thunderstorms,2009,8/4/2009,1:45 p.m.,8/8/2009,9:00 p.m.,Duke Energy Midwest,"Northern Kentucky, Southwest Ohio and Central and South Indiana",RFC,50,"63,700","severe weather, thunderstorm"
-Unit Tripped,2009,7/21/2009,5:34 a.m.,7/21/2009,8:43 a.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,136,1,generator trip
-Severe Thunderstorm,2009,7/20/2009,9:50 p.m.,7/22/2009,7:00 p.m.,Public Service Company of Colorado,"Metro Denver (Jefferson, Adams, and Arapahoe Counties)",WECC,150,"86,058","severe weather, thunderstorm"
-Thunderstorms,2009,7/18/2009,7:00 p.m.,7/19/2009,9:00 p.m.,CenterPoint Energy,Houston/Galveston Area,TRE,51,"73,000","severe weather, thunderstorm"
-Electrical System Separation,2009,7/2/2009,10:44 p.m.,7/3/2009,1:25 a.m.,ISO New England,Northern Maine,NPCC,0,0,islanding
-Severe Thunderstorms,2009,6/26/2009,1:00 a.m.,6/27/2009,9:00 a.m.,Duke Energy Midwest,"Southwest Ohio, Northern Kentudky, Central and Southern Indiana",RFC,327,"85,000","severe weather, thunderstorm"
-Severe Storm,2009,6/19/2009,12:01 a.m.,6/21/2009,11:00 p.m.,Consumers Energy,Michigan Lower Peninsula,RFC,75,"99,000","severe weather, storm"
-Fuel Supply Deficiency,2009,6/16/2009,11:00 p.m.,6/17/2009,2:00 a.m.,California Department of Water Resources,A.D. Edmonston Pumping Plant,WECC,300,0,fuel supply emergency
-Severe Storm,2009,6/12/2009,4:37 p.m.,6/12/2009,6:53 p.m.,Tennessee Valley Authority,"Chattanooga, Tennessee",SERC,860,"136,000","severe weather, storm"
-Severe Thunderstorm,2009,6/12/2009,10:00 p.m.,6/13/2009,6:00 p.m.,Southern Company,Georgia,SERC,290,"102,000","severe weather, thunderstorm"
-Severe Thunderstorms,2009,6/9/2009,5:25 p.m.,6/11/2009,5:00 a.m.,Baltimore Gas and Electric,Central Maryland,RFC,60,"85,091","severe weather, thunderstorm"
-Electrical System Separation,2009,6/5/2009,1:38 p.m.,6/5/2009,8:18 p.m.,Pacific Gas and Electric,East of Fresno California,WECC,1,70,islanding
-Transmission Equipment Failure,2009,5/29/2009,9:05 a.m.,5/29/2009,7:57 p.m.,Big Rivers Electric Corporation,"Henderson County, Kentucky",SERC,342,1,"equipment failure, transmission interruption"
-Severe Thunderstorm,2009,5/8/2009,7:30 a.m.,5/8/2009,9:00 a.m.,The Empire District Electric Company,SW Missouri,SERC,266,"83,000","severe weather, thunderstorm"
-Severe Thunderstorm,2009,5/8/2009,1:30 p.m.,5/14/2009,11:20 p.m.,Ameren,Southern Illinois,SERC,300,"68,800","severe weather, thunderstorm"
-High Winds,2009,4/27/2009,3:30 p.m.,4/28/2009,11:30 a.m.,CenterPoint Energy,Greater Houston/Galveston Area,TRE,176,"158,000","severe weather, wind"
-Complete Electric System Failure,2009,4/24/2009,11:09 a.m.,4/24/2009,11:21 a.m.,Constellation Energy,"Ruston, Louisiana",SERC,32,"11,000",unknown
-Fuel Supply Deficiency,2009,4/23/2009,12:00 a.m.,Ongoing,Ongoing,"State of California, Department of Water Resources",Restricted Hydro Electric Capability,WECC,-,-,fuel supply emergency
-Substation Load Interruption,2009,4/23/2009,5:54 p.m.,4/23/2009,7:58 p.m.,Southern California Edison Co,"Communities of Elsinore, Hemet, Moreno Valley, Perris, San Jacinto and Temecula in the southeastern area of Riverside County in California",WECC,512,"280,000",load shedding
-Transmission Tripped,2009,4/23/2009,4:25 p.m.,4/24/2009,12:29 a.m.,Puget Sound Energy,"Skagit County, Washington",WECC,244,"93,300",equipment failure
-Severe Thunderstorms,2009,4/10/2009,10:00 p.m.,4/11/2009,2:30 a.m.,Southern Company,Alabama and Georgia,SERC,162,"56,679","severe weather, thunderstorm"
-Winter Storm,2009,4/6/2009,1:00 a.m.,4/8/2009,12:00 p.m.,Consumers Energy,"Michigan, Lower Peninsula",RFC,75,"70,793","severe weather, winter storm"
-Unit Shut Down,2009,3/8/2009,10:16 p.m.,3/8/2009,11:45 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,150,-,unknown
-Made Public Appeals,2009,3/3/2009,10:00 p.m.,3/4/2009,8:17 p.m.,American Electric Power,"Roanoke, Virginia",RFC,350,0,public appeal
-Winter Storm,2009,3/1/2009,10:00 p.m.,3/3/2009,6:00 p.m.,Dominion Virginia/North Carolina Power,Central Virginia - Spotsylvania County,SERC,210,"217,000","severe weather, winter storm"
-Ice/Snow Storm,2009,3/1/2009,8:54 p.m.,3/3/2009,4:06 p.m.,Duke Energy Carolinas,Duke Energy Carolinas Balance Authority,SERC,"1,000","180,000","severe weather, winter storm"
-Transmission Equipment Failure,2009,3/1/2009,12:15 a.m.,3/1/2009,3:00 a.m.,El Paso Electric Company,"City of El Paso, Texas, County of El Paso",WECC,250,"132,000","equipment failure, transmission interruption"
-Severe Weather,2009,3/1/2009,4:00 p.m.,3/1/2009,11:25 p.m.,Southern Company,Southern Balancing Area,SERC,75,"60,000",severe weather
-High Winds,2009,2/13/2009,2:30 a.m.,2/15/2009,3:00 a.m.,Ohio Edison Company,Central and Eastern Ohio,RFC,168,"184,000","severe weather, wind"
-High Winds,2009,2/12/2009,2:30 a.m.,2/12/2009,6:00 a.m.,Midwest ISO,Central and Eastern Ohio,RFC,168,"184,000","severe weather, wind"
-High Winds,2009,2/12/2009,8:00 a.m.,2/15/2009,10:00 p.m.,Penelec,Western and North Eastern Pennsylvania,RFC,130,"132,000","severe weather, wind"
-Severe Thunderstorms,2009,2/11/2009,9:00 p.m.,2/12/2009,12:00 p.m.,Midwest ISO,Northern Kentucky and Southwest Ohio,RFC,350,"63,000","severe weather, thunderstorm"
-High Winds,2009,2/11/2009,2:30 a.m.,2/11/2009,12:00 p.m.,CenterPoint Energy,"Houston, Texas",TRE,350,"64,801","severe weather, wind"
-Winter Storm,2009,1/28/2009,12:10 a.m.,1/30/2009,9:20 p.m.,Midwest ISO,East Central Missouri,RFC,300,1,"severe weather, winter storm"
-Ice Storm,2009,1/28/2009,6:00 a.m.,2/5/2009,6:00 p.m.,Vectren Energy Delivery of Indiana,"Indiana, Evansville, Metro Area",RFC,506,"75,000","severe weather, winter storm"
-Ice Storm,2009,1/28/2009,4:00 a.m.,2/7/2009,5:00 p.m.,Henderson Municipal Power and Light,"City of Henderson, Kentucky and Portions of Henderson County, Kentucky",RFC,21,"3,500","severe weather, winter storm"
-Ice Storm,2009,1/27/2009,7:10 a.m.,2/4/2009,7:30 p.m.,Big Rivers Electric Corporation,Western Kentucky and Southern Indiana,SERC,350,3,"severe weather, winter storm"
-Winter Storm,2009,1/27/2009,11:00 a.m.,1/30/2009,6:00 p.m.,"Associated Electric Cooperative, Inc.",South Central and Southeast Missouri,SERC,200,"62,500","severe weather, winter storm"
-Ice Storm,2009,1/27/2009,9:00 p.m.,1/29/2009,6:00 a.m.,Arkansas Electric Cooperative Corporation,Northern Arkansas,SERC,600,"215,700","severe weather, winter storm"
-Ice Storm,2009,1/27/2009,5:03 a.m.,1/31/2009,5:15 p.m.,"East Kentucky Power Cooperative, Inc.",Central and Eastern Kentrucky,SERC,600,"190,000","severe weather, winter storm"
-Ice Storm,2009,1/27/2009,9:45 p.m.,1/27/2009,10:17 p.m.,Tennessee Valley Autbority,TVA Service Territory,SERC,850,1,"severe weather, winter storm"
-Shed Load,2009,1/22/2009,4:00 p.m.,1/22/2009,5:05 p.m.,Crawfordsville Electric Light and Power,"Crawfordsville, Indiana",RFC,50,"9,700",load shedding
-Transmission Equipment Failure,2009,1/8/2009,11:46 p.m.,1/9/2009,11:25 a.m.,Florida Keys Electric Cooperative Assoc. Inc.,Florida Keys,FRCC,55,"31,000","equipment failure, transmission interruption"
-High Winds,2009,1/7/2009,5:00 p.m.,1/7/2009,8:05 p.m.,Duke Energy Carolinas,Piedmont of North and South Carolina,SERC,300,"70,000","severe weather, wind"
-Shed Firm Load,2008,12/30/2008,4:02 p.m.,12/30/2008,4:37 p.m.,Crawfordsville Electric Light and Power,"Crawfordsville, Indiana",RFC,41,"9,700",load shedding
-Lightning,2008,12/26/2008,6:13 p.m.,12/27/2008,5:00 p.m.,"Hawaiian Electric Company, Inc.","Island of Oahu, Hawaii",HI,"1,060","294,000","severe weather, thunderstorm"
-Load Shedding,2008,12/26/2008,11:40 a.m.,12/26/2008,3:34 p.m.,Sacramento Municipal Utility District,"Orangevale Area of Sacramento, California",WECC,110,"50,000",load shedding
-Electrical System Separation,2008,12/19/2008,1:02 a.m.,12/19/2008,6:17 a.m.,Pacific Gas and Electric Company,"East of Oroville, California",WECC,1,638,islanding
-Declared Stage 1 Electric Emergency/Made Public Appeal,2008,12/13/2008,3:30 p.m.,12/21/2008,9:17 a.m.,Pacific Gas and Electric Company,Humboldt Area of California,WECC,5,0,public appeal
-Ice Storm,2008,12/12/2008,2:38 a.m.,12/19/2008,1:24 p.m.,National Grid,Eastern New York,NPCC,200,"190,000","severe weather, winter storm"
-Equipment Failure/Made Public Appeal,2008,12/10/2008,5:09 p.m.,12/10/2008,8:29 p.m.,PacifiCorp,Southern Oregon,WECC,32,3,"equipment failure, public appeal"
-Lines Loss/Transmission,2008,12/9/2008,5:27 p.m.,12/10/2008,4:12 a.m.,Jersey Central Power and Light,Central New Jersey,RFC,438,"156,729",transmission interruption
-Fire/Load Shedding,2008,12/2/2008,4:30 a.m.,12/2/2008,7:00 a.m.,Midwest ISO,"St. Louis, Missouri",RFC,135,"53,000","wild fire, load shedding"
-Brush Fire/Shed Firm Load,2008,11/15/2008,9:39 a.m.,11/15/2008,10:10 a.m.,Los Angeles Department of Water and Power,City of Los Angeles,WECC,211,"115,500","wild fire, load shedding"
-Shed Firm Load,2008,11/11/2008,8:30 a.m.,11/11/2008,12:19 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,250,"261,000",load shedding
-Load Shedding,2008,11/7/2008,11:15 a.m.,11/7/2008,11:54 a.m.,California ISO,Southern California,WECC,430,"400,000",load shedding
-Load Shedding,2008,11/7/2008,11:13 a.m.,11/7/2008,11:54 a.m.,Southern California Edison,Goleta and Santa Barbara Areas of Southern California,WECC,250,"140,000",load shedding
-Load Shedding,2008,10/2/2008,2:50 p.m.,10/2/2008,9:50 a.m.,Dow Chemical Company,Louisiana,SERC,200,0,load shedding
-Electrical System Separation,2008,9/30/2008,2:02 p.m.,9/30/2008,2:05 p.m.,Pacific Gas and Electric Company,"Plumas County, California",WECC,30,"10,000",islanding
-Shed Firm Load,2008,9/22/2008,5:49 p.m.,9/22/2008,6:39 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,125,"43,600",load shedding
-Tropical Depression Ike,2008,9/15/2008,12:37 a.m.,9/19/2008,4:30 p.m.,Allegheny Power,Western Pennsylvania,RFC,546,"160,875","severe weather, hurricane/tropical storm"
-Wind Storm,2008,9/14/2008,5:00 p.m.,9/22/2008,5:11 p.m.,Ohio Edison Company,"Southern, Eastern, and Central Ohio",RFC,469,"564,728","severe weather, wind"
-High Winds,2008,9/14/2008,10:01 a.m.,9/21/2008,5:00 p.m.,Owensboro Municipal Utilities,"City of Owensboro, Kentucky",RFC,70,"18,000","severe weather, wind"
-Wind Storm,2008,9/14/2008,5:00 p.m.,9/22/2008,3:20 a.m.,Cleveland Electric Illuminating Company,Northeast Ohio,RFC,430,"245,164","severe weather, wind"
-Wind Storm,2008,9/14/2008,5:00 p.m.,9/19/2008,12:38 p.m.,Pennsylvania Electric Company,Western Pennsylvania,RFC,72,"124,596","severe weather, wind"
-Hurricane Ike,2008,9/14/2008,2:00 p.m.,9/17/2008,12:00 p.m.,Dayton Power and Light,Dayton Ohio Area,RFC,"1,000","95,000","severe weather, hurricane/tropical storm"
-Tropical Depression Ike,2008,9/14/2008,7:00 p.m.,9/14/2008,11:59 p.m.,Duquesne Light Company,Allegheny and Beaver Counties in Pennsylvania,RFC,600,"105,000","severe weather, hurricane/tropical storm"
-Hurricane Ike,2008,9/13/2008,10:24 a.m.,9/27/2008,2:40 p.m.,Louisiana Generating LLC,Southwest Louisiana,SERC,40,"50,000","severe weather, hurricane/tropical storm"
-Hurricane Ike,2008,9/12/2008,8:00 p.m.,9/27/2008,7:00 p.m.,Texas New Mexico Power Company,Galveston and Brazoria Counties,TRE,650,"113,247","severe weather, hurricane/tropical storm"
-Hurricane Ike,2008,9/12/2008,6:21 p.m.,10/1/2008,11:59 p.m.,CenterPoint Energy,Greater Houston-Galveston Metro Area,TRE,"8,087","2,142,678","severe weather, hurricane/tropical storm"
-Fuel Supply Deficiency,2008,9/8/2008,10:03 p.m.,9/9/2008,12:28 a.m.,"State of California, Department of Water Resources",A.D. Edmonston Pumping Plant,WECC,300,0,fuel supply emergency
-Tropical Storm Hanna,2008,9/6/2008,2:15 p.m.,9/6/2008,4:06 p.m.,Dominion-Virginia Power,North East North Carolina and Virginia,SERC,220,"64,463","severe weather, hurricane/tropical storm"
-Hurricane Gustav,2008,9/1/2008,10:30 a.m.,9/13/2008,7:22 p.m.,Louisiana Generating LLC,Primarily South and Central Louisiana,SERC,400,"150,000","severe weather, hurricane/tropical storm"
-Fuel Supply Curtailed,2008,8/31/2008,7:30 a.m.,9/19/2008,9:00 a.m.,Dow Chemical Company,"Plaquemine, Louisiana",SERC,200,0,fuel supply emergency
-Tropical Storm Fay,2008,8/24/2008,4:30 a.m.,8/24/2008,2:00 p.m.,Southern Company,Georgia and Alabama,SERC,110,"87,390","severe weather, hurricane/tropical storm"
-Fuel Supply Emergency-Low Coal Inventory Levels,2008,8/22/2008,12:00 p.m.,8/23/2008,12:00 p.m.,Mirant Chalk Point LLC,-,RFC,0,0,"fuel supply emergency, coal"
-Shed Firm Load,2008,8/18/2008,7:22 p.m.,8/19/2008,6:44 p.m.,Puerto Rico Electric Power Authority,North Part of Island,PR,225,"100,000",load shedding
-Lightning/Transmission Equipment Damage,2008,8/16/2008,5:23 a.m.,8/16/2008,7:30 a.m.,Lubbock Power and Light,City of Lubbock,TRE,153,"71,823","severe weather, thunderstorm, equipment failure"
-Shed Firm Load/Voltage Reduction,2008,8/16/2008,8:14 a.m.,8/16/2008,3:00 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,300,"200,000","load shedding, voltage reduction"
-Made Public Appeals,2008,8/15/2008,12:52 p.m.,8/15/2008,5:00 p.m.,Seattle City Light,Part of Seattle's Downtown,WECC,100,"8,000",public appeal
-Declared Energy Emergency Alert 1/Made Public Appeals,2008,8/9/2008,12:00 p.m.,8/9/2008,8:46 p.m.,XCEL,Texas Panhandle and Eastern New Mexico,SPP,0,0,"fuel supply emergency, public appeal"
-Severe Storms,2008,8/5/2008,3:00 a.m.,8/5/2008,9:50 a.m.,Northern Indiana Public Service Company,Northwest Indiana,RFC,0,"63,000","severe weather, storm"
-Severe Thunderstorms,2008,8/2/2008,8:00 p.m.,8/3/2008,5:30 a.m.,Southern Company,Georgia and Alabama,SERC,400,"131,115","severe weather, thunderstorm"
-Electric System Separation/Severe Lightning Storms,2008,7/24/2008,7:23 a.m.,7/24/2008,5:41 p.m.,ISO New England,"Bangor Hydro System, northern Maine",NPCC,180,"110,000","severe weather, thunderstorm, islanding"
-Hurricane Dolly,2008,7/23/2008,5:56 a.m.,7/31/2008,4:00 a.m.,American Electric Power,"Port Isabel, Harlingen, Weslaco, Pharr, San Benito, Mission, McAllen, Edinburg, Texas",TRE,703,"211,266","severe weather, hurricane/tropical storm"
-Storm,2008,7/21/2008,12:49 a.m.,7/22/2008,6:00 p.m.,MidAmercian Energy Company,"Sioux City, Carroll, Des Moines, Iowa City, and Davenport Iowa, Rock Island, Moline, and Surrounding Area of Illinois",MRO,170,"185,000","severe weather, storm"
-Unit Tripped,2008,7/10/2008,2:22 p.m.,7/10/2008,5:21 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,240,-,generator trip
-Heat Wave/Potential Fire Threat/Made Public Appeals,2008,7/7/2008,12:15 p.m.,7/10/2008,5:00 p.m.,California ISO,ISO Balancing Area,WECC,0,0,"severe weather, heat, public appeal"
-Fuel Supply Deficiency,2008,7/2/2008,4:00 p.m.,Ongoing,Ongoing,"State of California, Department of Water Resources",Restricted Hydroelectric Capability,WECC,-,-,fuel supply emergency
-Severe Weather,2008,7/2/2008,3:00 p.m.,7/6/2008,12:00 p.m.,Consumers Energy,Lower 2/3 of Michigan's Lower Peninsula,RFC,125,"239,663",severe weather
-Wild Land Fire,2008,7/2/2008,7:16 p.m.,7/2/2008,11:28 p.m.,California ISO,"Santa Barbara County, California, near Goleta",WECC,208,"200,000",wild fire
-Brush Fire/Lines Loss/Transmission Emergency Declared,2008,7/2/2008,7:36 p.m.,7/3/2008,1:10 a.m.,Southern California Edison,Goleta and Santa Barbara Areas of Southern California,WECC,119,"37,784",wild fire
-Unit Tripped,2008,7/1/2008,7:31 a.m.,7/1/2008,12:00 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,160,-,generator trip
-Severe Wind Storm,2008,6/27/2008,4:30 p.m.,6/27/2008,5:30 p.m.,Omaha Public Power District,"Omaha, Nebraska (Metro Area)",MRO,650,"126,000","severe weather, wind"
-Transmission Equipment Failure/Load Shedding,2008,6/23/2008,4:52 p.m.,6/23/2008,11:28 p.m.,Progress Energy Florida,"Pinellas County, Florida",FRCC,113,"32,593","load shedding, equipment failure"
-Electrical System Separation/Severe Lightning Storms,2008,6/21/2008,3:09 p.m.,6/21/2008,6:53 p.m.,Pacific Gas and Electric Company,"Near Rogers Flat, California",WECC,3,477,"severe weather, thunderstorm, islanding"
-Thunderstorms/Uncontrolled Loss of Load,2008,6/17/2008,8:40 p.m.,6/17/2008,11:00 p.m.,"Golden Spread Electric Cooperative, Inc","Texas Panhandle and Texas South Plains Regions, and Oklahoma Panhandle",TRE,276,"37,330","severe weather, thunderstorm, uncontrolled loss"
-Electrical System Separation/Severe Thunderstorms,2008,6/17/2008,8:35 p.m.,6/18/2008,1:55 a.m.,Southwestern Public Service Company,Southwestern Public Service Company Operating in the Panhandle of Texas and New Mexico,SPP,560,"18,000","severe weather, thunderstorm, islanding"
-Thunderstorms,2008,6/16/2008,4:15 p.m.,6/16/2008,11:19 p.m.,Dominion-Virginia Power,Northern Virginia,SERC,"800-1,000","115,000","severe weather, thunderstorm"
-Electrical System Separation,2008,6/15/2008,7:06 p.m.,6/15/2008,8:42 p.m.,Crawfordsville Electric Light and Power,"City of Crawfordsville, Indiana",RFC,57,"9,700",islanding
-Flooding and Uncontrolled Loss,2008,6/12/2008,3:30 p.m.,6/18/2008,4:00 p.m.,"Midwest ISO, ITC, ALTW",East Central Iowa,RFC,200,"21,000","severe weather, flooding, uncontrolled loss"
-Uncontrolled Loss,2008,6/11/2008,1:15 p.m.,6/11/2008,2:05 p.m.,New York Independent System Operator,New York State,NPCC,200,"61,000",uncontrolled loss
-Storm,2008,6/10/2008,11:00 p.m.,6/11/2008,9:00 a.m.,ISO New England,All Six New England States,NPCC,50,"60,000","severe weather, storm"
-Inadequate Electric Resources to Serve Load,2008,6/10/2008,2:00 p.m.,6/10/2008,6:00 p.m.,"Entergy Services, Inc.",Entergy System,SERC,300,19,load shedding
-Severe Storm,2008,6/10/2008,11:00 a.m.,6/13/2008,5:30 p.m.,National Grid,Upstate New York,NPCC,400,"68,000","severe weather, storm"
-Fire/Breaker Failure,2008,6/9/2008,2:52 p.m.,6/9/2008,8:25 p.m.,Public Service Electric and Gas,"Area Around West Orange Switching Station, New Jersey",RFC,215,"75,654",equipment failure
-Indequate Electric Resources to Serve Load,2008,6/9/2008,2:00 p.m.,6/9/2008,7:00 p.m.,"Entergy Services, Inc.",Entergy System,SERC,300,19,load shedding
-Severe Storm,2008,6/8/2008,6:00 p.m.,6/16/2008,11:30 p.m.,Detroit Edison Company-DTE,Southwestern Michigan (DECO Service Territory),RFC,500,"150,000","severe weather, storm"
-Lightning Storm,2008,6/6/2008,3:18 p.m.,6/12/2008,8:00 a.m.,Consumers Energy,Lower 2/3 of Michigan's Lower Peninsula,RFC,100,"358,000","severe weather, thunderstorm"
-Thunderstorms,2008,6/4/2008,3:04 p.m.,6/5/2008,9:30 p.m.,Dominion-Virginia Power,Northern Virginia,SERC,850,"253,800","severe weather, thunderstorm"
-Load Shedding/Voltage Reduction,2008,6/4/2008,3:14 p.m.,6/4/2008,3:46 p..m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,90,"100,948","load shedding, voltage reduction"
-Severe Weather,2008,6/3/2008,5:00 p.m.,6/7/2008,11:00 p.m.,Allegheny Power,"Maryland, West Virginia, Virginia",RFC,634,"157,168",severe weather
-Lightning Storm,2008,5/27/2008,2:02 p.m.,5/27/2008,3:52 p.m.,ISO New England,South West Connecticut,NPCC,130,"56,400","severe weather, thunderstorm"
-Severe Storm,2008,5/12/2008,12:01 a.m.,5/14/2008,12:00 a.m.,Atlantic City Electric,"Cape May, Cumberland, Gloucester, Salem, Camden, Atlantic, Burliington  Counties, New Jersey",RFC,55,"135,000","severe weather, storm"
-Electric System Separation,2008,5/11/2008,4:50 p.m.,5/11/2008,8:43 p.m.,Crawfordsville Electric Light and Power,"City of Crawfordsville, Indiana",RFC,47,"9,700",islanding
-Severe Thunderstorms,2008,5/11/2008,6:00 a.m.,5/12/2008,2:30 p.m.,Southern Company,Georgia,SERC,100,"80,539","severe weather, thunderstorm"
-Load Shedding,2008,5/8/2008,10:21 a.m.,5/8/2008,12:56 a.m.,California ISO,California,WECC,483,0,load shedding
-Major Storm,2008,3/15/2008,8:55 p.m.,3/16/2008,8:30 p.m.,Southern Company,Parts of Alabama and Georgia,SERC,200,"157,744","severe weather, storm"
-Windstorm,2008,3/8/2008,2:14 p.m.,3/8/2008,9:59 p.m.,Dominion-Virginia Power,Virginia and Eastern Part of North Carolina,SERC,210,"141,130","severe weather, wind"
-Thunderstorms,2008,3/4/2008,9:30 p.m.,3/4/2008,10:45 p.m.,Duke Energy Carolinas,North and South Carolina,SERC,300,"55,267","severe weather, thunderstorm"
-Transmission Equipment Failure,2008,2/26/2008,1:09 p.m.,2/26/2008,4:11 p.m.,Florida Power and Light,Primary Dade County Florida,FRCC,"3,200","584,384","equipment failure, transmission interruption"
-Under Frequency/Load Shedding,2008,2/26/2008,1:10 p.m.,2/26/2008,3:45 p.m.,Progress Energy Florida,"The entire PEF system was affected, including the following counties: Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osecola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia, Wakulla.",FRCC,500,"150,000",load shedding
-Thunderstorms,2008,2/26/2008,5:00 a.m.,2/26/2008,3:00 p.m.,Southern Company,Southern Service Area/Alabama and Georgia,SERC,484,"145,380","severe weather, thunderstorm"
-Under Frequency/Load Shedding,2008,2/26/2008,1:09 p.m.,2/26/2008,2:40 p.m.,Tampa Electric Company,Tampa Electric Service Territory,FRCC,318,"53,965",load shedding
-Under Frequency/Load Shedding,2008,2/26/2008,1:09 p.m.,2/26/2008,2:10 p.m.,Florida Municipal Power Agency,Various Cities in Florida,FRCC,140,"47,661",load shedding
-Shed Firm Load,2008,2/26/2008,1:09 p.m.,2/26/2008,1:47 p.m.,Seminole Electric Cooperative,FRCC Region-West Coast Florida,FRCC,120,"56,000",load shedding
-Electrical System Separation,2008,2/15/2008,3:06 p.m.,2/15/2008,7:36 p.m.,Pacific Gas and Electric Company,"Antioch, California",WECC,10,"10,008",islanding
-Load Shedding,2008,2/14/2008,8:15 a.m.,2/14/2008,10:46 a.m.,PacifiCorp,Utah,WECC,"2,818","74,031",load shedding
-Ice Storm,2008,2/13/2008,6:43 p.m.,2/14/2008,12:00 p.m.,ISO New England,State of Maine,NPCC,50,"50,462","severe weather, winter storm"
-Severe Weather,2008,2/10/2008,4:00 a.m.,2/12/2008,8:43 p.m.,Allegheny Power,"Southwestern Pennsylvania, West Virginia, Virginia, Maryland",RFC,412,"100,969",severe weather
-High Winds,2008,2/10/2008,6:02 p.m.,2/11/2008,4:00 a.m.,Duke Energy Carolinas,"Greenboro, North Carolina and I-40 Corridor",SERC,300,"50,718","severe weather, wind"
-High Winds,2008,2/10/2008,2:06 p.m.,2/10/2008,11:36 p.m.,Dominion-Virginia Power,Dominion Service Territory,SERC,170,"114,618","severe weather, wind"
-Electrical System Separation,2008,2/9/2008,11:59 a.m.,2/9/2008,3:33 p.m.,Pacific Gas and Electric Company,"Near Arnold, California",WECC,0,0,islanding
-High Winds,2008,1/30/2008,3:06 a.m.,2/1/2008,2:50 p.m.,Niagara Mohawk Power Corporation,"Western, New York",NPCC,50,"54,316","severe weather, wind"
-High Winds,2008,1/29/2008,11:23 p.m.,1/30/2008,12:48 a.m.,Dayton Power and Light,"South Metropolitan Areas of Dayton, OHio",RFC,380,"45,000","severe weather, wind"
-Winter Storm,2008,1/4/2008,4:00 a.m.,1/14/2008,5:00 p.m.,Pacific Gas and Electric Company,Northern California,WECC,500,"2,606,931","severe weather, winter storm"
-Severe Storm,2008,1/4/2008,7:47 a.m.,1/4/2008,4:30 p.m.,Sacramento Municipal Utility District,Sacramento County,WECC,300,"150,000","severe weather, storm"
-Winter Storm,2007,12/23/2007,5:30 a.m.,12/25/2007,6:07 p.m.,Consumers Energy,Lower 2/3 of Michigan Lower Peninsula,RFC,50,"134,288","severe weather, winter storm"
-Voltage Reduction,2007,12/11/2007,8:57 p.m.,12/11/2007,9:22 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,0,0,voltage reduction
-Ice Storm,2007,12/11/2007,4:00 a.m.,12/20/2007,3:30 p.m.,Westar Energy,Eastern half of the State of Kansas,MRO,500,"95,000","severe weather, winter storm"
-Voltage Reduction,2007,12/4/2007,2:16 p.m.,12/4/2007,5:53 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,0,0,voltage reduction
-Voltage Reduction/Made Public Appeal/Fuel Deficiency,2007,12/1/2007,6:04 p.m.,12/2/2007,10:00 p.m.,ISO New England,State of Maine,NPCC,0,0,"fuel supply emergency, public appeal, voltage reduction"
-Tropical Storm,2007,11/3/2007,6:00 p.m.,11/4/2007,6:00 a.m.,ISO New England,"Eastern Massachusetts, Rhode Island, Cape Cod",NPCC,100,"62,843","severe weather, hurricane/tropical storm"
-Brush Fire/Load Shedding,2007,10/26/2007,6:44 a.m.,10/26/2007,10:46 a.m.,Southern California Edison Company,Southern Califonia,WECC,280,"20,345","wild fire, load shedding"
-Load Shedding,2007,10/26/2007,6:44 a.m.,10/26/2007,10:43 a.m.,City of Riverside,"Riverside, California",WECC,240,"104,000",load shedding
-Brush Fire/Load Shedding,2007,10/22/2007,2:06 p.m.,10/22/2007,2:43 p.m.,San Diego Gas and Electric Company,"San Diego County, California",WECC,199,"68,780","wild fire, load shedding"
-Brush Fire/Load Shedding,2007,10/22/2007,2:05 p.m.,10/22/2007,2:22 p.m.,California Independent System Operator,Southern California,WECC,700,"300,000","wild fire, load shedding"
-Brush Fire/Load Shedding/Implemented Emergency Alert,2007,10/22/2007,2:01 p.m.,10/22/2007,2:22 p.m.,Southern California Edison Company,Southern California,WECC,451,"90,323","wild fire, load shedding"
-Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,2007,9/18/2007,5:15 a.m.,9/18/2007,6:30 a.m.,Great River Energy,"Minnesota, North Dakota, Manitoba",MRO,"8,000-10,000","GRE (1,900) Total 11,175","severe weather, storm, islanding, load shedding"
-Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,2007,9/18/2007,5:14 a.m.,9/18/2007,6:10 a.m.,Northern States Power Company,"Minnesota, Wisconsin, North Dakota, South Dakota and Michigan",MRO,16,"6,000","severe weather, storm, islanding, load shedding"
-Electrical System Separation/Load Shedding/ Implemented Emergency Alert/ Severe Storms,2007,9/18/2007,5:15 a.m.,9/18/2007,12:00 a.m.,Midwest ISO,"Manitoba, Minnesota, North Dakota, Portions of South Dakota and Wisconsin.  Midwest ISO's Market subregions: OTP, NSP, GRE, ALTW, MP",RFC,"8,000-10,000","11,175","severe weather, storm, islanding, load shedding"
-Electrical System Separation,2007,9/17/2007,7:01 p.m.,9/17/2007,7:48 p.m.,Crawfordsville Electric Light and Power,"City of Crawfordsville, Indiana",RFC,50,"9,600",islanding
-Shed Load,2007,8/29/2007,1:53 p.m.,8/29/2007,2:57 p.m.,Modesto Irrigation District,Modesto California and the Surrounding Areas,WECC,180,"26,000",load shedding
-Severe Thunderstorms,2007,8/19/2007,11:34 p.m.,8/20/2007,1:10 a.m.,Dominion Virginia Power,Central and Eastern Virginia,SERC,100,"58,500","severe weather, thunderstorm"
-Severe Weather,2007,8/16/2007,9:30 p.m.,8/17/2007,10:49 p.m.,Dominion Virginia Power,Virginia and Eastern North Carolina - Primarily in Central Virginia,SERC,200,"93,300",severe weather
-Declared Energy Emergency Alert2/Heat Wave,2007,8/14/2007,2:00 p.m.,8/14/2007,6:00 p.m.,American Electric Power (CSWS),"CSWS Control Area of Southwest Power Pool Parts of Oklahoma, Texas, Louisiana, Arkansas",SPP,20,-,"severe weather, heat"
-Severe Thunderstorms,2007,8/9/2007,2:53 p.m.,8/9/2007,4:11 p.m.,Duquesne Light Company,"Highland Area of Pittsburgh, Pennsylvania",RFC,90,"55,000","severe weather, thunderstorm"
-Major Storm,2007,7/19/2007,3:00 p.m.,7/22/2007,11:30 p.m.,DTE Energy  (Detroit Edison),Southwestern Region of Service Territory,RFC,-,"60,000","severe weather, storm"
-Major Storms,2007,7/19/2007,3:50 p.m.,7/19/2007,10:15 p.m.,Dominion - Virginia Power/North Carolina Power,"North, East and Central Virginia",SERC,72,"107,000","severe weather, storm"
-Severe Weather,2007,7/18/2007,6:00 p.m.,7/19/2007,2:00 a.m.,Exelon Corporation West ComEd,Northern Counties of Illinois,RFC,300,"135,000",severe weather
-Fire/Load Shedding,2007,7/16/2007,4:17 p.m.,7/16/2007,9:00 p.m.,PacifiCorp,"St. George, Utah",WECC,306,-,"wild fire, load shedding"
-Major Storms,2007,7/10/2007,11:00 a.m.,7/12/2007,6:00 a.m.,National Grid - NY,Eastern New York,NPCC,650,"300,000","severe weather, storm"
-Electrical Separation/Load Shedding/Made Public Appeal,2007,7/6/2007,5:18 p.m.,7/6/2007,6:20 p.m.,Idaho Power Company,Southeast Idaho and Eastern Oregon,WECC,60,0,"islanding, load shedding, public appeal"
-Severe Storm,2007,7/5/2007,7:00 p.m.,7/8/2007,7:00 a.m.,DTE Energy  (Detroit Edison),Southeastern Michigan,RFC,-,"69,000","severe weather, storm"
-Loss of Load,2007,6/29/2007,9:23 a.m.,6/29/2007,10:09 a.m.,Salt River Project,Metropolitan Phoenix Area,WECC,399,"98,700",load shedding
-Loss of Load,2007,6/27/2007,3:42 p.m.,6/27/2007,4:30 p.m.,New York Independent System Operator,New York State,NPCC,460,-,load shedding
-Lightning,2007,6/27/2007,3:41 p.m.,6/27/2007,4:30 p.m.,Consolidated Edison of NY Inc,"Northern Manhattan NY (Yorkville) and SW Bronx (Motthaven, Melrose, High Bridge Sections)",NPCC,460,"137,000","severe weather, thunderstorm"
-Load Shedding,2007,6/5/2007,10:56 a.m.,6/5/2007,11:51 a.m.,Idaho Power Company,Southwest Idaho and Eastern Oregon,WECC,424,"80,000",load shedding
-Fuel Supply Deficiency,2007,6/1/2007,1:00 p.m.,Ongoing,Ongoing,"State of California, Department of Water Resources",Restricted Hydroelectric Capability,WECC,-,-,fuel supply emergency
-Unit Tripped,2007,5/21/2007,1:48 p.m.,5/21/2007,4:50 p.m.,Crockett Cogeneraton,"San Franscisco Bay Area, California",WECC,140,-,generator trip
-Severe Storm,2007,5/16/2007,6:00 p.m.,5/19/2007,5:00 a.m.,Northeast Utilities,All of Connecticut,NPCC,-,"67,000","severe weather, storm"
-Severe Thunderstorms,2007,5/15/2007,3:00 p.m.,5/17/2007,7:00 a.m.,DTE Energy (Detroit Edison),Southeastern Michigan,RFC,500,"66,000","severe weather, thunderstorm"
-Unit Tripped,2007,5/14/2007,11:15 a.m.,5/14/2007,1:50 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,150,-,generator trip
-Unit Tripped,2007,5/10/2007,9:57 a.m.,5/10/2007,1:47 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,150,-,generator trip
-Severe Storms,2007,5/2/2007,1:30 p.m.,5/3/2007,8:00 p.m.,Oncor Electric Delivery Company,"North Texas, Dallas Fort Worth Metroplex and Surrounding Counties, South to Waco and North to Red River",ERCOT,-,"300,000","severe weather, storm"
-High Winds,2007,4/16/2007,2:04 p.m.,4/16/2007,7:03 p.m.,Dominion - Virginia Power/North Carolina,"North, East and Central Virginia/Parts of Northeast North Carolina",SERC,90,"242,000","severe weather, wind"
-Severe Thunderstorms,2007,4/16/2007,8:00 a.m.,4/16/2007,7:00 p.m.,Public Service New Hampshire Electric System Control Center,New Hampshire,NPCC,-,"102,568","severe weather, thunderstorm"
-HIgh Winds,2007,4/16/2007,11:00 a.m.,4/16/2007,7:00 p.m.,"Progress Energy - Carolinas, Inc.",North and South Carolina,SERC,-,"33,000","severe weather, wind"
-Severe Thunderstorms,2007,4/16/2007,2:00 p.m.,4/18/2007,5:00 p.m.,Baltimore Gas and Electric Company,Central Maryland - Baltimore City and surrounding Counties,RFC,160,"138,000","severe weather, thunderstorm"
-Heavy Snow Storm,2007,4/16/2007,10:14 a.m.,4/18/2007,10:18 p.m.,Central Maine Power Company,Southern and Coastal Maine,NPCC,-,"127,545","severe weather, winter storm"
-High Winds,2007,4/14/2007,9:00 a.m.,4/14/2007,11:00 a.m.,National Grid - New England,"Massachusetts, New Hampshire, Rhode Island",NPCC,65-80,"70,000","severe weather, wind"
-High Winds,2007,4/12/2007,12:32 a.m.,4/12/2007,9:02 p.m.,Los Angeles Department of Water and Power,"City of Los Angeles, California",WECC,200,"158,977","severe weather, wind"
-Trip of a Unit,2007,4/12/2007,9:09 a.m.,4/12/2007,11:23 a.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,130,-,generator trip
-Heavy Snow Storm,2007,4/5/2007,9:20 p.m.,4/6/2007,1:10 p.m.,Central Maine Power Company,Southern and Coastal Maine,NPCC,-,"117,142","severe weather, winter storm"
-Severe Thunderstorms,2007,3/31/2007,7:30 a.m.,3/31/2007,7:00 p.m.,CenterPoint Energy,"Houston, Texas",ERCOT,179,"67,000","severe weather, thunderstorm"
-Major Storm,2007,3/1/2007,9:40 p.m.,3/2/2007,11:30 p.m.,Southern Company,"Parts of Alabama, Mississippi, Georgia, Florida",SERC,95,"25,445","severe weather, storm"
-Winter Storm,2007,2/28/2007,12:45 a.m.,3/2/2007,8:45 p.m.,Pacific Gas and Electric Company,Northern California,WECC,110,"671,189","severe weather, winter storm"
-Ice Storm,2007,2/24/2007,4:00 p.m.,3/4/2007,12:57 a.m.,MidAmerican Energy Company,"NE quarter of State of Iowa and Rock Island, Illinois",MRO,210,"75,000","severe weather, winter storm"
-Ice Storm,2007,2/24/2007,7:23 p.m.,2/25/2007,12:47 a.m.,Midwest ISO,"Cedar Rapids, Iowa",RFC,750,"215,000","severe weather, winter storm"
-Ice Storm,2007,2/24/2007,6:00 p.m.,2/24/2007,11:47 p.m.,Alliant Energy,Central Iowa and Cedar Rapids areas,MRO,400,"140,000","severe weather, winter storm"
-Winter Storm,2007,2/13/2007,5:00 p.m.,2/17/2007,5:30 a.m.,Baltimore Gas and Electric Company,Central Maryland,RFC,400,"155,183","severe weather, winter storm"
-Ice/Wind Storm,2007,2/13/2007,2:00 p.m.,2/16/2007,12:00 a.m.,Duke Energy Midwest,Indiana and Southwest Ohio,RFC,250,"367,500","severe weather, winter storm"
-Major Windstorm,2007,1/16/2007,2:00 a.m.,1/17/2007,12:00 a.m.,Snohomish County PUD No. 1,"Snohomish County, Washington",WECC,260,"110,433","severe weather, wind"
-Ice Storm,2007,1/13/2007,7:30 a.m.,1/19/2007,4:00 p.m.,DTE Energy (Detroit Edison),Eastern and Lower Michigan,RFC,500,"129,607","severe weather, winter storm"
-Voltage Reduction,2007,1/5/2007,10:44 a.m.,1/5/2007,11:13 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,0,0,voltage reduction
-Severe Weather,2006,12/30/2006,10:25 p.m.,1/6/2006,2:25 p.m.,Nebraska Public Power District,"Gosper, Harlan, Franklin, Webster, Clay, Adams, Kearney, Phelps, Dawson, Buffalo, Hall, Hamilton, Sherman, Custer, Valley, Greeley, Howard, Merrick, York, Fillmore, Nance, Boone, Wheeler, Madison, Antelope, Pierce, Platte and Seward Counties in Central Nebraska",MRO,300-500,"15,000",severe weather
-Main Power Transformer Failure/Voltage Reduction/Fire,2006,12/29/2006,4:25 p.m.,12/31/2006,6:59 p.m.,Puerto Rico Electric Power Authority,North Part of the Island,PR,50,"18,386","wild fire, equipment failure, voltage reduction"
-Severe Weather,2006,12/26/2006,12:01 a.m.,12/31/2006,9:13 a.m.,Pacific Gas and Electric Company,Northern California,WECC,420,"850,068",severe weather
-Transmission Equipment/Fire,2006,12/16/2006,7:30 p.m.,12/17/2006,1:00 a.m.,Portland General Electric,"Oregon Counties:  Washington, Yamhill",WECC,350,"84,500","wild fire, transmission interruption"
-Wind Storm,2006,12/14/2006,12:01 a.m.,12/15/2006,8:00 a.m.,Seattle City Light,"City of Seattle, Washington",WECC,750,"175,000","severe weather, wind"
-High Winds,2006,12/14/2006,5:00 p.m.,12/16/2006,4:00 p.m.,Tacoma Power,"Greater Tacoma area (City of Fircrest, University Place, City of Lakeland) and portions of South Pierce County in State of Washington",WECC,280,"75,000","severe weather, wind"
-Wind Storm,2006,12/14/2006,9:44 a.m.,12/31/2006,2:34 p.m.,Bonneville Power Administration,"Oregon, Washington, Idaho, Montana",WECC,258,24,"severe weather, wind"
-Wind Storm,2006,12/14/2006,5:30 a.m.,12/20/2006,10:00 p.m.,Snohomish County PUD #1,"Snohomish County, Washington",WECC,360,"172,060","severe weather, wind"
-Wind/Snow Storm,2006,11/26/2006,1:00 p.m.,12/2/2006,6:00 p.m.,Snohomish County PUD #1,"Snohomish County, Washington",WECC,180,"63,992","severe weather, winter storm"
-High Winds,2006,11/15/2006,10:00 a.m.,11/15/2006,8:00 p.m.,CenterPoint Energy,System-wide greater Houston area,ERCOT,221,"83,000","severe weather, wind"
-Severe Weather,2006,11/15/2006,3:00 p.m.,11/15/2006,5:00 p.m.,Southern Company,Georgia,SERC,363,"109,000",severe weather
-High Winds,2006,11/15/2006,1:00 p.m.,11/19/2006,2:35 a.m.,Puget Sound Energy,"Whatcom and Skagit Counties, Washington",WECC,50,"50,000","severe weather, wind"
-Earthquakes,2006,10/15/2006,7:09 a.m.,10/15/2006,4:12 p.m.,"Maui Electric Company, Ltd.",Island of Maui,HECO,110,"59,886",earthquake
-Earthquakes,2006,10/15/2006,7:09 a.m.,10/16/2006,2:55 p.m.,"Hawaiian Electric Company, Inc.",Island of Oahu,HECO,"1,170","291,000",earthquake
-Snow Storm,2006,10/12/2006,5:48 p.m.,10/23/2006,12:00 a.m.,Niagara Mohawk Power Corporation,Western New York State,NPCC,600,"250,000","severe weather, winter storm"
-Snow Storm,2006,10/12/2006,8:00 p.m.,10/21/2006,11:00 p.m.,New York State Electric and Gas,Western New York State,NPCC,353,"120,000","severe weather, winter storm"
-Shed Firm Load,2006,10/2/2006,3:05 p.m.,10/2/2006,8:39 p.m.,Southern California Edison Company,"Newhall, San Frenando, Saugus, and Santa Clarita, California",WECC,308,"130,000",load shedding
-Severe Thunderstorms,2006,9/28/2006,8:08 p.m.,9/28/2006,10:10 p.m.,Dominion - Virginia Power/North Carolina Power,"North, Central and Eastern Virginia and Northern North Carolina",SERC,84,"56,500","severe weather, thunderstorm"
-Shed Firm Load/ Reduced Voltage,2006,9/14/2006,8:56 a.m.,9/14/2006,9:08 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,59,"34,716","load shedding, voltage reduction"
-Tropical Storm Ernesto,2006,9/1/2006,8:00 p.m.,9/4/2006,5:00 p.m.,Atlantic City Electric,Southern New Jersey Counties,RFC,400,"100,000","severe weather, hurricane/tropical storm"
-Tropical Storm Ernesto,2006,9/1/2006,6:41 a.m.,9/3/2006,3:25 p.m.,Dominion - Virginia Power/North Carolina Power,Virginia and North Carolina,SERC,500,"333,000","severe weather, hurricane/tropical storm"
-Tropical Storm Ernesto,2006,9/1/2006,10:00 a.m.,9/4/2006,2:00 p.m.,Delmarva Power,Southern Delmarva Peninsula,RFC,380,"105,000","severe weather, hurricane/tropical storm"
-Shed Firm Load/Reduced Voltage,2006,8/24/2006,9:58 p.m.,8/24/2006,11:25 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,180,"106,000","load shedding, voltage reduction"
-Severe Thunderstorm,2006,8/10/2006,8:00 p.m.,8/12/2006,12:00 p.m.,Idaho Power Company,Southwest Idaho and Eastern Oregon,WECC,80 to 100,"65,000","severe weather, thunderstorm"
-Made Public Appeals,2006,8/7/2006,1:00 p.m.,8/7/2006,6:00 p.m.,American Electric Power,"Tulsa, Oklahoma",RFC,75,Major Industrial Customer Load Reduction,public appeal
-Shed Firm Load,2006,8/3/2006,2:16 p.m.,8/3/2006,2:46 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,369,"227,480",load shedding
-Severe Thunderstorms,2006,8/2/2006,7:00 p.m.,8/3/2006,1:00 a.m.,National Grid,New England,NPCC,100-140,"77,000","severe weather, thunderstorm"
-Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,2006,7/24/2006,2:33 p.m.,7/24/2006,5:33 p.m.,Southern California Edison Company,California,WECC,414,Interruptible Tarriff 1-6 customers,"severe weather, heat"
-Widespread Heat Wave/Public Appeals Made,2006,7/22/2006,1:09 p.m.,7/27/2006,4:00 p.m.,Pacific Gas and Electric Company,California,WECC,200,"1,271,893","severe weather, heat, public appeal"
-Severe Storms (3) (Many customers experienced multiple outages.),2006,7/19/2006,6:00 p.m.,7/31/2006,8:00 a.m.,Ameren Corporation,Greater St. Louis Metropolitan area (Missouri and Illinois),MRO,"1,500","700,000 (peak)  2,500,000 (actual)","severe weather, storm"
-Load Reduction/Public Appeals Made,2006,7/19/2006,11:00 a.m.,7/19/2006,5:54 p.m.,Entergy Services Inc.,"Greater Little Rock, Arkansas",SERC,40,"8,000","load shedding, public appeal"
-Lightning Storms/Tripped Lines,2006,7/18/2006,8:07 p.m.,7/18/2006,10:32 p.m.,ISO New England,"Norwalk, Stamford, Connecticut",NPCC,0,0,"severe weather, thunderstorm"
-Severe Lightning Storms,2006,7/16/2006,2:00 p.m.,7/21/2006,12:00 a.m.,Consumers Energy,Middle 1/3 of Michigan Lower Peninsula,RFC,150,"315,000","severe weather, thunderstorm"
-Severe Thunderstorms,2006,7/4/2006,5:30 p.m.,7/4/2006,8:18 p.m.,Dominion - Virginia Power/North Carolina,Northern Virginia,RFC,335,"67,000","severe weather, thunderstorm"
-Severe Thunderstorms,2006,7/2/2006,6:39 p.m.,7/3/2006,12:31 a.m.,Dominion - Virginia Power/North Carolina,Northern Virginia,RFC,300,"75,000","severe weather, thunderstorm"
-Severe Thunderstorms,2006,6/22/2006,2:00 p.m.,6/27/2006,11:00 p.m.,American Electric Power,Ohio and Indiana,RFC,750,"195,000","severe weather, thunderstorm"
-Severe Thunderstorm,2006,6/11/2006,6:00 p.m.,6/11/2006,9:00 p.m.,Duke Energy Carolinas,"Charlotte, North Carolina Metropolitan area",SERC,70,"72,000","severe weather, thunderstorm"
-Load Shed,2006,6/1/2006,2:12 p.m.,6/1/2006,6:09 p.m.,Hawaiian Electric Company Inc.,Island of Oahu,HECO,120,"29,300",load shedding
-Severe Thunderstorms,2006,6/1/2006,6:30 p.m.,6/3/2006,2:00 p.m.,Baltimore Gas and Electric,Central Maryland,RFC,335,"70,000","severe weather, thunderstorm"
-Severe Weather,2006,5/25/2006,7:50 p.m.,5/27/2006,9:00 a.m.,"Duke Energy - Ohio, Kentucky, Indiana","Southwest Ohio, Northern Kentucky, Central Indiana",RFC,800,"210,000",severe weather
-Lightning Strike,2006,5/19/2006,3:13 p.m.,5/19/2006,10:30 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,133,-,"severe weather, thunderstorm"
-Load Shed,2006,5/4/2006,2:12 p.m.,5/4/2006,2:45 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,140,"94,639",load shedding
-Transmission Equipment Failure/Fire,2006,5/3/2006,3:30 p.m.,5/3/2006,9:35 p.m.,Pacific Gas and Electric Company,City of Bakersfield area,WECC,300,"55,655","equipment failure, wild fire"
-Lightning Storm,2006,4/29/2006,2:55 p.m.,4/29/2006,3:45 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,237,"164,105","severe weather, thunderstorm"
-Severe Weather,2006,4/21/2006,7:00 a.m.,4/21/2006,10:00 a.m.,CenterPoint Energy,System-wide greater Houston metro area,ERCOT,219,"82,000",severe weather
-Load Shed/Declared EECP,2006,4/17/2006,3:25 p.m.,4/17/2006,7:30 p.m.,Electric Reliability Council of Texas,ERCOT Region of Texas,ERCOT,"1,000","200,000",load shedding
-Load Shed/ Declared EECP,2006,4/17/2006,4:11 p.m.,4/17/2006,7:20 p.m.,TXU Electric Delivery Company,North and East Texas,ERCOT,380,"489,478",load shedding
-Load Shed/Made Public Appeals/Rolling Blackouts,2006,4/17/2006,4:20 p.m.,4/17/2006,6:30 p.m.,Austin Energy,State of Texas (all of Austin Energy),ERCOT,37- 40,"8,000 -10,000","load shedding, public appeal"
-Load Shed/Made Public Appeals/Rolling Blackouts,2006,4/17/2006,4:10 p.m.,4/17/2006,6:11 p.m.,CenterPoint Energy,System-wide greater Houston metro area (and across ERCOT),ERCOT,260,"68,000","load shedding, public appeal"
-Load Shed/Declared EECP,2006,4/17/2006,4:35 p.m.,4/17/2006,6:10 p.m.,American Electric Power,AEP Texas Central/Texas North,ERCOT,108,"51,404",load shedding
-Severe Weather/ Tornadoes,2006,4/8/2006,4:00 a.m.,4/8/2006,11:00 a.m.,Southern Company,North and Central Alabama and Northern Georgia areas,SERC,300,"115,589","severe weather, tornado"
-Voltage Reduction/Load Shed,2006,4/7/2006,8:43 a.m.,4/7/2006,9:29 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,116,"54,700","voltage reduction, load shedding"
-Major Storms/Tornadoes,2006,4/2/2006,9:00 p.m.,4/5/2006,4:25 a.m.,Cinergy PSI,Southern half of Indiana,RFC,"1,000","186,000","severe weather, tornado, storm"
-Severe Weather,2006,3/12/2006,8:30 p.m.,3/14/2006,12:00 p.m.,"City Water Light and Power (Springfield, Illinois)","Springfield, Illinois and vicinity",RFC,200,"65,400",severe weather
-Severe Winter Storm,2006,2/27/2006,6:25 p.m.,3/1/2006,2:30 p.m.,Pacific Gas and Electric Company,Northern and Central California,WECC,-,"160,000","severe weather, winter storm"
-Inadequate Electric Resources to Serve Load,2006,2/18/2006,8:50 a.m.,2/18/2006,4:09 p.m.,Public Service Company of Colorado,Colorado,WECC,428,-,load shedding
-Severe Weather,2006,2/17/2006,4:32 a.m.,2/17/2006,12:00 p.m.,National Grid - NY  (Niagara Mohawk Power Corp),Upstate New York,NPCC,250,"200,000",severe weather
-Fuel Supply - Deficiency Coal Rail Transportation Interruption,2006,2/16/2006,Ongoing,Ongoing,Ongoing,Missouri Basin Power District,North Dakota,MRO,"1,650",0,"fuel supply emergency, coal"
-Severe Thunderstorm/ Snow/Ice Storm,2006,2/16/2006,12:00 p.m.,2/20/2006,11:00 p.m.,Consumers Energy,"Muskegon, Michigan easterly to Bay City, Michigan",RFC,100,"252,089","severe weather, winter storm"
-Winter Snow/Ice Storm,2006,2/12/2006,2:00 a.m.,2/13/2006,7:00 a.m.,Delmarva Power,Entire Delmarva Power service territory,RFC,50,"58,000","severe weather, winter storm"
-Major Snow Storm,2006,2/12/2006,12:06 a.m.,2/14/2006,5:44 p.m.,Potomac Electric Power Company,"Washington DC, Montgomery and Prince Georges Counties MD",RFC,300,"60,000","severe weather, winter storm"
-Winter Snow/Ice Storm,2006,2/12/2006,2:00 a.m.,2/14/2006,4:00 p.m.,Atlantic City Electric,Entire Atlantic City Electric territory Southern New Jersey,RFC,80,"130,000","severe weather, winter storm"
-Severe Snow Storm,2006,2/12/2006,5:55 a.m.,2/12/2006,2:00 p.m.,Dominion - Virginia Power,Northern and Northwestern Virginia,RFC,250,"126,000","severe weather, winter storm"
-Major Snow Storm,2006,2/11/2006,9:00 p.m.,2/14/2006,11:00 p.m.,Baltimore Gas and Electric,Baltimore Metropolitan and Central Maryland,RFC,500,"180,000","severe weather, winter storm"
-Severe Windstorm,2006,2/4/2006,4:30 a.m.,2/8/2006,8:00  a.m.,Puget Sound Energy,Western Washington,WECC,--,"140,000","severe weather, wind"
-Strong Winds,2006,2/4/2006,1:34 a.m.,2/6/2006,12:01 a.m.,Snohomish County PUD #1,"Snohomish County, Washington",WECC,150,"123,827","severe weather, wind"
-Severe Storm,2006,1/18/2006,3:16 p.m.,1/18/2006,6:34 p.m.,Central Maine Power Company,Southern and Central Maine,NPCC,75,"63,000","severe weather, storm"
-High Winds,2006,1/14/2006,3:45 p.m.,1/16/2006,5:30 p.m.,PECO Energy,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,--,"142,315","severe weather, wind"
-Severe Storms,2005,12/31/2005,6:00 a.m.,1/5/2006,9:00 a.m.,Pacific Gas and Electric,Northern and Central California,WECC,800,"1,667,316","severe weather, storm"
-Ice Storm,2005,12/15/2005,4:00 a.m.,12/21/2005,5:00 p.m.,Duke Energy Company/Duke Power Control Area,Piedmont North Carolina and South Carolina,SERC,"3,500","683,000","severe weather, winter storm"
-Ice Storm,2005,12/15/2005,5:05 a.m.,12/16/2005,12:10  p.m.,Southern Company,Northeast Georgia,SERC,75,"52,659","severe weather, winter storm"
-Severe Thunderstorms,2005,11/12/2005,4:00 p.m.,11/14/2005,6:00 p.m.,We Energies,Southeast Wisconsin,MAIN,10,"48,000","severe weather, thunderstorm"
-Severe Thunderstorm,2005,11/12/2005,11:00 p.m.,11/14/2005,11:59 p.m.,Consumers Energy,Western and Central portions of Michigan's Lower Peninsula,ECAR,408,"272,355","severe weather, thunderstorm"
-Severe Thunderstorm,2005,11/6/2005,7:30 a.m.,11/11/2005,11:30  p.m.,DTE Energy,Southeast Michigan,ECAR,212,"118,000","severe weather, thunderstorm"
-Plant Tripped,2005,11/3/2005,6:47 p.m.,11/3/2005,7:00 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,136,--,equipment failure
-Hurricane Wilma,2005,10/24/2005,8:00 p.m.,11/2/2005,4:30 p.m.,Allegheny Power,"Maryland, North Central West Virginia, Southwestern Pennsylvania, and Northern Pennsylvania",MAAC,400,"303,795","severe weather, hurricane/tropical storm"
-Hurricane Wilma,2005,10/24/2005,4:00 a.m.,10/24/2005,4:00 p.m.,Seminole Electric Cooperative,"Florida counties of Collier, Charlotte and Lee",FRCC,280,"105,000","severe weather, hurricane/tropical storm"
-Hurricane Wilma,2005,10/24/2005,7:00 a.m.,11/10/2005,12:00 a.m.,Florida Municipal Power Agency,"South Florida - Cities of Key West, Clewiston, Lake Worth, and Ft. Pierce",FRCC,148,"84,900","severe weather, hurricane/tropical storm"
-Hurricane Wilma,2005,10/23/2005,8:00 p.m..,10/24/2005,2:00 p.m.,Florida Power and Light,"South Florida, Naples, Ft. Myers, Miami, Ft. Lauderdale, West Palm Beach and Martin county",FRCC,"10,000","3,241,437","severe weather, hurricane/tropical storm"
-Voltage Reduction/Load Shed,2005,10/22/2005,9:44 a.m.,10/22/2005,11:40 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,360,"85,682","voltage reduction, load shedding"
-Voltage Reduction/Load Shed,2005,10/18/2005,3:19 p.m.,10/18/2005,3: 37 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,460,"142,591","voltage reduction, load shedding"
-Voltage Reduction/Load Shed,2005,10/2/2005,5:40 p.m.,10/2/2005,5:54 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,312,"71,240","voltage reduction, load shedding"
-Hurricane Rita,2005,9/24/2005,10:00 a.m.,9/28/2005,6:00 p.m.,American Electric Power - CSWS,"Shreveport, Louisiana",ECAR,700,"190,000","severe weather, hurricane/tropical storm"
-Hurricane Rita,2005,9/24/2005,6:00 a.m.,10/2/2005,5:00 p.m.,TXU Electric Delivery Company,"Nacogdoches, Lufkin, Tyler, Jacksonville, Rusk, Paris, Commerce, Huntington",ERCOT,260,"200,000","severe weather, hurricane/tropical storm"
-Hurricane Rita,2005,9/23/2005,5:00 p.m.,9/24/2005,8:00 p.m.,CenterPoint Energy Houston Electric,"Houston, Texas and the surrounding suburban areas",ERCOT,"1,950","715,000","severe weather, hurricane/tropical storm"
-Hurricane Rita,2005,9/23/2005,1:06 p.m.,10/6/2005,2:30 p.m.,Louisiana Generating,West and Southwest Louisiana,SPP,350,"125,000","severe weather, hurricane/tropical storm"
-Hurricane Rita  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public Appeals for conservation were issued.,2005,9/23/2005,7:00 a.m.,9/28/2005,11:29 a.m.,City of Lakeland,"Lakeland, Florida",FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
-Hurricane Rita disrupted fuel supply in the Gulf of Mexico. Public Appeals for conservation were issued.,2005,9/22/2005,12:00 p.m.,9/29/2005,12:00 p.m.,Progress Energy Florida,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
-Severe Thunderstorm,2005,9/22/2005,11:00 a.m.,9/26/2005,11:30 p.m.,DTE Energy,Southeast Michigan,ECAR,366,"53,000","severe weather, thunderstorm"
-Hurricane Ophelia,2005,9/14/2005,3:00 p.m.,9/15/2005,3:00 p.m.,Progress Energy - Carolinas,Eastern North Carolina,SERC,215,"60,000","severe weather, hurricane/tropical storm"
-Severe Storm,2005,9/13/2005,6:30 p.m.,9/16/2005,8:00 p.m.,We Energies,Southeast Wisconsin and Fox Valley,MAIN,600,"110,000","severe weather, storm"
-Voltage Reduction/Load Shed,2005,9/13/2005,2:14 p.m.,9/13/2005,2:29 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,249,"66,480","voltage reduction, load shedding"
-Breaker protection cable accidentally cut,2005,9/12/2005,12:32 p.m.,9/12/2005,1:56 p.m.,Los Angeles Department of Water and Power,"Los Angeles, California",WECC,"2,578","900,000",equipment failure
-Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.,2005,8/31/2005,4:00 p.m.,9/12/2005,8:00 a.m.,Seminole Electric Cooperative,Member Service Territory is located in the West coast of Florida from Tallahassee to Fort Myers,FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
-Hurricane Katrina disrupted fuel supply in the Gulf of Mexico. Public appeals for conservation were issued.,2005,8/29/2005,7:10 a.m.,9/7/2005,3:00 p.m.,Progress Energy Florida,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency"
-Hurricane Katrina,2005,8/29/2005,1:10 a.m.,8/29/2005,12:42 p.m.,Louisiana Generating,East and Southeast Louisiana,SPP,300,"143,000","severe weather, hurricane/tropical storm"
-Hurricane Katrina  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public appeals for conservation were issued.,2005,8/29/2005,5:00 p.m.,9/8/2005,12:01 a.m.,City of Lakeland,"City of Lakeland, Florida",FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
-Hurricane Katrina,2005,8/29/2005,3:50 p.m.,9/10/2005,12:00 p.m.,Tennessee Valley Authority,"Alabama, Mississippi,  Tennessee",SERC,118.5,"323,529","severe weather, hurricane/tropical storm"
-Hurricane Katrina,2005,8/29/2005,7:10 a.m.,8/29/2005,10:00 p.m.,Southern Company,"Alabama, Florida, Mississippi",SERC,"5,120","512,049","severe weather, hurricane/tropical storm"
-CAISO initiated interruption of  interruptible and firm load due to declaration of  Transmission Emergency in Southern California,2005,8/25/2005,3:51 p.m.,8/25/2005,8:00 p.m.,Southern California Edison Company,Southern California,WECC,864,"409,000","load shedding, transmission interruption"
-CAISO determined there was  inadequate electric resources to serve load.  Public appeals and a shedding of interruptible and firm load occurred.,2005,8/25/2005,3:50 p.m.,8/25/2005,8:00 p.m.,California ISO,Southern California,WECC,-,-,"load shedding, public appeal"
-Severe Thunderstorms,2005,8/20/2005,2:15 p.m.,8/20/2005,4:21 p.m.,American Electric Power -AEP West,Northwest Arkansas,ECAR,650,"50,797","severe weather, thunderstorm"
-Voltage Reduction/Load Shed,2005,8/19/2005,7:37 p.m.,8/19/2005,8:15 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,259,"71,864","voltage reduction, load shedding"
-Plant Tripped,2005,8/8/2005,12:38 p.m.,8/8/2005,4:00 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,240,PG&E,equipment failure
-Voltage Reduction/Load Shed,2005,8/1/2005,10:28 a.m.,8/1/2005,10:47 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,175,"47,116","voltage reduction, load shedding"
-Severe Thunderstorm,2005,7/28/2005,8:30 p.m.,8/1/2005,5:00 p.m.,Duke Energy Company/Duke Power Control Area,Piedmont North and South Carolina,SERC,300,"52,200","severe weather, thunderstorm"
-CA ISO Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,7/22/2005,1:55 p.m.,7/22/2005,6:00 p.m.,Southern California Edison Company,Southern California,WECC,206,"133,900",load shedding
-CA ISO  Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,7/21/2005,2:39 p.m.,7/21/2005,5:30 p.m.,Southern California Edison Company,Southern California,WECC,197,"128,050",load shedding
-Hurricane Dennis,2005,7/10/2005,8:00 a.m.,7/12/2005,8:00 a.m.,Southern Company,"Alabama, Mississippi, Florida, Georgia",SERC,45,"228,102","severe weather, hurricane/tropical storm"
-Hurricane Dennis,2005,7/10/2005,12:53 p.m.,7/11/2005,5:33 PM,Alabama Electric Coop Inc.,Southwest Alabama and Western Panhandle of Florida,SERC,51.2,"50,000","severe weather, hurricane/tropical storm"
-Tropical Storm Cindy,2005,7/5/2005,9:00 p.m.,7/6/2005,9:00 a.m.,Entergy Corporation,"Southeast and Northeast, Louisiana including the New Orleans area",SPP,unknown,"287,000","severe weather, hurricane/tropical storm"
-Load Shedding,2005,7/2/2005,1:27 a.m.,7/2/2005,1:46 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,226,"132,290",load shedding
-Strong Thunderstorm/High Winds,2005,6/29/2005,4:30 p.m.,7/4/2005,11:30 p.m.,DTE Energy,Southeast  Michigan,ECAR,"1,000","114,711","severe weather, thunderstorm"
-Fuel Supply Deficiency/Coal Rail Transportation Interruption,2005,6/28/2005,11:30 a.m.,Ongoing,Ongoing,Public Service Company of Colorado,Denver Metropolitan area of Colorado,WECC,0,0,"fuel supply emergency, coal"
-Transmission Equipment Failure,2005,6/24/2005,8:37 p.m.,6/24/2005,11:06 p.m.,Commonwealth Edison Company,"Chicago, Illinois",MAIN,350,"51,500","equipment failure, transmission interruption"
-Voltage Reduction,2005,6/20/2005,11:16 a.m.,6/20/2005,5:15 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,35,"600,000",voltage reduction
-Strong Thunderstorm,2005,6/8/2005,4:00 a.m.,6/10/2005,10:00 p.m.,Xcel Energy - Northern States Power,Minnesota,MRO,50-100,"300,000","severe weather, thunderstorm"
-Strong Thunderstorm/High Winds,2005,6/5/2005,2:00 p.m.,6/10/2005,7:30 a.m.,DTE Energy,Southeast  Michigan,ECAR,"1,826","201,580","severe weather, thunderstorm"
-Strong Thunderstorm,2005,6/5/2005,2:00 p.m.,6/7/2005,6:00 p.m.,Consumers Energy,Portions of  the southern 2/3 of  Michigan's Lower Peninsula,ECAR,50-60,"105,000","severe weather, thunderstorm"
-Strong Thunderstorms,2005,5/29/2005,8:00 p.m.,5/30/2005,2:30 a.m.,CenterPoint Energy Houston Electric,"Houston, Texas and surrounding suburban areas",ERCOT,328,"123,000","severe weather, thunderstorm"
-Strong Thunderstorms,2005,5/8/2005,3:00 p.m.,5/8/2005,10:00 p.m.,CenterPoint Energy Houston Electric,"Houston, Texas and surrounding suburban areas",ERCOT,672,"243,000","severe weather, thunderstorm"
-Thunderstorms,2005,4/30/2005,8:00 a.m.,4/30/2005,10:00 a.m.,Southern Company,Alabama and Georgia,SERC,100,"51,808","severe weather, thunderstorm"
-Voltage Reduction,2005,4/23/2005,4:22 a.m.,4/23/2005,4:48 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,345,"116,552",voltage reduction
-Lightning Strike,2005,4/22/2005,3:51 p.m.,4/22/2005,3:59 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,126,PG&E,"severe weather, thunderstorm"
-Wind Storms,2005,3/8/2005,11:00 a.m.,3/8/2005,3:00 p.m.,Progress Energy - Carolinas,Eastern and Central North Carolina,SERC,180,"51,600","severe weather, wind"
-Generator Loss/Voltage Reduction,2005,2/18/2005,8:16 a.m.,2/18/2005,8:41 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,648,"372,288","equipment failure, voltage reduction"
-Load Shedding,2005,2/16/2005,1:26 p.m.,2/16/2005,1:43 p.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,325,"139,438",load shedding
-Ice Storm,2005,1/29/2005,4:00 p.m.,1/30/2005,3:00 p.m.,Georgia System Operations Corporation (GSOC),Georgia,SERC,65 to 100,"82,000","severe weather, winter storm"
-Ice Storm,2005,1/29/2005,10:00 a.m.,1/31/2005,10:00 a.m,Southern Company,Parts of Alabama and Georgia,SERC,100,"150,000","severe weather, winter storm"
-Voltage Reduction/Shed Load,2005,1/24/2005,6:38 a.m.,1/24/2005,6:50 a.m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,225,"70,717","load shedding, voltage reduction"
-Winter Storm,2005,1/7/2005,1:00 p.m.,1/10/2005,8:00 a.m.,Pacific Gas and Electric Company,Northern California,WECC,120,"442,000","severe weather, winter storm"
-Ice Storm,2005,1/5/2005,4:00 p.m.,1/13/2005,6:00 p.m.,Ohio Edison/First Energy,Akron and Mansfield areas,ECAR,250,"246,990","severe weather, winter storm"
-Winter Ice Storm,2005,1/5/2005,9:10 p.m.,1/16/2005,11:00 a.m.,American Electric Power,Indiana Michigan Region - Muncie District,ECAR,545,"114,791","severe weather, winter storm"
-Winter Storm,2005,1/4/2005,6:00 p.m.,1/14/2005,12:00 p.m.,Westar Energy,Eastern one third of the state of Kansas,SPP,200,"211,000","severe weather, winter storm"
-Severe Weather/Line Relayed,2004,12/27/2004,7:50 a.m.,12/27/2004,10:50 a.m.,Pacific Gas and Electric  Company,"Salinas, California and surrounding communities",WECC,100,"95,000",severe weather
-Major Freezing Rain and Ice Storm,2004,12/23/2004,3:37 a.m.,12/31/2004,11:00 p.m.,American Electric Power,Columbus District,ECAR,800,"359,171","severe weather, winter storm"
-High Winds,2004,12/1/2004,10:00 a.m.,12/2/2004,11:59 p.m.,Baltimore Gas & Electric Company,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,270,"122,000","severe weather, wind"
-Heavy Rain and Wind Storm,2004,12/1/2004,7:30 a.m.,12/2/2004,10:09 p.m.,Exelon (PECO Energy),"Bucks, Chester, Delaware, Montgomery, and Philadelphia Counties, Pennsylvania",MAAC,-,"105,312","severe weather, storm"
-Strong Thunderstorms,2004,11/24/2004,10:00 a.m.,11/24/2004,4:00 p.m.,Southern Company,Georgia,SERC,100,"83,450","severe weather, thunderstorm"
-Strong Thunderstorms,2004,11/23/2004,10:00 p.m.,11/24/2004,1:00 a.m.,CenterPoint Energy,"Houston, Texas and surrounding suburban areas",ERCOT,150,"119,000","severe weather, thunderstorm"
-"Heavy Snow, High Winds and Rain/Major Distribution System Interruption",2004,11/14/2004,4:55 a.m.,11/15/2004,1:31 a.m.,ISO New England ( For New Brunswick Electric Power Coordination of joint Reliability Coordinators and Control Area Functions),Nova Scotia,NPCC,165,"165,000","severe weather, winter storm"
-Fuel Supply Deficiency - Williams Company: Event for Trans Continental Gas Pipeline,2004,11/9/2004,2:15 p.m.,11/12/2004,1:07p.m.,Keyspan Energy,"Sayreville, New Jersey Long Island, New York",NPCC,0,0,"fuel supply emergency, natural gas"
-Severe Storm with High Wind Gusts,2004,10/30/2004,10:00 a.m.,11/1/2004,6:00 p.m.,Consumers Energy,"Lower peninsula of Michigan. following area:  Grand Rapids, Kalamazoo, Battle Creek, Greenville, Jackson,  Flint, Lansing, Allegan, Temperance",ECAR,60,"122,000","severe weather, wind"
-High Wind Gusts,2004,10/30/2004,12:30  p.m.,11/3/2004,1:50 p.m.,DTE Energy,Southeastern Michigan,ECAR,700,"159,870","severe weather, wind"
-Major Transmission Distribution System Interruption,2004,10/28/2004,3:27 p.m.,10/28/2004,6:08 p.m.,Pacific Gas and Electric  Company,"San  Jose, California",WECC,103,"59,458",transmission interruption
-Public Appeal/Breaker Failure and Fire,2004,10/25/2004,11:00 a.m.,10/26/2004,10:00 a.m.,Entergy Transmission,Southeastern Louisiana in the New Orleans area,SPP,-,-,"wild fire, public appeal"
-Severe Storm with High Wind Gusts,2004,10/18/2004,10:30 p.m.,10/20/2004,9:00 a.m.,Pacific Gas and Electric  Company,Northern California,WECC,140,"407,440","severe weather, wind"
-Breaker Failure,2004,10/10/2004,5:09 p.m.,10/11/2004,7:57 p.m.,Puerto Rico Electric Power Authority,Island Wide,PR,All,All,equipment failure
-Switch Error Concerning Breakers,2004,9/27/2004,4:06 p.m.,9/27/2004,4:12 p.m.,ISO New England ( For New Brunswick Electric Power Coordination of joint Reliability Coordinators and Control Area Functions),Nova Scotia,NPCC,-,-,equipment failure
-Hurricane Jeanne,2004,9/27/2004,8:00 a.m.,9/27/2004,2:00 p.m.,Southern Company,Georgia,SERC,854,"85,455","severe weather, hurricane/tropical storm"
-Hurricane Jeanne,2004,9/26/2004,3:00 a.m.,9/30/2004,9:00 a.m.,Orlando Utilities Commission,"Orlando and St. Cloud, Florida",FRCC,350,"110,000","severe weather, hurricane/tropical storm"
-Hurricane Jeanne,2004,9/26/2004,6:00 a.m.,10/1/2004,12:00 a.m.,Progress Energy Florida,"Florida counties of Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Hillsborough, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,"1,800","722,000","severe weather, hurricane/tropical storm"
-Hurricane Jeanne,2004,9/26/2004,2:00 a.m.,9/27/2004,12:00 a.m.,Tampa Electric Company,"Hillsborough, Pasco, and Polk County, Florida",FRCC,"1,250","285,300","severe weather, hurricane/tropical storm"
-Hurricane Jeanne,2004,9/25/2004,5:00 p.m.,9/26/2004,9:00 a.m.,Fort Pierce Utilities Authority,"City of Fort Pierce, Florida",FRCC,125,"26,000","severe weather, hurricane/tropical storm"
-Hurricane Ivan,2004,9/17/2004,4:30 a.m.,9/18/2004,12:00 p.m.,Progress Energy -Carolinas,Western North Carolina,SERC,400,"112,000","severe weather, hurricane/tropical storm"
-Hurricane Ivan,2004,9/16/2004,9:00 p.m.,9/20/2004,4:00 p.m.,Duke Energy Company/Duke Power Control Area,Western  North and South Carolina,SERC,500,"175,000","severe weather, hurricane/tropical storm"
-Hurricane Ivan,2004,9/16/2004,2:00 a.m.,9/16/2004,10:02 a.m.,Alabama Electric Cooperative,"Baldwin County, Alabama, Escambia County, Florida, Washington County, Alabama",SERC,263,"75,000","severe weather, hurricane/tropical storm"
-Hurricane Ivan,2004,9/15/2004,7:00 p.m.,9/17/2004,7:00 p.m.,Southern Company,"Florida, Mississippi, Alabama, Georgia",SERC,916,"916,316","severe weather, hurricane/tropical storm"
-Hurricane Frances,2004,9/7/2004,10:00 a.m.,9/8/2004,12:00 p.m.,Georgia System Operations,Georgia,SERC,"2,200","150,000","severe weather, hurricane/tropical storm"
-Hurricane Frances,2004,9/6/2004,1:00 p.m.,9/9/2004,12:00 p.m.,Southern Company,"Florida, Mississippi, Alabama, Georgia",SERC,"3,000","99,000","severe weather, hurricane/tropical storm"
-Hurricane Frances,2004,9/5/2004,1:00 a.m.,9/9/2004,5:00 p.m.,Orlando Utilities Commission,"Orlando, Florida",FRCC,200,"65,000","severe weather, hurricane/tropical storm"
-Hurricane Frances,2004,9/5/2004,7:00 a.m.,9/12/2004,12:00 a.m.,Progress Energy Florida,"Florida counties of Alachua, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,"2,100","832,898","severe weather, hurricane/tropical storm"
-Hurricane Frances,2004,9/4/2004,8:00 a.m.,9/6/2004,8:00 a.m.,Florida Power & Light,"West Palm Beach to Daytona Beach, Florida",FRCC,"6,000","2,775,093","severe weather, hurricane/tropical storm"
-Hurricane Frances,2004,9/4/2004,10:00 a.m.,9/12/2004,7:00 p.m.,Tampa Electric Company,"Hillsborough, Pasco, and Polk County, Florida",FRCC,"1,100","268,000","severe weather, hurricane/tropical storm"
-Hurricane Frances,2004,9/3/2004,9:00 p.m.,9/5/2004,2:00 p.m.,Fort Pierce Utilities Authority,"City of Fort Pierce, Florida",FRCC,125,"26,000","severe weather, hurricane/tropical storm"
-Tropical Storm Gaston,2004,8/30/2004,6:58 p.m.,8/31/2004,3:35 p.m.,Dominion - Virginia Power/North Carolina Power,"Central Virginia, South to North Carolina and East to the Virginia Coast",SERC,150,"99,816","severe weather, hurricane/tropical storm"
-Tropical Storm Gaston,2004,8/29/2004,9: 52 a.m.,8/29/2004,6:00 p.m.,South Carolina Electric and Gas Company,Southeastern South Carolina,SERC,450,"125,000","severe weather, hurricane/tropical storm"
-Major Transmission Line Tripped due to Lightning Strike,2004,8/20/2004,3:31 p.m.,8/20/2004,9:45 p.m.,National Grid USA,"Boston, Massachusetts",NPCC,"22,700","380,000","severe weather, thunderstorm, transmission interruption"
-Hurricane Charley,2004,8/14/2004,1:00 p.m.,8/14/2004,11:00 p.m.,Progress Energy - Carolinas,Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,500,"94,000","severe weather, hurricane/tropical storm"
-Hurricane Charley,2004,8/13/2004,4:43 p.m.,8/13/2004,8:24 p.m.,Tampa Electric Company,"Eastern Hillsborough, Polk County, Florida",FRCC,250,"78,000","severe weather, hurricane/tropical storm"
-Hurricane Charley,2004,8/13/2004,10:04 p.m.,8/14/2004,4:23 p.m.,"Utilities Commission, City of New Smyrna Beach","New Smyrna Beach, Florida",FRCC,65,"23,000","severe weather, hurricane/tropical storm"
-Hurricane Charley,2004,8/13/2004,8:00 a.m.,8/23/2004,12:00 a.m,Progress Energy Florida,"Florida counties of Hardee, Highlands, Lake, Orange, Osceola, Polk, Seminole, Volusia",FRCC,"1,300","502,000","severe weather, hurricane/tropical storm"
-Hurricane Charley,2004,8/13/2004,1:30 p.m.,8/13/2004,12 a.m.,Seminole Electric Cooperative,"Florida counties of Collier, Hendry, Glades, Highlands, Charlotte, Desoto, Lee, Hardee, and Polk",FRCC,700,"200,000","severe weather, hurricane/tropical storm"
-Hurricane Charley,2004,8/13/2004,3:00 p.m.,8/13/2004,11:00 p.m.,Florida Power & Light,West Coast of Florida from Naples to Charlotte and in an area centered around Daytona Beach,FRCC,"1,400","1,200,000","severe weather, hurricane/tropical storm"
-Two Large Units Tripped,2004,8/9/2004,8:23 a.m.,8/9/2004,11:10 a.m.,Puerto Rico Electric Power Authority,Whole Island of Puerto Rico,PR,451.7,"259,478",generator trip
-Fault at Barre Substation,2004,8/4/2004,12:46 p.m.,8/4/2004,1:50 p.m.,Southern California Edison,"Northwest Orange County, California",WECC,480,"182,000",equipment failure
-Severe Storm,2004,8/3/2004,9:00 p.m.,8/4/2004,7:00 a.m.,Commonwealth Edison,Northern Illinois,MAIN,127,"127,000","severe weather, storm"
-Unplanned Generator Outage/High Loads Made Public Appeal,2004,8/2/2004,10:00 a.m.,8/2/2004,8:00 p.m.,Entergy Transmission,Southeast Texas,SPP,-,-,"generator trip, public appeal, load shedding"
-Severe Storms,2004,7/25/2004,10:00 p.m.,7/25/2004,11:00 p.m.,Southern Company,"Georgia, Alabama, Florida panhandle, Southern Mississippi",SERC,61,"61,004","severe weather, storm"
-Public Appeal,2004,7/24/2004,3:45 p.m.,7/25/2004,9:00 p.m.,Entergy Transmission,Southwest Louisiana in the Acadia Parish vicinity,SPP,-,-,public appeal
-Severe Thunderstorms,2004,7/21/2004,5:30 p.m.,7/22/2004,7:00 p.m.,Commonwealth Edison,"Chicago, Illinois",MAIN,Approx. 200,"200,000","severe weather, thunderstorm"
-Wildfire,2004,7/20/2004,3:44 p.m.,7/20/2004,5:51 p.m.,Puerto Rico Electric Power Authority,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and Mayaguez",PR,200,"61,624",wild fire
-Wildfire/Shed Interruptible Load,2004,7/20/2004,2:26 p.m.,7/21/2004,2:00 a.m.,Southern California Edison,"Soledad Canyon near Acton, California",WECC,214,-,"wild fire, load shedding"
-Severe Thunderstorms,2004,7/13/2004,4:30 p.m.,7/17/2004,8:00 a. m.,Cinergy Services,"West, West Central and Southern Indiana",ECAR,600,"135,000","severe weather, thunderstorm"
-Units Tripped,2004,7/13/2004,1:34 p.m.,7/13/2004,5:15 p.m.,City of Tallahassee,"Leon  County, Florida",FRCC,283,"42,124",generator trip
-Severe Thunderstorms,2004,7/7/2004,1:30 p.m.,7/7/2004,11:54 p.m.,Dominion - Virginia Power/North Carolina Power,Central Virginia,SERC,120,"88,110","severe weather, thunderstorm"
-Fire/Substation Multiple Public Appeals,2004,7/6/2004,6:00 a.m.,8/9/2004,12:00 p.m.,Salt River Project,"Metro Phoenix, Arizona",WECC,-,-,"wild fire, public appeal"
-Fire/Substation Multiple Public Appeals,2004,7/6/2004,6:00 a.m.,8/9/2004,12:00 p.m.,Arizona Public Service,"Metro Phoenix, Arizona",WECC,-,-,"wild fire, public appeal"
-Thunderstorms,2004,6/23/2004,7:00 p.m.,6/23/2004,8:00 p.m.,Southern Company,Georgia and Alabama,SERC,50,"50,595","severe weather, thunderstorm"
-Load Shedding,2004,6/23/2004,5:35 p.m.,6/23/2004,7:10 p.m.,Idaho Power Company,Southern Idaho,WECC,157,"35,000",load shedding
-Fault on Line,2004,6/14/2004,7:41 a.m.,6/14/2004,2:39 p.m.,Arizona Public Service,"Phoenix, Arizona",WECC,200,"30,000",equipment failure
-Tornado,2004,6/12/2004,5:37 p.m.,6/12/2004,5:41 p.m.,Lincoln Electric System,"Lincoln, Nebraska",MAPP,428,"120,212","severe weather, tornado"
-Severe Thunderstorms with Strong Winds,2004,6/2/2004,2:35 a.m.,6/6/2004,6:00 p.m.,American Electric Power,"Tulsa, Oklahoma",ECAR,280,"56,874","severe weather, thunderstorm"
-Severe  Thunderstorms with Strong Winds,2004,6/2/2004,1:46 a.m.,6/7/2004,4:00 p.m.,American Electric Power,"Shreveport, Louisiana",ECAR,350,"59,057","severe weather, thunderstorm"
-Severe Storms with Strong Winds,2004,6/1/2004,5:00 p.m.,6/2/2004,1:00 a.m.,TXU Electric Delivery,"Collin, Dallas, Denton, Ellis, Parker, and Tarrant Counties, Texas",ERCOT,"1,900","500,000","severe weather, wind"
-Public Appeals,2004,5/28/2004,12:00 p.m.,5/31/2004,12:00 a.m.,Seminole Electric Cooperative,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,0,0,public appeal
-Public Appeals,2004,5/28/2004,12:00 p.m.,5/31/2004,12:00 a.m.,City of Tallahassee,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,0,0,public appeal
-Public Appeals,2004,5/28/2004,12:00 p.m.,5/31/2004,12:00 a.m.,Progress Energy Florida,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,0,0,public appeal
-Severe Thunderstorms,2004,5/21/2004,11:00 a.m.,5/26/2004,9:00 p.m.,American Electric Power,"Northern and Southern Michigan, AEP Fort Wayne/Michigan Region, Buchanan, Elkhart, New Buffalo, South Bend, St. Joseph, Three Rivers areas",ECAR,303,"122,600","severe weather, thunderstorm"
-Severe Thunderstorms,2004,5/21/2004,4:00  p.m.,5/24/2004,8:00 p.m.,Detroit Edison,Southeast Michigan,ECAR,630,"Greater than 250,000","severe weather, thunderstorm"
-Severe Thunderstorms,2004,5/21/2004,1:00 p.m.,5/25/2004,12:00 p.m.,Consumers Energy,"Lower peninsula of Michigan following cities:  Grand Rapids, Kalamazoo, Battle Creek, Jackson, Bronson, Jonesville, Flint",ECAR,200,"248,209","severe weather, thunderstorm"
-High Winds and Heavy Rains,2004,5/21/2004,5:30 a.m.,5/25/2004,12:00 a.m.,Allegheny Power,"Western Pennsylvania, Northern West Virginia, Western Maryland, Northern Virginia",MAAC,"60 at peak, total 162","94,366 at peak, total 225,353","severe weather, wind, rain"
-Severe Thunderstorms,2004,5/21/2004,2:00 a.m.,5/24/2004,12:00 a.m.,Ohio Edison,Akron and Youngstown areas,ECAR,"133 on 5/21/04  between 3:00 a.m. and 4:00  a.m., 392 on 5/21/04 between 4:00 p.m. and 5:00 p.m.","281,000","severe weather, thunderstorm"
-Severe Thunderstorms,2004,5/21/2004,2:00 a.m.,5/24/2004,12:00 a.m.,Cleveland Electric Illuminating Company,Cleveland area,ECAR,177 on 5/21/04 between 3:00 p.m. and 5:00 p.m.,"127,000","severe weather, thunderstorm"
-Strong Thunderstorms,2004,5/11/2004,3:30 p.m.,5/11/2004,6:00 p.m.,CenterPoint Energy,"Houston, Texas and surrounding suburban areas",ERCOT,Approx. 85,"62,500 at peak","severe weather, thunderstorm"
-Heat Storm,2004,5/3/2004,2:30 p.m.,5/3/2004,7:00 p.m.,Southern California Edison,Central and Southern California,WECC,662,Approx. 940,"severe weather, heat"
-Strong Winds,2004,4/27/2004,12:35 p.m.,4/30/2004,12:00 p.m.,Snohomish County PUD #1,Snohomish County Washington,WECC,Approx. 300,"187,000","severe weather, wind"
-Storm with High Winds,2004,4/12/2004,5:30 a.m.,4/12/2004,10:15 a.m.,Florida Power & Light,FPL's service territory mostly in Naples and Ft. Myers Florida,FRCC,250,"179,000","severe weather, wind"
-Thunderstorms,2004,4/10/2004,8:00 p.m.,4/11/2004,4:00 p.m.,CenterPoint Energy,"Houston, Texas and surrounding suburban areas",ERCOT,Approx. 100,"85,000 at peak","severe weather, thunderstorm"
-Faulty Switch,2004,3/17/2004,1:27 p.m.,3/17/2004,2:06 p.m.,El Paso Electric Company,"El Paso, Texas",WECC,Approx. 300,"Approx. 100,000",equipment failure
-Inadequate Resources,2004,3/8/2004,6:22 p.m.,3/8/2004,6:55 p.m.,Southern California Edison,Southern California not including LA,WECC,300,"Approx. 70,000",fuel supply emergency
-Severe Storm,2004,3/7/2004,6:30 p.m.,3/9/2004,8:00 a.m.,Duke Energy Company/Duke Power Control Area,North and South Carolina,SERC,"1,000","206,000","severe weather, storm"
-High Winds - Severe Storm,2004,3/4/2004,5:00 a.m.,3/16/2004,2:45 p.m.,Electric Reliability Council of Texas,North Texas,ERCOT,Less than 300,"63,000","severe weather, wind"
-Severe Storm,2004,2/26/2004,12:00 a.m.,2/26/2004,1:30 a.m.,Southern Company,Georgia,SERC,10,"47,165","severe weather, storm"
-Winter Storm,2004,2/25/2004,12:01 a.m.,2/26/2004,10:00 a.m.,Pacific Gas and Electric  Company,Northern California,WECC,240,"505,000","severe weather, winter storm"
-Lightning struck Intertie Breaker,2004,2/17/2004,2:25 p.m.,2/17/2004,11:57 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,220,PG&E,"severe weather, thunderstorm"
-Public Appeal to Reduce Load,2004,2/14/2004,8:00 p.m.,2/16/2004,12 noon,National Grid (Niagara Mohawk),"Lake Colby, Lake Placid, Tupper Lake",NPCC,Approx. 30,"18,600",public appeal
-Ice Storm,2004,2/5/2004,8:00 p.m.,2/9/2004,8:00 p.m.,Allegheny Power,"Maryland, Southeastern West Virginia, Northern Virginia, Northern Pennsylvania and South Central Pennsylvania",MAAC,60,"87,456","severe weather, winter storm"
-Ice Storm,2004,1/28/2004,1:09 p.m.,1/29/2004,5:00 a.m.,Baltimore Gas & Electric Company,"Harford County, Maryland",MAAC,Approx. 300,"Approx. 70,000","severe weather, winter storm"
-Ice Storm,2004,1/26/2004,2:00 p.m.,1/27/2004,8:00 p.m.,Southern Company,North and Central area of Georgia,SERC,Less than 150,"30,689","severe weather, winter storm"
-Ice Storm,2004,1/26/2004,10:00 a.m.,1/28/2004,8:00 a.m.,South Carolina Electric and Gas,Central South Carolina,SERC,500-700,"150,000","severe weather, winter storm"
-Ice Storm,2004,1/26/2004,4:00 p.m.,1/29/2004,6:30 a.m.,Progress Energy - Carolinas (Carolina Power and Light),Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,475,"9,905","severe weather, winter storm"
-Public Appeal to Reduce Load,2004,1/14/2004,6:00 a.m.,1/17/2004,12:00 noon,National Grid (New York),"Lake Placid/Saranac, New York",NPCC,100,"18,600",public appeal
-Public Appeal to Reduce Load,2004,1/8/2004,3:00 p.m.,1/10/2004,7:00 p.m.,National Grid (New York),"Lake Placid/Saranac, New York",NPCC,100,"18,600",public appeal
-Snow Storm,2004,1/7/2004,Midnight,1/10/2004,5:00 p.m.,Puget Sound Energy,King County,WECC,150,"145,000","severe weather, winter storm"
-Winter Storm,2004,1/1/2004,7:30 a.m.,1/2/2004,4:00 p.m.,Pacific Gas and Electric Company,Northern California,WECC,170,"263,000","severe weather, winter storm"
-Winter Storm,2003,12/28/2003,9:00 p.m.,1/1/2004,11:30 a.m.,Pacific Gas and Electric,Northern California,WECC,160,"241,000","severe weather, winter storm"
-Earthquake,2003,12/22/2003,11:15 a.m.,12/22/2003,11:16 a.m.,Pacific Gas and Electric,Central California Coast,WECC,220,"109,750",earthquake
-Cable Failure,2003,12/20/2003,3:51 p.m.,12/21/2003,11:45 p.m.,Pacific Gas and Electric,"San Francisco, California",WECC,150,"120,000",equipment failure
-Transmission Equipment,2003,12/5/2003,7:00 a.m.,12/5/2003,8:00 p.m.,Upper Peninsula Power Company,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,MAIN,14,2,transmission interruption
-Transmission Equipment,2003,12/5/2003,4:49 a.m.,12/5/2003,6:25 a.m.,City of Homestead,State of Florida - Dade County,FRCC,27,"16,500",transmission interruption
-Fault on 138 KV line,2003,12/4/2003,10:15 p.m.,12/8/2003,8:30 a.m.,Wisconsin Electric Power Company,Upper Peninsula of Michigan and Northeastern Wisconsin,MAIN,500,"36,000",equipment failure
-Fault on 138 KV line,2003,12/4/2003,10:34 p.m.,12/7/2003,8:30 a.m.,"American Transmission Company, LLC",Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,MAIN,650,6 (utilities),equipment failure
-High Winds,2003,12/4/2003,7:00 a.m.,12/8/2003,7:00 a.m.,Puget Sound Energy,Eastern portions of King County and Pierce County,WECC,175,"200,000 (Peak)","severe weather, wind"
-Major Wind Storm,2003,11/13/2003,11:00 a.m.,11/14/2003,7:30 a.m.,Potomac Electric Power Company (Pepco),"Washington, D.C., Montgomery County, Prince Georges County, Md",MAAC,Est. 400,"104,195 at 5:23 p.m. 11/13/03","severe weather, wind"
-Storm with High Winds,2003,11/13/2003,7:30 a.m.,11/14/2003,6:30 a.m.,Niagara Mohawk,New York,NPCC,Approx. 180,"50,280","severe weather, wind"
-High Winds,2003,11/13/2003,6:00 a.m.,11/16/2003,4:00 p.m.,Baltimore Gas and Electric,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Harford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,375,"110,000","severe weather, wind"
-Wind Storm,2003,11/13/2003,1:40 p.m.,11/13/2003,3:51 p.m.,Dominion-Virginia Power/ North Carolina Power,"Northern Virginia, Richmond area, Eastern Virginia",SERC,300,"67,000","severe weather, wind"
-High Winds,2003,11/12/2003,5:00 p.m.,11/12/2003,7:00 p.m.,Com Ed,Northern Illinois,MAIN,Est. 371.1,"51,000","severe weather, wind"
-Wind Storm,2003,11/12/2003,5:00 p.m.,11/16/2003,6:00 p.m.,Consumers Energy,Lower Michigan Peninsula,ECAR,75-90,"245,000","severe weather, wind"
-Storm with High Winds,2003,11/12/2003,6:00 p.m.,11/16/2003,5:00 p.m.,DTE Energy,Southeastern Michigan,ECAR,Est. 75,"160,000","severe weather, wind"
-Tornado,2003,11/5/2003,3:16 p.m.,11/5/2003,3:54 p.m.,PJM Interconnection,Maryland/Virginia border,MAAC,350,1,"severe weather, tornado"
-Hurricane Isabel,2003,9/18/2003,9:00 p.m.,9/21/2003,5:00 p.m.,PPL Electric Utilities,"All PPL including: Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",MAAC,"1,300","425,000","severe weather, hurricane/tropical storm"
-Hurricane Isabel,2003,9/18/2003,3:32 p.m.,9/19/2003,5:00 p.m.,Duke Energy Company/Duke Power Control Area,Triangle and Tridad (Greensboro _ High Point)  Areas North Carolina - Northern Region,SERC,500-700,"Under 50,000","severe weather, hurricane/tropical storm"
-Hurricane Isabel,2003,9/18/2003,2:00 p.m.,9/24/2003,12:00 a.m.,Allegheny Power,"Maryland, West Virginia, Virginia and Pennsylvania",MAAC,"3,085","237,366","severe weather, hurricane/tropical storm"
-Hurricane Isabel,2003,9/18/2003,11:45 a.m.,9/18/2003,12:00 a.m.,Carolina Power and Light,Eastern North Carolina,SERC,peak 1655,"peak 320,00 9/18/03 7:00 p.m.","severe weather, hurricane/tropical storm"
-Hurricane Isabel,2003,9/18/2003,12:00 noon,9/26/2003,10:50 p.m.,Baltimore Gas and Electric,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,"2,000","650,000","severe weather, hurricane/tropical storm"
-Hurricane Isabel,2003,9/18/2003,8:20 a.m.,9/29/2003,10:42 p.m.,Dominion-Virginia Power/ North Carolina Power,"North Eastern North Carolina, Eastern Central , and Northern Virginia",SERC,"6,512",1.8 million,"severe weather, hurricane/tropical storm"
-Transmission  Equipment,2003,9/7/2003,5:19 a.m.,9/7/2003,6:00 p.m.,"American Transmission Company, LLC",Upper Michigan Peninsula,MAIN,310,4 (industrial),transmission interruption
-Severe Thunderstorms,2003,8/26/2003,4:22 p.m.,8/31/2003,6:00 p.m.,Potomac Electric Power Company,"Washington, D.C.,  Montgomery County,  Prince Georges County, Maryland",MAAC,"1,500","153,000","severe weather, thunderstorm"
-Severe Thunderstorms,2003,8/26/2003,4:00 p.m.,8/29/2003,12:00 p.m.,Baltimore Gas and Electric,"Maryland: Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",MAAC,625,"93,000 at peak 133,000 cumulative","severe weather, thunderstorm"
-Unknown *,2003,8/14/2003,4:11 p.m.,8/15/2003,9:03 p.m.,Consolidated Edison Co of  New York,Entire Con Edison System (five boroughs of NYC and Westchester County),NPCC,"11,202","3,125,350",unknown
-Unknown *,2003,8/14/2003,4:10 p.m.,8/16/2003,8:27 p.m.,First Energy Corporation,"Northeast, Ohio",ECAR,"7,000","1,203,000",unknown
-Unknown *,2003,8/14/2003,4:09 p.m.,8/16/2003,7:00 a.m.,Detroit Edison,Southeastern Michigan including all of Detroit,ECAR,"11,000","2,100,000",unknown
-Unknown *,2003,8/14/2003,4:10 p.m.,8/18/2003,12:03 a.m.,New York Independent System Operator,New York State,NPCC,"22,934",unknown,unknown
-Unknown *,2003,8/14/2003,4:09 p.m.,8/16/2003,1:03 p.m.,Consumers Power,"Southern Lower  Michigan and small areas near Flint, Alma, Saginaw, and Lansing Michigan",ECAR,"1,007","101,000",unknown
-Breaker Closed,2003,7/28/2003,6:55 p.m.,7/28/2003,8:35 p.m.,Arizona Public Service,Arizona,WECC,440,"90,000",equipment failure
-Severe Storms,2003,7/21/2003,5:15 p.m.,7/24/2003,5:33 a.m.,PPL Electric Utilities,Pennsylvania,MAAC,500-1000,"185,000","severe weather, storm"
-Hurricane Claudette,2003,7/15/2003,8:24 a.m.,7/21/2003,10:30 a.m.,American Electric Power-Texas Central Company,Texas,ERCOT,230-300,"108,000","severe weather, hurricane/tropical storm"
-Severe Thunderstorms,2003,7/9/2003,5:14 p.m.,7/9/2003,7:09 p.m.,Dominion Virginia/North Carolina Power,Northern Central and Eastern Virginia,SERC,120,"80,000","severe weather, thunderstorm"
-Severe Thunderstorms,2003,7/8/2003,4:00 a.m.,7/11/2003,4:00 p.m.,American Electric Power,Ohio,ECAR,"11,000","134,500","severe weather, thunderstorm"
-Severe Storms,2003,7/5/2003,3:00 a.m.,7/5/2003,7:00 a.m.,Com Ed,Northern Illinois,MAIN,80,"130,000","severe weather, storm"
-Severe Storms,2003,7/4/2003,11:41 p.m.,7/6/2003,9:00 p.m.,Cinergy,"Southwest Ohio, portions of Indiana",ECAR,200,"55,142","severe weather, storm"
-Severe Thunderstorms,2003,7/4/2003,9:00 a.m.,7/6/2003,4:00 p.m.,Consumers Energy,Lower Michigan Peninsula,ECAR,75-90,"131,000","severe weather, thunderstorm"
-Severe Thunderstorms,2003,7/4/2003,6:00 a.m.,7/4/2003,10:00 a.m.,We Energies,Southeast Wisconsin,MAIN,150,"52,000","severe weather, thunderstorm"
-Unit Tripped,2003,7/2/2003,1:54 p.m.,7/2/2003,3:59 p.m.,Pacific Gas and Electric Company,Northern California,WECC,200,1,generator trip
-Breaker Failure,2003,7/1/2003,3:15 p.m.,7/1/2003,3:50 p.m.,Arizona Public Service Company,"Phoenix, Arizona",WECC,"1,000","47,000",equipment failure
-Public Appeal,2003,6/15/2003,3:12 p.m.,6/16/2003,5:00 p.m.,Idaho Power Company Control Area,Idaho,WECC,0,0,public appeal
-Interruption of Firm Power,2003,5/15/2003,2:52 a.m.,5/15/2003,3:29 a.m.,Center Point Energy,North Texas,ERCOT,476,"192,000",load shedding
-Flood,2003,5/15/2003,2:00 p.m.,6/16/2003,2:00 p.m.,We Energies,Upper Michigan Peninsula,MAIN,240,2,"severe weather, flooding"
-Severe Thunderstorms,2003,5/2/2003,8:00 p.m.,5/3/2003,8:00 a.m.,Southern Company,"Central Georgia, Alabama",SERC,130,"102,842 (Georgia); 12,897 (Alabama)","severe weather, thunderstorm"
-Severe Thunderstorms,2003,5/2/2003,5:00 p.m.,5/4/2003,12:00 p.m.,Duke Energy Company/Duke Power Control Area,"Piedmont, North and South Carolina",SERC,"1,500","139,000","severe weather, thunderstorm"
-Vandalism,2003,4/28/2003,3:41 p.m.,4/29/2003,12:00 p.m.,American Transmission Company,"County of Waukesha,  Wisconsin,  Town of Lisbon, Wisconsin",MAIN,0,0,vandalism
-Relaying Malfunction,2003,4/15/2003,11:00 a.m.,4/15/2003,2:06 p.m.,Bryan Texas Utilities,"Cities of Bryan, College Station and surrounding areas",ERCOT,212,"68,530",equipment failure
-Severe Storm,2003,4/4/2003,3:11 a.m.,4/5/2003,2:00 p.m.,Niagara Mohawk Power Corporation,"New York, Upstate New York",NPCC,200-250,"160,000","severe weather, storm"
-Ice Storm,2003,4/3/2003,7:00 p.m.,4/6/2003,5:00 p.m.,Consumers Energy,Lower Michigan Peninsula,ECAR,300,"425,000","severe weather, winter storm"
-Winter Ice Storm,2003,2/27/2003,11:32 a.m.,3/1/2003,8:00 a.m.,Duke Energy Corporation,"Piedmont, North Carolina",SERC,"1,000","over 340,000","severe weather, winter storm"
+Severe Weather,2010,12/12/2010,4:30 PM,12/15/2010,2:00 PM,Detroit Edison,Southeastern Michigan,RFC,210,"60,175",severe weather
+Electrical System Separation - Islanding,2010,12/3/2010,9:32 PM,12/4/2010,2:00 AM,Pacific Gas and Electric,California,WECC,22,"7,077",islanding
+Electrical System Separation - Islanding,2010,11/23/2010,2:01 PM,11/23/2010,6:12 PM,Pacific Gas and Electric,Northern California,WECC,22,"7,077",islanding
+Winter Storm,2010,11/22/2010,11:00 PM,11/24/2010,8:00 PM,Puget Sound Energy,"Puget Sound Region, Washington",WECC,420,"123,535","severe weather, winter storm"
+High Winds,2010,11/15/2010,11:00 PM,11/16/2010,2:14 AM,Puget Sound Energy,Puget Sound Region,WECC,391,"149,256","severe weather, wind"
+Electrical System Separation - Islanding,2010,11/6/2010,3:53 PM,11/6/2010,6:08 PM,Pacific Gas and Electric,Northern California,WECC,20,4,islanding
+Electrical System Separation-Islanding,2010,10/27/2010,5:16 PM,10/27/2010,5:27 PM,Pacific Gas and Electric,Northern California,WECC,16,"2,674",islanding
+Thunderstorms,2010,9/22/2010,5:38 PM,9/24/2010,11:30 PM,Allegheny Power,Western Pennsylvania,RFC,389,"82,861","severe weather, thunderstorm"
+Thunderstorms,2010,9/22/2010,4:08 PM,9/26/2010,12:00 AM,Duquesne Light Company,"City of Pittsburgh, Pennsylvania",RFC,156,"52,000","severe weather, thunderstorm"
+Severe Weather,2010,8/23/2010,5:50 PM,8/24/2010,9:30 AM,CenterPoint Energy,"Houston, Texas",TRE,746,"81,586",severe weather
+Severe Weather,2010,8/19/2010,6:00 PM,8/23/2010,3:30 PM,Detroit Edison,Southeastern Michigan,RFC,340,"80,000",severe weather
+Made Public Appeals,2010,8/12/2010,3:42 PM,8/12/2010,10:10 PM,Wisconsin Public Service,"City of Oshkosh, Wisconsin",MRO,30,"7,600",public appeal
+Thunderstorms,2010,8/4/2010,4:45 PM,8/7/2010,12:00 AM,Allegheny Power,"Western Pennsylvania, Northwestern and Central West Virginia",RFC,60,"11,186","severe weather, thunderstorm"
+Severe Weather,2010,7/25/2010,4:11 PM,7/25/2010,8:06 PM,Dominion - Virginia Power,Northern Virginia,SERC,900-1000,"81,000",severe weather
+Severe Weather,2010,7/25/2010,3:20 PM,7/27/2010,6:00 PM,Baltimore Gas and Electric,Central Maryland,RFC,480,"124,000",severe weather
+Severe Weather,2010,7/23/2010,7:30 PM,7/26/2010,6:30 PM,Detroit Edison,Southeastern Michigan,RFC,400,"82,000",severe weather
+Severe Weather,2010,7/15/2010,7:00 PM,7/19/2010,11:30 PM,Detroit Edison,Southeastern Michigan,RFC,540,"127,534",severe weather
+Made Public Appeal/Transmission Equipment Failure,2010,6/22/2010,3:34 PM,6/22/2010,7:00 PM,Entergy,West/Central Arkansas,SERC,84,"25,159","public appeal, equipment failure"
+Thunderstorms,2010,6/21/2010,1:48 PM,6/22/2010,8:31 PM,Duke Energy Midwest,"Cincinnati, OH",RFC,400,"50,636","severe weather, thunderstorm"
+Firm Load Shed,2010,6/7/2010,6:29 PM,6/8/2010,1:00 AM,Public Service Company of Colorado,Denver Metropolitan Area,WECC,300,"31,000",load shedding
+Firm Load Shed,2010,6/1/2010,10:03 PM,6/18/2010,12:30 AM,Southern Indiana Gas and Electric Company,Southwestern Indiana,RFC,500,1,load shedding
+Severe Thunderstorms,2010,4/16/2010,5:15 PM,4/18/2010,5:00 PM,Allegheny Power,Southwestern Pennsylvania,RFC,15,"120,000","severe weather, thunderstorm"
+Shed Firm Load,2010,3/31/2010,11:59 PM,4/1/2010,12:55 AM,San Diego Gas & Electric Company,San Diego and Orange Counties,WECC,324,"290,000",load shedding
+High Winds and Rain,2010,3/13/2010,12:00 PM,3/15/2010,8:05 PM,ISO New England,Connecticut,NPCC,50,"50,246","severe weather, wind, rain"
+High Winds and Rain,2010,3/13/2010,6:00 PM,3/20/2010,12:59 PM,Public Service Electric & Gas Company,"Southern, Central and Northern New Jersey",RFC,100,"360,000","severe weather, wind, rain"
+Winter Storm,2010,2/25/2010,11:53 PM,3/1/2010,4:40 PM,ISO New England,Southern Maine and New Hampshire,NPCC,510,"509,606","severe weather, winter storm"
+Winter Storm,2010,2/5/2010,6:48 PM,2/7/2010,5:00 PM,Duke Energy Carolinas,North and South Carolina,SERC,500,"74,000","severe weather, winter storm"
+Ice Storm/Electrical System Separation,2010,2/1/2010,2:32 PM,2/1/2010,5:00 PM,Western Farmers Electric Cooperative,Oklahoma,SPP,30,0,"severe weather, winter storm, islanding"
+Severe Storm,2010,1/19/2010,2:30 PM,1/20/2010,3:00 PM,San Diego Gas & Electric Company,San Diego and Orange Counties,WECC,"2,650","50,000","severe weather, storm"
+Tropical Storm Ida,2009,11/12/2009,6:45 PM,11/14/2009,4:25 AM,Dominion VirginiaPower/Dominion North Carolina Power,"Southeastern Virginia, Northeastern North Carolina",SERC,400,"335,000","severe weather, hurricane/tropical storm"
+High Winds,2009,10/13/2009,3:45 PM,10/13/2009,5:50 PM,Sacramento Municipal Utility District,Sacramento County,WECC,90,"94,000","severe weather, wind"
+Ice,2009,10/13/2009,12:48 PM,10/13/2009,2:34 PM,Western Area Power Administration Upper Great Plains Region,Southeastern Wyoming,WECC,101,"35,500","severe weather, winter storm"
+High Winds and Rain,2009,10/13/2009,4:00 PM,10/13/2009,10:30 PM,Pacific Gas and Electric,Northern California,WECC,350,"859,554","severe weather, wind, rain"
+Electrical System Separation,2009,8/29/2009,10:54 PM,8/29/2009,11:53 PM,Midwest ISO,Western South Dakota,RFC,84,0,islanding
+Thunderstorms,2009,8/21/2009,7:00 PM,8/22/2009,8:00 AM,CenterPoint Energy,Houston Metropolitan Service Area,TRE,544,"80,000","severe weather, thunderstorm"
+Thunderstorms,2009,8/12/2009,6:25 PM,8/12/2009,10:00 AM,CenterPoint Energy,South Houston Service Area,TRE,491,"73,000","severe weather, thunderstorm"
+Thunderstorms,2009,8/4/2009,1:45 PM,8/8/2009,9:00 PM,Duke Energy Midwest,"Northern Kentucky, Southwest Ohio and Central and South Indiana",RFC,50,"63,700","severe weather, thunderstorm"
+Severe Thunderstorm,2009,7/20/2009,9:50 PM,7/22/2009,7:00 PM,Public Service Company of Colorado,"Metro Denver (Jefferson, Adams, and Arapahoe Counties)",WECC,150,"86,058","severe weather, thunderstorm"
+Thunderstorms,2009,7/18/2009,7:00 PM,7/19/2009,9:00 PM,CenterPoint Energy,Houston/Galveston Area,TRE,51,"73,000","severe weather, thunderstorm"
+Electrical System Separation,2009,7/2/2009,10:44 PM,7/3/2009,1:25 AM,ISO New England,Northern Maine,NPCC,0,0,islanding
+Fuel Supply Deficiency,2009,6/16/2009,11:00 PM,6/17/2009,2:00 AM,California Department of Water Resources,A.D. Edmonston Pumping Plant,WECC,300,0,fuel supply emergency
+Severe Storm,2009,6/12/2009,4:37 PM,6/12/2009,6:53 PM,Tennessee Valley Authority,"Chattanooga, Tennessee",SERC,860,"136,000","severe weather, storm"
+Severe Thunderstorm,2009,6/12/2009,10:00 PM,6/13/2009,6:00 PM,Southern Company,Georgia,SERC,290,"102,000","severe weather, thunderstorm"
+Severe Thunderstorms,2009,6/9/2009,5:25 PM,6/11/2009,5:00 AM,Baltimore Gas and Electric,Central Maryland,RFC,60,"85,091","severe weather, thunderstorm"
+Electrical System Separation,2009,6/5/2009,1:38 PM,6/5/2009,8:18 PM,Pacific Gas and Electric,East of Fresno California,WECC,1,70,islanding
+Severe Thunderstorm,2009,5/8/2009,1:30 PM,5/14/2009,11:20 PM,Ameren,Southern Illinois,SERC,300,"68,800","severe weather, thunderstorm"
+High Winds,2009,4/27/2009,3:30 PM,4/28/2009,11:30 AM,CenterPoint Energy,Greater Houston/Galveston Area,TRE,176,"158,000","severe weather, wind"
+Substation Load Interruption,2009,4/23/2009,5:54 PM,4/23/2009,7:58 PM,Southern California Edison Co,"Communities of Elsinore, Hemet, Moreno Valley, Perris, San Jacinto and Temecula in the southeastern area of Riverside County in California",WECC,512,"280,000",load shedding
+Transmission Tripped,2009,4/23/2009,4:25 PM,4/24/2009,12:29 AM,Puget Sound Energy,"Skagit County, Washington",WECC,244,"93,300",equipment failure
+Severe Thunderstorms,2009,4/10/2009,10:00 PM,4/11/2009,2:30 AM,Southern Company,Alabama and Georgia,SERC,162,"56,679","severe weather, thunderstorm"
+Unit Shut Down,2009,3/8/2009,10:16 PM,3/8/2009,11:45 PM,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,150,-,unknown
+Made Public Appeals,2009,3/3/2009,10:00 PM,3/4/2009,8:17 PM,American Electric Power,"Roanoke, Virginia",RFC,350,0,public appeal
+Winter Storm,2009,3/1/2009,10:00 PM,3/3/2009,6:00 PM,Dominion Virginia/North Carolina Power,Central Virginia - Spotsylvania County,SERC,210,"217,000","severe weather, winter storm"
+Ice/Snow Storm,2009,3/1/2009,8:54 PM,3/3/2009,4:06 PM,Duke Energy Carolinas,Duke Energy Carolinas Balance Authority,SERC,"1,000","180,000","severe weather, winter storm"
+Severe Weather,2009,3/1/2009,4:00 PM,3/1/2009,11:25 PM,Southern Company,Southern Balancing Area,SERC,75,"60,000",severe weather
+Severe Thunderstorms,2009,2/11/2009,9:00 PM,2/12/2009,12:00 PM,Midwest ISO,Northern Kentucky and Southwest Ohio,RFC,350,"63,000","severe weather, thunderstorm"
+Ice Storm,2009,1/27/2009,9:00 PM,1/29/2009,6:00 AM,Arkansas Electric Cooperative Corporation,Northern Arkansas,SERC,600,"215,700","severe weather, winter storm"
+Ice Storm,2009,1/27/2009,9:45 PM,1/27/2009,10:17 PM,Tennessee Valley Autbority,TVA Service Territory,SERC,850,1,"severe weather, winter storm"
+Shed Load,2009,1/22/2009,4:00 PM,1/22/2009,5:05 PM,Crawfordsville Electric Light and Power,"Crawfordsville, Indiana",RFC,50,"9,700",load shedding
+Transmission Equipment Failure,2009,1/8/2009,11:46 PM,1/9/2009,11:25 AM,Florida Keys Electric Cooperative Assoc. Inc.,Florida Keys,FRCC,55,"31,000","equipment failure, transmission interruption"
+High Winds,2009,1/7/2009,5:00 PM,1/7/2009,8:05 PM,Duke Energy Carolinas,Piedmont of North and South Carolina,SERC,300,"70,000","severe weather, wind"
+Shed Firm Load,2008,12/30/2008,4:02 PM,12/30/2008,4:37 PM,Crawfordsville Electric Light and Power,"Crawfordsville, Indiana",RFC,41,"9,700",load shedding
+Lightning,2008,12/26/2008,6:13 PM,12/27/2008,5:00 PM,"Hawaiian Electric Company, Inc.","Island of Oahu, Hawaii",HI,"1,060","294,000","severe weather, thunderstorm"
+Declared Stage 1 Electric Emergency/Made Public Appeal,2008,12/13/2008,3:30 PM,12/21/2008,9:17 AM,Pacific Gas and Electric Company,Humboldt Area of California,WECC,5,0,public appeal
+Equipment Failure/Made Public Appeal,2008,12/10/2008,5:09 PM,12/10/2008,8:29 PM,PacifiCorp,Southern Oregon,WECC,32,3,"equipment failure, public appeal"
+Lines Loss/Transmission,2008,12/9/2008,5:27 PM,12/10/2008,4:12 AM,Jersey Central Power and Light,Central New Jersey,RFC,438,"156,729",transmission interruption
+Load Shedding,2008,10/2/2008,2:50 PM,10/2/2008,9:50 AM,Dow Chemical Company,Louisiana,SERC,200,0,load shedding
+Electrical System Separation,2008,9/30/2008,2:02 PM,9/30/2008,2:05 PM,Pacific Gas and Electric Company,"Plumas County, California",WECC,30,"10,000",islanding
+Shed Firm Load,2008,9/22/2008,5:49 PM,9/22/2008,6:39 AM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,125,"43,600",load shedding
+Wind Storm,2008,9/14/2008,5:00 PM,9/22/2008,5:11 PM,Ohio Edison Company,"Southern, Eastern, and Central Ohio",RFC,469,"564,728","severe weather, wind"
+Wind Storm,2008,9/14/2008,5:00 PM,9/22/2008,3:20 AM,Cleveland Electric Illuminating Company,Northeast Ohio,RFC,430,"245,164","severe weather, wind"
+Wind Storm,2008,9/14/2008,5:00 PM,9/19/2008,12:38 PM,Pennsylvania Electric Company,Western Pennsylvania,RFC,72,"124,596","severe weather, wind"
+Hurricane Ike,2008,9/14/2008,2:00 PM,9/17/2008,12:00 PM,Dayton Power and Light,Dayton Ohio Area,RFC,"1,000","95,000","severe weather, hurricane/tropical storm"
+Tropical Depression Ike,2008,9/14/2008,7:00 PM,9/14/2008,11:59 PM,Duquesne Light Company,Allegheny and Beaver Counties in Pennsylvania,RFC,600,"105,000","severe weather, hurricane/tropical storm"
+Hurricane Ike,2008,9/12/2008,8:00 PM,9/27/2008,7:00 PM,Texas New Mexico Power Company,Galveston and Brazoria Counties,TRE,650,"113,247","severe weather, hurricane/tropical storm"
+Hurricane Ike,2008,9/12/2008,6:21 PM,10/1/2008,11:59 PM,CenterPoint Energy,Greater Houston-Galveston Metro Area,TRE,"8,087","2,142,678","severe weather, hurricane/tropical storm"
+Fuel Supply Deficiency,2008,9/8/2008,10:03 PM,9/9/2008,12:28 AM,"State of California, Department of Water Resources",A.D. Edmonston Pumping Plant,WECC,300,0,fuel supply emergency
+Tropical Storm Hanna,2008,9/6/2008,2:15 PM,9/6/2008,4:06 PM,Dominion-Virginia Power,North East North Carolina and Virginia,SERC,220,"64,463","severe weather, hurricane/tropical storm"
+Fuel Supply Emergency-Low Coal Inventory Levels,2008,8/22/2008,12:00 PM,8/23/2008,12:00 PM,Mirant Chalk Point LLC,-,RFC,0,0,"fuel supply emergency, coal"
+Shed Firm Load,2008,8/18/2008,7:22 PM,8/19/2008,6:44 PM,Puerto Rico Electric Power Authority,North Part of Island,PR,225,"100,000",load shedding
+Made Public Appeals,2008,8/15/2008,12:52 PM,8/15/2008,5:00 PM,Seattle City Light,Part of Seattle's Downtown,WECC,100,"8,000",public appeal
+Declared Energy Emergency Alert 1/Made Public Appeals,2008,8/9/2008,12:00 PM,8/9/2008,8:46 PM,XCEL,Texas Panhandle and Eastern New Mexico,SPP,0,0,"fuel supply emergency, public appeal"
+Severe Thunderstorms,2008,8/2/2008,8:00 PM,8/3/2008,5:30 AM,Southern Company,Georgia and Alabama,SERC,400,"131,115","severe weather, thunderstorm"
+Unit Tripped,2008,7/10/2008,2:22 PM,7/10/2008,5:21 PM,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,240,-,generator trip
+Heat Wave/Potential Fire Threat/Made Public Appeals,2008,7/7/2008,12:15 PM,7/10/2008,5:00 PM,California ISO,ISO Balancing Area,WECC,0,0,"severe weather, heat, public appeal"
+Severe Weather,2008,7/2/2008,3:00 PM,7/6/2008,12:00 PM,Consumers Energy,Lower 2/3 of Michigan's Lower Peninsula,RFC,125,"239,663",severe weather
+Wild Land Fire,2008,7/2/2008,7:16 PM,7/2/2008,11:28 PM,California ISO,"Santa Barbara County, California, near Goleta",WECC,208,"200,000",wild fire
+Brush Fire/Lines Loss/Transmission Emergency Declared,2008,7/2/2008,7:36 PM,7/3/2008,1:10 AM,Southern California Edison,Goleta and Santa Barbara Areas of Southern California,WECC,119,"37,784",wild fire
+Severe Wind Storm,2008,6/27/2008,4:30 PM,6/27/2008,5:30 PM,Omaha Public Power District,"Omaha, Nebraska (Metro Area)",MRO,650,"126,000","severe weather, wind"
+Transmission Equipment Failure/Load Shedding,2008,6/23/2008,4:52 PM,6/23/2008,11:28 PM,Progress Energy Florida,"Pinellas County, Florida",FRCC,113,"32,593","load shedding, equipment failure"
+Electrical System Separation/Severe Lightning Storms,2008,6/21/2008,3:09 PM,6/21/2008,6:53 PM,Pacific Gas and Electric Company,"Near Rogers Flat, California",WECC,3,477,"severe weather, thunderstorm, islanding"
+Thunderstorms/Uncontrolled Loss of Load,2008,6/17/2008,8:40 PM,6/17/2008,11:00 PM,"Golden Spread Electric Cooperative, Inc","Texas Panhandle and Texas South Plains Regions, and Oklahoma Panhandle",TRE,276,"37,330","severe weather, thunderstorm, uncontrolled loss"
+Electrical System Separation/Severe Thunderstorms,2008,6/17/2008,8:35 PM,6/18/2008,1:55 AM,Southwestern Public Service Company,Southwestern Public Service Company Operating in the Panhandle of Texas and New Mexico,SPP,560,"18,000","severe weather, thunderstorm, islanding"
+Thunderstorms,2008,6/16/2008,4:15 PM,6/16/2008,11:19 PM,Dominion-Virginia Power,Northern Virginia,SERC,"800-1,000","115,000","severe weather, thunderstorm"
+Electrical System Separation,2008,6/15/2008,7:06 PM,6/15/2008,8:42 PM,Crawfordsville Electric Light and Power,"City of Crawfordsville, Indiana",RFC,57,"9,700",islanding
+Flooding and Uncontrolled Loss,2008,6/12/2008,3:30 PM,6/18/2008,4:00 PM,"Midwest ISO, ITC, ALTW",East Central Iowa,RFC,200,"21,000","severe weather, flooding, uncontrolled loss"
+Uncontrolled Loss,2008,6/11/2008,1:15 PM,6/11/2008,2:05 PM,New York Independent System Operator,New York State,NPCC,200,"61,000",uncontrolled loss
+Storm,2008,6/10/2008,11:00 PM,6/11/2008,9:00 AM,ISO New England,All Six New England States,NPCC,50,"60,000","severe weather, storm"
+Inadequate Electric Resources to Serve Load,2008,6/10/2008,2:00 PM,6/10/2008,6:00 PM,"Entergy Services, Inc.",Entergy System,SERC,300,19,load shedding
+Fire/Breaker Failure,2008,6/9/2008,2:52 PM,6/9/2008,8:25 PM,Public Service Electric and Gas,"Area Around West Orange Switching Station, New Jersey",RFC,215,"75,654",equipment failure
+Indequate Electric Resources to Serve Load,2008,6/9/2008,2:00 PM,6/9/2008,7:00 PM,"Entergy Services, Inc.",Entergy System,SERC,300,19,load shedding
+Severe Storm,2008,6/8/2008,6:00 PM,6/16/2008,11:30 PM,Detroit Edison Company-DTE,Southwestern Michigan (DECO Service Territory),RFC,500,"150,000","severe weather, storm"
+Lightning Storm,2008,6/6/2008,3:18 PM,6/12/2008,8:00 AM,Consumers Energy,Lower 2/3 of Michigan's Lower Peninsula,RFC,100,"358,000","severe weather, thunderstorm"
+Thunderstorms,2008,6/4/2008,3:04 PM,6/5/2008,9:30 PM,Dominion-Virginia Power,Northern Virginia,SERC,850,"253,800","severe weather, thunderstorm"
+Load Shedding/Voltage Reduction,2008,6/4/2008,3:14 PM,6/4/2008,3:46 p..m.,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,90,"100,948","load shedding, voltage reduction"
+Severe Weather,2008,6/3/2008,5:00 PM,6/7/2008,11:00 PM,Allegheny Power,"Maryland, West Virginia, Virginia",RFC,634,"157,168",severe weather
+Lightning Storm,2008,5/27/2008,2:02 PM,5/27/2008,3:52 PM,ISO New England,South West Connecticut,NPCC,130,"56,400","severe weather, thunderstorm"
+Electric System Separation,2008,5/11/2008,4:50 PM,5/11/2008,8:43 PM,Crawfordsville Electric Light and Power,"City of Crawfordsville, Indiana",RFC,47,"9,700",islanding
+Major Storm,2008,3/15/2008,8:55 PM,3/16/2008,8:30 PM,Southern Company,Parts of Alabama and Georgia,SERC,200,"157,744","severe weather, storm"
+Windstorm,2008,3/8/2008,2:14 PM,3/8/2008,9:59 PM,Dominion-Virginia Power,Virginia and Eastern Part of North Carolina,SERC,210,"141,130","severe weather, wind"
+Thunderstorms,2008,3/4/2008,9:30 PM,3/4/2008,10:45 PM,Duke Energy Carolinas,North and South Carolina,SERC,300,"55,267","severe weather, thunderstorm"
+Transmission Equipment Failure,2008,2/26/2008,1:09 PM,2/26/2008,4:11 PM,Florida Power and Light,Primary Dade County Florida,FRCC,"3,200","584,384","equipment failure, transmission interruption"
+Under Frequency/Load Shedding,2008,2/26/2008,1:10 PM,2/26/2008,3:45 PM,Progress Energy Florida,"The entire PEF system was affected, including the following counties: Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osecola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia, Wakulla.",FRCC,500,"150,000",load shedding
+Under Frequency/Load Shedding,2008,2/26/2008,1:09 PM,2/26/2008,2:40 PM,Tampa Electric Company,Tampa Electric Service Territory,FRCC,318,"53,965",load shedding
+Under Frequency/Load Shedding,2008,2/26/2008,1:09 PM,2/26/2008,2:10 PM,Florida Municipal Power Agency,Various Cities in Florida,FRCC,140,"47,661",load shedding
+Shed Firm Load,2008,2/26/2008,1:09 PM,2/26/2008,1:47 PM,Seminole Electric Cooperative,FRCC Region-West Coast Florida,FRCC,120,"56,000",load shedding
+Electrical System Separation,2008,2/15/2008,3:06 PM,2/15/2008,7:36 PM,Pacific Gas and Electric Company,"Antioch, California",WECC,10,"10,008",islanding
+Ice Storm,2008,2/13/2008,6:43 PM,2/14/2008,12:00 PM,ISO New England,State of Maine,NPCC,50,"50,462","severe weather, winter storm"
+High Winds,2008,2/10/2008,6:02 PM,2/11/2008,4:00 AM,Duke Energy Carolinas,"Greenboro, North Carolina and I-40 Corridor",SERC,300,"50,718","severe weather, wind"
+High Winds,2008,2/10/2008,2:06 PM,2/10/2008,11:36 PM,Dominion-Virginia Power,Dominion Service Territory,SERC,170,"114,618","severe weather, wind"
+High Winds,2008,1/29/2008,11:23 PM,1/30/2008,12:48 AM,Dayton Power and Light,"South Metropolitan Areas of Dayton, OHio",RFC,380,"45,000","severe weather, wind"
+Voltage Reduction,2007,12/11/2007,8:57 PM,12/11/2007,9:22 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,0,0,voltage reduction
+Voltage Reduction,2007,12/4/2007,2:16 PM,12/4/2007,5:53 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,0,0,voltage reduction
+Voltage Reduction/Made Public Appeal/Fuel Deficiency,2007,12/1/2007,6:04 PM,12/2/2007,10:00 PM,ISO New England,State of Maine,NPCC,0,0,"fuel supply emergency, public appeal, voltage reduction"
+Tropical Storm,2007,11/3/2007,6:00 PM,11/4/2007,6:00 AM,ISO New England,"Eastern Massachusetts, Rhode Island, Cape Cod",NPCC,100,"62,843","severe weather, hurricane/tropical storm"
+Brush Fire/Load Shedding,2007,10/22/2007,2:06 PM,10/22/2007,2:43 PM,San Diego Gas and Electric Company,"San Diego County, California",WECC,199,"68,780","wild fire, load shedding"
+Brush Fire/Load Shedding,2007,10/22/2007,2:05 PM,10/22/2007,2:22 PM,California Independent System Operator,Southern California,WECC,700,"300,000","wild fire, load shedding"
+Brush Fire/Load Shedding/Implemented Emergency Alert,2007,10/22/2007,2:01 PM,10/22/2007,2:22 PM,Southern California Edison Company,Southern California,WECC,451,"90,323","wild fire, load shedding"
+Electrical System Separation,2007,9/17/2007,7:01 PM,9/17/2007,7:48 PM,Crawfordsville Electric Light and Power,"City of Crawfordsville, Indiana",RFC,50,"9,600",islanding
+Shed Load,2007,8/29/2007,1:53 PM,8/29/2007,2:57 PM,Modesto Irrigation District,Modesto California and the Surrounding Areas,WECC,180,"26,000",load shedding
+Severe Thunderstorms,2007,8/19/2007,11:34 PM,8/20/2007,1:10 AM,Dominion Virginia Power,Central and Eastern Virginia,SERC,100,"58,500","severe weather, thunderstorm"
+Severe Weather,2007,8/16/2007,9:30 PM,8/17/2007,10:49 PM,Dominion Virginia Power,Virginia and Eastern North Carolina - Primarily in Central Virginia,SERC,200,"93,300",severe weather
+Declared Energy Emergency Alert2/Heat Wave,2007,8/14/2007,2:00 PM,8/14/2007,6:00 PM,American Electric Power (CSWS),"CSWS Control Area of Southwest Power Pool Parts of Oklahoma, Texas, Louisiana, Arkansas",SPP,20,-,"severe weather, heat"
+Severe Thunderstorms,2007,8/9/2007,2:53 PM,8/9/2007,4:11 PM,Duquesne Light Company,"Highland Area of Pittsburgh, Pennsylvania",RFC,90,"55,000","severe weather, thunderstorm"
+Major Storm,2007,7/19/2007,3:00 PM,7/22/2007,11:30 PM,DTE Energy  (Detroit Edison),Southwestern Region of Service Territory,RFC,-,"60,000","severe weather, storm"
+Major Storms,2007,7/19/2007,3:50 PM,7/19/2007,10:15 PM,Dominion - Virginia Power/North Carolina Power,"North, East and Central Virginia",SERC,72,"107,000","severe weather, storm"
+Severe Weather,2007,7/18/2007,6:00 PM,7/19/2007,2:00 AM,Exelon Corporation West ComEd,Northern Counties of Illinois,RFC,300,"135,000",severe weather
+Fire/Load Shedding,2007,7/16/2007,4:17 PM,7/16/2007,9:00 PM,PacifiCorp,"St. George, Utah",WECC,306,-,"wild fire, load shedding"
+Electrical Separation/Load Shedding/Made Public Appeal,2007,7/6/2007,5:18 PM,7/6/2007,6:20 PM,Idaho Power Company,Southeast Idaho and Eastern Oregon,WECC,60,0,"islanding, load shedding, public appeal"
+Severe Storm,2007,7/5/2007,7:00 PM,7/8/2007,7:00 AM,DTE Energy  (Detroit Edison),Southeastern Michigan,RFC,-,"69,000","severe weather, storm"
+Loss of Load,2007,6/27/2007,3:42 PM,6/27/2007,4:30 PM,New York Independent System Operator,New York State,NPCC,460,-,load shedding
+Lightning,2007,6/27/2007,3:41 PM,6/27/2007,4:30 PM,Consolidated Edison of NY Inc,"Northern Manhattan NY (Yorkville) and SW Bronx (Motthaven, Melrose, High Bridge Sections)",NPCC,460,"137,000","severe weather, thunderstorm"
+Unit Tripped,2007,5/21/2007,1:48 PM,5/21/2007,4:50 PM,Crockett Cogeneraton,"San Franscisco Bay Area, California",WECC,140,-,generator trip
+Severe Storm,2007,5/16/2007,6:00 PM,5/19/2007,5:00 AM,Northeast Utilities,All of Connecticut,NPCC,-,"67,000","severe weather, storm"
+Severe Thunderstorms,2007,5/15/2007,3:00 PM,5/17/2007,7:00 AM,DTE Energy (Detroit Edison),Southeastern Michigan,RFC,500,"66,000","severe weather, thunderstorm"
+Severe Storms,2007,5/2/2007,1:30 PM,5/3/2007,8:00 PM,Oncor Electric Delivery Company,"North Texas, Dallas Fort Worth Metroplex and Surrounding Counties, South to Waco and North to Red River",ERCOT,-,"300,000","severe weather, storm"
+High Winds,2007,4/16/2007,2:04 PM,4/16/2007,7:03 PM,Dominion - Virginia Power/North Carolina,"North, East and Central Virginia/Parts of Northeast North Carolina",SERC,90,"242,000","severe weather, wind"
+Severe Thunderstorms,2007,4/16/2007,2:00 PM,4/18/2007,5:00 PM,Baltimore Gas and Electric Company,Central Maryland - Baltimore City and surrounding Counties,RFC,160,"138,000","severe weather, thunderstorm"
+Heavy Snow Storm,2007,4/5/2007,9:20 PM,4/6/2007,1:10 PM,Central Maine Power Company,Southern and Coastal Maine,NPCC,-,"117,142","severe weather, winter storm"
+Major Storm,2007,3/1/2007,9:40 PM,3/2/2007,11:30 PM,Southern Company,"Parts of Alabama, Mississippi, Georgia, Florida",SERC,95,"25,445","severe weather, storm"
+Ice Storm,2007,2/24/2007,4:00 PM,3/4/2007,12:57 AM,MidAmerican Energy Company,"NE quarter of State of Iowa and Rock Island, Illinois",MRO,210,"75,000","severe weather, winter storm"
+Ice Storm,2007,2/24/2007,7:23 PM,2/25/2007,12:47 AM,Midwest ISO,"Cedar Rapids, Iowa",RFC,750,"215,000","severe weather, winter storm"
+Ice Storm,2007,2/24/2007,6:00 PM,2/24/2007,11:47 PM,Alliant Energy,Central Iowa and Cedar Rapids areas,MRO,400,"140,000","severe weather, winter storm"
+Winter Storm,2007,2/13/2007,5:00 PM,2/17/2007,5:30 AM,Baltimore Gas and Electric Company,Central Maryland,RFC,400,"155,183","severe weather, winter storm"
+Ice/Wind Storm,2007,2/13/2007,2:00 PM,2/16/2007,12:00 AM,Duke Energy Midwest,Indiana and Southwest Ohio,RFC,250,"367,500","severe weather, winter storm"
+Severe Weather,2006,12/30/2006,10:25 PM,1/6/2006,2:25 PM,Nebraska Public Power District,"Gosper, Harlan, Franklin, Webster, Clay, Adams, Kearney, Phelps, Dawson, Buffalo, Hall, Hamilton, Sherman, Custer, Valley, Greeley, Howard, Merrick, York, Fillmore, Nance, Boone, Wheeler, Madison, Antelope, Pierce, Platte and Seward Counties in Central Nebraska",MRO,300-500,"15,000",severe weather
+Main Power Transformer Failure/Voltage Reduction/Fire,2006,12/29/2006,4:25 PM,12/31/2006,6:59 PM,Puerto Rico Electric Power Authority,North Part of the Island,PR,50,"18,386","wild fire, equipment failure, voltage reduction"
+Transmission Equipment/Fire,2006,12/16/2006,7:30 PM,12/17/2006,1:00 AM,Portland General Electric,"Oregon Counties:  Washington, Yamhill",WECC,350,"84,500","wild fire, transmission interruption"
+High Winds,2006,12/14/2006,5:00 PM,12/16/2006,4:00 PM,Tacoma Power,"Greater Tacoma area (City of Fircrest, University Place, City of Lakeland) and portions of South Pierce County in State of Washington",WECC,280,"75,000","severe weather, wind"
+Wind/Snow Storm,2006,11/26/2006,1:00 PM,12/2/2006,6:00 PM,Snohomish County PUD #1,"Snohomish County, Washington",WECC,180,"63,992","severe weather, winter storm"
+Severe Weather,2006,11/15/2006,3:00 PM,11/15/2006,5:00 PM,Southern Company,Georgia,SERC,363,"109,000",severe weather
+High Winds,2006,11/15/2006,1:00 PM,11/19/2006,2:35 AM,Puget Sound Energy,"Whatcom and Skagit Counties, Washington",WECC,50,"50,000","severe weather, wind"
+Snow Storm,2006,10/12/2006,5:48 PM,10/23/2006,12:00 AM,Niagara Mohawk Power Corporation,Western New York State,NPCC,600,"250,000","severe weather, winter storm"
+Snow Storm,2006,10/12/2006,8:00 PM,10/21/2006,11:00 PM,New York State Electric and Gas,Western New York State,NPCC,353,"120,000","severe weather, winter storm"
+Shed Firm Load,2006,10/2/2006,3:05 PM,10/2/2006,8:39 PM,Southern California Edison Company,"Newhall, San Frenando, Saugus, and Santa Clarita, California",WECC,308,"130,000",load shedding
+Severe Thunderstorms,2006,9/28/2006,8:08 PM,9/28/2006,10:10 PM,Dominion - Virginia Power/North Carolina Power,"North, Central and Eastern Virginia and Northern North Carolina",SERC,84,"56,500","severe weather, thunderstorm"
+Tropical Storm Ernesto,2006,9/1/2006,8:00 PM,9/4/2006,5:00 PM,Atlantic City Electric,Southern New Jersey Counties,RFC,400,"100,000","severe weather, hurricane/tropical storm"
+Shed Firm Load/Reduced Voltage,2006,8/24/2006,9:58 PM,8/24/2006,11:25 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,180,"106,000","load shedding, voltage reduction"
+Severe Thunderstorm,2006,8/10/2006,8:00 PM,8/12/2006,12:00 PM,Idaho Power Company,Southwest Idaho and Eastern Oregon,WECC,80 to 100,"65,000","severe weather, thunderstorm"
+Made Public Appeals,2006,8/7/2006,1:00 PM,8/7/2006,6:00 PM,American Electric Power,"Tulsa, Oklahoma",RFC,75,Major Industrial Customer Load Reduction,public appeal
+Shed Firm Load,2006,8/3/2006,2:16 PM,8/3/2006,2:46 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,369,"227,480",load shedding
+Severe Thunderstorms,2006,8/2/2006,7:00 PM,8/3/2006,1:00 AM,National Grid,New England,NPCC,100-140,"77,000","severe weather, thunderstorm"
+Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,2006,7/24/2006,2:33 PM,7/24/2006,5:33 PM,Southern California Edison Company,California,WECC,414,Interruptible Tarriff 1-6 customers,"severe weather, heat"
+Widespread Heat Wave/Public Appeals Made,2006,7/22/2006,1:09 PM,7/27/2006,4:00 PM,Pacific Gas and Electric Company,California,WECC,200,"1,271,893","severe weather, heat, public appeal"
+Severe Storms (3) (Many customers experienced multiple outages.),2006,7/19/2006,6:00 PM,7/31/2006,8:00 AM,Ameren Corporation,Greater St. Louis Metropolitan area (Missouri and Illinois),MRO,"1,500","700,000 (peak)  2,500,000 (actual)","severe weather, storm"
+Lightning Storms/Tripped Lines,2006,7/18/2006,8:07 PM,7/18/2006,10:32 PM,ISO New England,"Norwalk, Stamford, Connecticut",NPCC,0,0,"severe weather, thunderstorm"
+Severe Lightning Storms,2006,7/16/2006,2:00 PM,7/21/2006,12:00 AM,Consumers Energy,Middle 1/3 of Michigan Lower Peninsula,RFC,150,"315,000","severe weather, thunderstorm"
+Severe Thunderstorms,2006,7/4/2006,5:30 PM,7/4/2006,8:18 PM,Dominion - Virginia Power/North Carolina,Northern Virginia,RFC,335,"67,000","severe weather, thunderstorm"
+Severe Thunderstorms,2006,7/2/2006,6:39 PM,7/3/2006,12:31 AM,Dominion - Virginia Power/North Carolina,Northern Virginia,RFC,300,"75,000","severe weather, thunderstorm"
+Severe Thunderstorms,2006,6/22/2006,2:00 PM,6/27/2006,11:00 PM,American Electric Power,Ohio and Indiana,RFC,750,"195,000","severe weather, thunderstorm"
+Severe Thunderstorm,2006,6/11/2006,6:00 PM,6/11/2006,9:00 PM,Duke Energy Carolinas,"Charlotte, North Carolina Metropolitan area",SERC,70,"72,000","severe weather, thunderstorm"
+Load Shed,2006,6/1/2006,2:12 PM,6/1/2006,6:09 PM,Hawaiian Electric Company Inc.,Island of Oahu,HECO,120,"29,300",load shedding
+Severe Thunderstorms,2006,6/1/2006,6:30 PM,6/3/2006,2:00 PM,Baltimore Gas and Electric,Central Maryland,RFC,335,"70,000","severe weather, thunderstorm"
+Severe Weather,2006,5/25/2006,7:50 PM,5/27/2006,9:00 AM,"Duke Energy - Ohio, Kentucky, Indiana","Southwest Ohio, Northern Kentucky, Central Indiana",RFC,800,"210,000",severe weather
+Lightning Strike,2006,5/19/2006,3:13 PM,5/19/2006,10:30 PM,Crockett Cogeneration,"San Francisco Bay area, California",WECC,133,-,"severe weather, thunderstorm"
+Load Shed,2006,5/4/2006,2:12 PM,5/4/2006,2:45 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,140,"94,639",load shedding
+Transmission Equipment Failure/Fire,2006,5/3/2006,3:30 PM,5/3/2006,9:35 PM,Pacific Gas and Electric Company,City of Bakersfield area,WECC,300,"55,655","equipment failure, wild fire"
+Lightning Storm,2006,4/29/2006,2:55 PM,4/29/2006,3:45 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,237,"164,105","severe weather, thunderstorm"
+Load Shed/Declared EECP,2006,4/17/2006,3:25 PM,4/17/2006,7:30 PM,Electric Reliability Council of Texas,ERCOT Region of Texas,ERCOT,"1,000","200,000",load shedding
+Load Shed/ Declared EECP,2006,4/17/2006,4:11 PM,4/17/2006,7:20 PM,TXU Electric Delivery Company,North and East Texas,ERCOT,380,"489,478",load shedding
+Load Shed/Made Public Appeals/Rolling Blackouts,2006,4/17/2006,4:20 PM,4/17/2006,6:30 PM,Austin Energy,State of Texas (all of Austin Energy),ERCOT,37- 40,"8,000 -10,000","load shedding, public appeal"
+Load Shed/Made Public Appeals/Rolling Blackouts,2006,4/17/2006,4:10 PM,4/17/2006,6:11 PM,CenterPoint Energy,System-wide greater Houston metro area (and across ERCOT),ERCOT,260,"68,000","load shedding, public appeal"
+Load Shed/Declared EECP,2006,4/17/2006,4:35 PM,4/17/2006,6:10 PM,American Electric Power,AEP Texas Central/Texas North,ERCOT,108,"51,404",load shedding
+Major Storms/Tornadoes,2006,4/2/2006,9:00 PM,4/5/2006,4:25 AM,Cinergy PSI,Southern half of Indiana,RFC,"1,000","186,000","severe weather, tornado, storm"
+Severe Weather,2006,3/12/2006,8:30 PM,3/14/2006,12:00 PM,"City Water Light and Power (Springfield, Illinois)","Springfield, Illinois and vicinity",RFC,200,"65,400",severe weather
+Severe Winter Storm,2006,2/27/2006,6:25 PM,3/1/2006,2:30 PM,Pacific Gas and Electric Company,Northern and Central California,WECC,-,"160,000","severe weather, winter storm"
+Severe Thunderstorm/ Snow/Ice Storm,2006,2/16/2006,12:00 PM,2/20/2006,11:00 PM,Consumers Energy,"Muskegon, Michigan easterly to Bay City, Michigan",RFC,100,"252,089","severe weather, winter storm"
+Major Snow Storm,2006,2/11/2006,9:00 PM,2/14/2006,11:00 PM,Baltimore Gas and Electric,Baltimore Metropolitan and Central Maryland,RFC,500,"180,000","severe weather, winter storm"
+Severe Storm,2006,1/18/2006,3:16 PM,1/18/2006,6:34 PM,Central Maine Power Company,Southern and Central Maine,NPCC,75,"63,000","severe weather, storm"
+High Winds,2006,1/14/2006,3:45 PM,1/16/2006,5:30 PM,PECO Energy,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,--,"142,315","severe weather, wind"
+Severe Thunderstorms,2005,11/12/2005,4:00 PM,11/14/2005,6:00 PM,We Energies,Southeast Wisconsin,MAIN,10,"48,000","severe weather, thunderstorm"
+Severe Thunderstorm,2005,11/12/2005,11:00 PM,11/14/2005,11:59 PM,Consumers Energy,Western and Central portions of Michigan's Lower Peninsula,ECAR,408,"272,355","severe weather, thunderstorm"
+Plant Tripped,2005,11/3/2005,6:47 PM,11/3/2005,7:00 PM,Crockett Cogeneration,"San Francisco Bay area, California",WECC,136,--,equipment failure
+Hurricane Wilma,2005,10/24/2005,8:00 PM,11/2/2005,4:30 PM,Allegheny Power,"Maryland, North Central West Virginia, Southwestern Pennsylvania, and Northern Pennsylvania",MAAC,400,"303,795","severe weather, hurricane/tropical storm"
+Hurricane Wilma,2005,10/23/2005,8:00 PM.,10/24/2005,2:00 PM,Florida Power and Light,"South Florida, Naples, Ft. Myers, Miami, Ft. Lauderdale, West Palm Beach and Martin county",FRCC,"10,000","3,241,437","severe weather, hurricane/tropical storm"
+Voltage Reduction/Load Shed,2005,10/18/2005,3:19 PM,10/18/2005,3:37 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,460,"142,591","voltage reduction, load shedding"
+Voltage Reduction/Load Shed,2005,10/2/2005,5:40 PM,10/2/2005,5:54 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,312,"71,240","voltage reduction, load shedding"
+Hurricane Rita,2005,9/23/2005,5:00 PM,9/24/2005,8:00 PM,CenterPoint Energy Houston Electric,"Houston, Texas and the surrounding suburban areas",ERCOT,"1,950","715,000","severe weather, hurricane/tropical storm"
+Hurricane Rita,2005,9/23/2005,1:06 PM,10/6/2005,2:30 PM,Louisiana Generating,West and Southwest Louisiana,SPP,350,"125,000","severe weather, hurricane/tropical storm"
+Hurricane Rita disrupted fuel supply in the Gulf of Mexico. Public Appeals for conservation were issued.,2005,9/22/2005,12:00 PM,9/29/2005,12:00 PM,Progress Energy Florida,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
+Hurricane Ophelia,2005,9/14/2005,3:00 PM,9/15/2005,3:00 PM,Progress Energy - Carolinas,Eastern North Carolina,SERC,215,"60,000","severe weather, hurricane/tropical storm"
+Severe Storm,2005,9/13/2005,6:30 PM,9/16/2005,8:00 PM,We Energies,Southeast Wisconsin and Fox Valley,MAIN,600,"110,000","severe weather, storm"
+Voltage Reduction/Load Shed,2005,9/13/2005,2:14 PM,9/13/2005,2:29 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,249,"66,480","voltage reduction, load shedding"
+Breaker protection cable accidentally cut,2005,9/12/2005,12:32 PM,9/12/2005,1:56 PM,Los Angeles Department of Water and Power,"Los Angeles, California",WECC,"2,578","900,000",equipment failure
+Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.,2005,8/31/2005,4:00 PM,9/12/2005,8:00 AM,Seminole Electric Cooperative,Member Service Territory is located in the West coast of Florida from Tallahassee to Fort Myers,FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
+Hurricane Katrina  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public appeals for conservation were issued.,2005,8/29/2005,5:00 PM,9/8/2005,12:01 AM,City of Lakeland,"City of Lakeland, Florida",FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
+Hurricane Katrina,2005,8/29/2005,3:50 PM,9/10/2005,12:00 PM,Tennessee Valley Authority,"Alabama, Mississippi,  Tennessee",SERC,118.5,"323,529","severe weather, hurricane/tropical storm"
+CAISO initiated interruption of  interruptible and firm load due to declaration of  Transmission Emergency in Southern California,2005,8/25/2005,3:51 PM,8/25/2005,8:00 PM,Southern California Edison Company,Southern California,WECC,864,"409,000","load shedding, transmission interruption"
+CAISO determined there was  inadequate electric resources to serve load.  Public appeals and a shedding of interruptible and firm load occurred.,2005,8/25/2005,3:50 PM,8/25/2005,8:00 PM,California ISO,Southern California,WECC,-,-,"load shedding, public appeal"
+Severe Thunderstorms,2005,8/20/2005,2:15 PM,8/20/2005,4:21 PM,American Electric Power -AEP West,Northwest Arkansas,ECAR,650,"50,797","severe weather, thunderstorm"
+Voltage Reduction/Load Shed,2005,8/19/2005,7:37 PM,8/19/2005,8:15 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,259,"71,864","voltage reduction, load shedding"
+Plant Tripped,2005,8/8/2005,12:38 PM,8/8/2005,4:00 PM,Crockett Cogeneration,"San Francisco Bay area, California",WECC,240,PG&E,equipment failure
+Severe Thunderstorm,2005,7/28/2005,8:30 PM,8/1/2005,5:00 PM,Duke Energy Company/Duke Power Control Area,Piedmont North and South Carolina,SERC,300,"52,200","severe weather, thunderstorm"
+CA ISO Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,7/22/2005,1:55 PM,7/22/2005,6:00 PM,Southern California Edison Company,Southern California,WECC,206,"133,900",load shedding
+CA ISO  Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,7/21/2005,2:39 PM,7/21/2005,5:30 PM,Southern California Edison Company,Southern California,WECC,197,"128,050",load shedding
+Hurricane Dennis,2005,7/10/2005,12:53 PM,7/11/2005,5:33 PM,Alabama Electric Coop Inc.,Southwest Alabama and Western Panhandle of Florida,SERC,51.2,"50,000","severe weather, hurricane/tropical storm"
+Tropical Storm Cindy,2005,7/5/2005,9:00 PM,7/6/2005,9:00 AM,Entergy Corporation,"Southeast and Northeast, Louisiana including the New Orleans area",SPP,unknown,"287,000","severe weather, hurricane/tropical storm"
+Strong Thunderstorm/High Winds,2005,6/29/2005,4:30 PM,7/4/2005,11:30 PM,DTE Energy,Southeast  Michigan,ECAR,"1,000","114,711","severe weather, thunderstorm"
+Transmission Equipment Failure,2005,6/24/2005,8:37 PM,6/24/2005,11:06 PM,Commonwealth Edison Company,"Chicago, Illinois",MAIN,350,"51,500","equipment failure, transmission interruption"
+Strong Thunderstorm/High Winds,2005,6/5/2005,2:00 PM,6/10/2005,7:30 AM,DTE Energy,Southeast  Michigan,ECAR,"1,826","201,580","severe weather, thunderstorm"
+Strong Thunderstorm,2005,6/5/2005,2:00 PM,6/7/2005,6:00 PM,Consumers Energy,Portions of  the southern 2/3 of  Michigan's Lower Peninsula,ECAR,50-60,"105,000","severe weather, thunderstorm"
+Strong Thunderstorms,2005,5/29/2005,8:00 PM,5/30/2005,2:30 AM,CenterPoint Energy Houston Electric,"Houston, Texas and surrounding suburban areas",ERCOT,328,"123,000","severe weather, thunderstorm"
+Strong Thunderstorms,2005,5/8/2005,3:00 PM,5/8/2005,10:00 PM,CenterPoint Energy Houston Electric,"Houston, Texas and surrounding suburban areas",ERCOT,672,"243,000","severe weather, thunderstorm"
+Lightning Strike,2005,4/22/2005,3:51 PM,4/22/2005,3:59 PM,Crockett Cogeneration,"San Francisco Bay area, California",WECC,126,PG&E,"severe weather, thunderstorm"
+Load Shedding,2005,2/16/2005,1:26 PM,2/16/2005,1:43 PM,Puerto Rico Electric Power Authority,Island of Puerto Rico,PR,325,"139,438",load shedding
+Ice Storm,2005,1/29/2005,4:00 PM,1/30/2005,3:00 PM,Georgia System Operations Corporation (GSOC),Georgia,SERC,65 to 100,"82,000","severe weather, winter storm"
+Winter Storm,2005,1/7/2005,1:00 PM,1/10/2005,8:00 AM,Pacific Gas and Electric Company,Northern California,WECC,120,"442,000","severe weather, winter storm"
+Ice Storm,2005,1/5/2005,4:00 PM,1/13/2005,6:00 PM,Ohio Edison/First Energy,Akron and Mansfield areas,ECAR,250,"246,990","severe weather, winter storm"
+Winter Ice Storm,2005,1/5/2005,9:10 PM,1/16/2005,11:00 AM,American Electric Power,Indiana Michigan Region - Muncie District,ECAR,545,"114,791","severe weather, winter storm"
+Winter Storm,2005,1/4/2005,6:00 PM,1/14/2005,12:00 PM,Westar Energy,Eastern one third of the state of Kansas,SPP,200,"211,000","severe weather, winter storm"
+Strong Thunderstorms,2004,11/23/2004,10:00 PM,11/24/2004,1:00 AM,CenterPoint Energy,"Houston, Texas and surrounding suburban areas",ERCOT,150,"119,000","severe weather, thunderstorm"
+Fuel Supply Deficiency - Williams Company: Event for Trans Continental Gas Pipeline,2004,11/9/2004,2:15 PM,11/12/2004,1:07PM,Keyspan Energy,"Sayreville, New Jersey Long Island, New York",NPCC,0,0,"fuel supply emergency, natural gas"
+High Wind Gusts,2004,10/30/2004,12:30  PM,11/3/2004,1:50 PM,DTE Energy,Southeastern Michigan,ECAR,700,"159,870","severe weather, wind"
+Major Transmission Distribution System Interruption,2004,10/28/2004,3:27 PM,10/28/2004,6:08 PM,Pacific Gas and Electric  Company,"San  Jose, California",WECC,103,"59,458",transmission interruption
+Severe Storm with High Wind Gusts,2004,10/18/2004,10:30 PM,10/20/2004,9:00 AM,Pacific Gas and Electric  Company,Northern California,WECC,140,"407,440","severe weather, wind"
+Breaker Failure,2004,10/10/2004,5:09 PM,10/11/2004,7:57 PM,Puerto Rico Electric Power Authority,Island Wide,PR,All,All,equipment failure
+Switch Error Concerning Breakers,2004,9/27/2004,4:06 PM,9/27/2004,4:12 PM,ISO New England ( For New Brunswick Electric Power Coordination of joint Reliability Coordinators and Control Area Functions),Nova Scotia,NPCC,-,-,equipment failure
+Hurricane Jeanne,2004,9/25/2004,5:00 PM,9/26/2004,9:00 AM,Fort Pierce Utilities Authority,"City of Fort Pierce, Florida",FRCC,125,"26,000","severe weather, hurricane/tropical storm"
+Hurricane Ivan,2004,9/16/2004,9:00 PM,9/20/2004,4:00 PM,Duke Energy Company/Duke Power Control Area,Western  North and South Carolina,SERC,500,"175,000","severe weather, hurricane/tropical storm"
+Hurricane Ivan,2004,9/15/2004,7:00 PM,9/17/2004,7:00 PM,Southern Company,"Florida, Mississippi, Alabama, Georgia",SERC,916,"916,316","severe weather, hurricane/tropical storm"
+Hurricane Frances,2004,9/6/2004,1:00 PM,9/9/2004,12:00 PM,Southern Company,"Florida, Mississippi, Alabama, Georgia",SERC,"3,000","99,000","severe weather, hurricane/tropical storm"
+Hurricane Frances,2004,9/3/2004,9:00 PM,9/5/2004,2:00 PM,Fort Pierce Utilities Authority,"City of Fort Pierce, Florida",FRCC,125,"26,000","severe weather, hurricane/tropical storm"
+Tropical Storm Gaston,2004,8/30/2004,6:58 PM,8/31/2004,3:35 PM,Dominion - Virginia Power/North Carolina Power,"Central Virginia, South to North Carolina and East to the Virginia Coast",SERC,150,"99,816","severe weather, hurricane/tropical storm"
+Major Transmission Line Tripped due to Lightning Strike,2004,8/20/2004,3:31 PM,8/20/2004,9:45 PM,National Grid USA,"Boston, Massachusetts",NPCC,"22,700","380,000","severe weather, thunderstorm, transmission interruption"
+Hurricane Charley,2004,8/14/2004,1:00 PM,8/14/2004,11:00 PM,Progress Energy - Carolinas,Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,500,"94,000","severe weather, hurricane/tropical storm"
+Hurricane Charley,2004,8/13/2004,4:43 PM,8/13/2004,8:24 PM,Tampa Electric Company,"Eastern Hillsborough, Polk County, Florida",FRCC,250,"78,000","severe weather, hurricane/tropical storm"
+Hurricane Charley,2004,8/13/2004,10:04 PM,8/14/2004,4:23 PM,"Utilities Commission, City of New Smyrna Beach","New Smyrna Beach, Florida",FRCC,65,"23,000","severe weather, hurricane/tropical storm"
+Hurricane Charley,2004,8/13/2004,1:30 PM,8/13/2004,12 AM,Seminole Electric Cooperative,"Florida counties of Collier, Hendry, Glades, Highlands, Charlotte, Desoto, Lee, Hardee, and Polk",FRCC,700,"200,000","severe weather, hurricane/tropical storm"
+Hurricane Charley,2004,8/13/2004,3:00 PM,8/13/2004,11:00 PM,Florida Power & Light,West Coast of Florida from Naples to Charlotte and in an area centered around Daytona Beach,FRCC,"1,400","1,200,000","severe weather, hurricane/tropical storm"
+Fault at Barre Substation,2004,8/4/2004,12:46 PM,8/4/2004,1:50 PM,Southern California Edison,"Northwest Orange County, California",WECC,480,"182,000",equipment failure
+Severe Storm,2004,8/3/2004,9:00 PM,8/4/2004,7:00 AM,Commonwealth Edison,Northern Illinois,MAIN,127,"127,000","severe weather, storm"
+Severe Storms,2004,7/25/2004,10:00 PM,7/25/2004,11:00 PM,Southern Company,"Georgia, Alabama, Florida panhandle, Southern Mississippi",SERC,61,"61,004","severe weather, storm"
+Public Appeal,2004,7/24/2004,3:45 PM,7/25/2004,9:00 PM,Entergy Transmission,Southwest Louisiana in the Acadia Parish vicinity,SPP,-,-,public appeal
+Severe Thunderstorms,2004,7/21/2004,5:30 PM,7/22/2004,7:00 PM,Commonwealth Edison,"Chicago, Illinois",MAIN,Approx. 200,"200,000","severe weather, thunderstorm"
+Wildfire,2004,7/20/2004,3:44 PM,7/20/2004,5:51 PM,Puerto Rico Electric Power Authority,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and Mayaguez",PR,200,"61,624",wild fire
+Wildfire/Shed Interruptible Load,2004,7/20/2004,2:26 PM,7/21/2004,2:00 AM,Southern California Edison,"Soledad Canyon near Acton, California",WECC,214,-,"wild fire, load shedding"
+Severe Thunderstorms,2004,7/13/2004,4:30 PM,7/17/2004,8:00 a. m.,Cinergy Services,"West, West Central and Southern Indiana",ECAR,600,"135,000","severe weather, thunderstorm"
+Units Tripped,2004,7/13/2004,1:34 PM,7/13/2004,5:15 PM,City of Tallahassee,"Leon  County, Florida",FRCC,283,"42,124",generator trip
+Severe Thunderstorms,2004,7/7/2004,1:30 PM,7/7/2004,11:54 PM,Dominion - Virginia Power/North Carolina Power,Central Virginia,SERC,120,"88,110","severe weather, thunderstorm"
+Thunderstorms,2004,6/23/2004,7:00 PM,6/23/2004,8:00 PM,Southern Company,Georgia and Alabama,SERC,50,"50,595","severe weather, thunderstorm"
+Load Shedding,2004,6/23/2004,5:35 PM,6/23/2004,7:10 PM,Idaho Power Company,Southern Idaho,WECC,157,"35,000",load shedding
+Tornado,2004,6/12/2004,5:37 PM,6/12/2004,5:41 PM,Lincoln Electric System,"Lincoln, Nebraska",MAPP,428,"120,212","severe weather, tornado"
+Severe Storms with Strong Winds,2004,6/1/2004,5:00 PM,6/2/2004,1:00 AM,TXU Electric Delivery,"Collin, Dallas, Denton, Ellis, Parker, and Tarrant Counties, Texas",ERCOT,"1,900","500,000","severe weather, wind"
+Public Appeals,2004,5/28/2004,12:00 PM,5/31/2004,12:00 AM,Seminole Electric Cooperative,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,0,0,public appeal
+Public Appeals,2004,5/28/2004,12:00 PM,5/31/2004,12:00 AM,City of Tallahassee,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,0,0,public appeal
+Public Appeals,2004,5/28/2004,12:00 PM,5/31/2004,12:00 AM,Progress Energy Florida,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,0,0,public appeal
+Severe Thunderstorms,2004,5/21/2004,4:00  PM,5/24/2004,8:00 PM,Detroit Edison,Southeast Michigan,ECAR,630,"Greater than 250,000","severe weather, thunderstorm"
+Severe Thunderstorms,2004,5/21/2004,1:00 PM,5/25/2004,12:00 PM,Consumers Energy,"Lower peninsula of Michigan following cities:  Grand Rapids, Kalamazoo, Battle Creek, Jackson, Bronson, Jonesville, Flint",ECAR,200,"248,209","severe weather, thunderstorm"
+Strong Thunderstorms,2004,5/11/2004,3:30 PM,5/11/2004,6:00 PM,CenterPoint Energy,"Houston, Texas and surrounding suburban areas",ERCOT,Approx. 85,"62,500 at peak","severe weather, thunderstorm"
+Heat Storm,2004,5/3/2004,2:30 PM,5/3/2004,7:00 PM,Southern California Edison,Central and Southern California,WECC,662,Approx. 940,"severe weather, heat"
+Strong Winds,2004,4/27/2004,12:35 PM,4/30/2004,12:00 PM,Snohomish County PUD #1,Snohomish County Washington,WECC,Approx. 300,"187,000","severe weather, wind"
+Thunderstorms,2004,4/10/2004,8:00 PM,4/11/2004,4:00 PM,CenterPoint Energy,"Houston, Texas and surrounding suburban areas",ERCOT,Approx. 100,"85,000 at peak","severe weather, thunderstorm"
+Faulty Switch,2004,3/17/2004,1:27 PM,3/17/2004,2:06 PM,El Paso Electric Company,"El Paso, Texas",WECC,Approx. 300,"Approx. 100,000",equipment failure
+Inadequate Resources,2004,3/8/2004,6:22 PM,3/8/2004,6:55 PM,Southern California Edison,Southern California not including LA,WECC,300,"Approx. 70,000",fuel supply emergency
+Severe Storm,2004,3/7/2004,6:30 PM,3/9/2004,8:00 AM,Duke Energy Company/Duke Power Control Area,North and South Carolina,SERC,"1,000","206,000","severe weather, storm"
+Lightning struck Intertie Breaker,2004,2/17/2004,2:25 PM,2/17/2004,11:57 PM,Crockett Cogeneration,"San Francisco Bay area, California",WECC,220,PG&E,"severe weather, thunderstorm"
+Ice Storm,2004,2/5/2004,8:00 PM,2/9/2004,8:00 PM,Allegheny Power,"Maryland, Southeastern West Virginia, Northern Virginia, Northern Pennsylvania and South Central Pennsylvania",MAAC,60,"87,456","severe weather, winter storm"
+Ice Storm,2004,1/28/2004,1:09 PM,1/29/2004,5:00 AM,Baltimore Gas & Electric Company,"Harford County, Maryland",MAAC,Approx. 300,"Approx. 70,000","severe weather, winter storm"
+Ice Storm,2004,1/26/2004,2:00 PM,1/27/2004,8:00 PM,Southern Company,North and Central area of Georgia,SERC,Less than 150,"30,689","severe weather, winter storm"
+Ice Storm,2004,1/26/2004,4:00 PM,1/29/2004,6:30 AM,Progress Energy - Carolinas (Carolina Power and Light),Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,475,"9,905","severe weather, winter storm"
+Public Appeal to Reduce Load,2004,1/8/2004,3:00 PM,1/10/2004,7:00 PM,National Grid (New York),"Lake Placid/Saranac, New York",NPCC,100,"18,600",public appeal
+Winter Storm,2003,12/28/2003,9:00 PM,1/1/2004,11:30 AM,Pacific Gas and Electric,Northern California,WECC,160,"241,000","severe weather, winter storm"
+Cable Failure,2003,12/20/2003,3:51 PM,12/21/2003,11:45 PM,Pacific Gas and Electric,"San Francisco, California",WECC,150,"120,000",equipment failure
+Fault on 138 KV line,2003,12/4/2003,10:15 PM,12/8/2003,8:30 AM,Wisconsin Electric Power Company,Upper Peninsula of Michigan and Northeastern Wisconsin,MAIN,500,"36,000",equipment failure
+Fault on 138 KV line,2003,12/4/2003,10:34 PM,12/7/2003,8:30 AM,"American Transmission Company, LLC",Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,MAIN,650,6 (utilities),equipment failure
+Wind Storm,2003,11/13/2003,1:40 PM,11/13/2003,3:51 PM,Dominion-Virginia Power/ North Carolina Power,"Northern Virginia, Richmond area, Eastern Virginia",SERC,300,"67,000","severe weather, wind"
+High Winds,2003,11/12/2003,5:00 PM,11/12/2003,7:00 PM,Com Ed,Northern Illinois,MAIN,Est. 371.1,"51,000","severe weather, wind"
+Wind Storm,2003,11/12/2003,5:00 PM,11/16/2003,6:00 PM,Consumers Energy,Lower Michigan Peninsula,ECAR,75-90,"245,000","severe weather, wind"
+Storm with High Winds,2003,11/12/2003,6:00 PM,11/16/2003,5:00 PM,DTE Energy,Southeastern Michigan,ECAR,Est. 75,"160,000","severe weather, wind"
+Tornado,2003,11/5/2003,3:16 PM,11/5/2003,3:54 PM,PJM Interconnection,Maryland/Virginia border,MAAC,350,1,"severe weather, tornado"
+Hurricane Isabel,2003,9/18/2003,9:00 PM,9/21/2003,5:00 PM,PPL Electric Utilities,"All PPL including: Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",MAAC,"1,300","425,000","severe weather, hurricane/tropical storm"
+Hurricane Isabel,2003,9/18/2003,3:32 PM,9/19/2003,5:00 PM,Duke Energy Company/Duke Power Control Area,Triangle and Tridad (Greensboro _ High Point)  Areas North Carolina - Northern Region,SERC,500-700,"Under 50,000","severe weather, hurricane/tropical storm"
+Hurricane Isabel,2003,9/18/2003,2:00 PM,9/24/2003,12:00 AM,Allegheny Power,"Maryland, West Virginia, Virginia and Pennsylvania",MAAC,"3,085","237,366","severe weather, hurricane/tropical storm"
+Severe Thunderstorms,2003,8/26/2003,4:22 PM,8/31/2003,6:00 PM,Potomac Electric Power Company,"Washington, D.C.,  Montgomery County,  Prince Georges County, Maryland",MAAC,"1,500","153,000","severe weather, thunderstorm"
+Severe Thunderstorms,2003,8/26/2003,4:00 PM,8/29/2003,12:00 PM,Baltimore Gas and Electric,"Maryland: Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",MAAC,625,"93,000 at peak 133,000 cumulative","severe weather, thunderstorm"
+Unknown *,2003,8/14/2003,4:11 PM,8/15/2003,9:03 PM,Consolidated Edison Co of  New York,Entire Con Edison System (five boroughs of NYC and Westchester County),NPCC,"11,202","3,125,350",unknown
+Unknown *,2003,8/14/2003,4:10 PM,8/16/2003,8:27 PM,First Energy Corporation,"Northeast, Ohio",ECAR,"7,000","1,203,000",unknown
+Unknown *,2003,8/14/2003,4:09 PM,8/16/2003,7:00 AM,Detroit Edison,Southeastern Michigan including all of Detroit,ECAR,"11,000","2,100,000",unknown
+Unknown *,2003,8/14/2003,4:10 PM,8/18/2003,12:03 AM,New York Independent System Operator,New York State,NPCC,"22,934",unknown,unknown
+Unknown *,2003,8/14/2003,4:09 PM,8/16/2003,1:03 PM,Consumers Power,"Southern Lower  Michigan and small areas near Flint, Alma, Saginaw, and Lansing Michigan",ECAR,"1,007","101,000",unknown
+Breaker Closed,2003,7/28/2003,6:55 PM,7/28/2003,8:35 PM,Arizona Public Service,Arizona,WECC,440,"90,000",equipment failure
+Severe Storms,2003,7/21/2003,5:15 PM,7/24/2003,5:33 AM,PPL Electric Utilities,Pennsylvania,MAAC,500-1000,"185,000","severe weather, storm"
+Severe Thunderstorms,2003,7/9/2003,5:14 PM,7/9/2003,7:09 PM,Dominion Virginia/North Carolina Power,Northern Central and Eastern Virginia,SERC,120,"80,000","severe weather, thunderstorm"
+Severe Storms,2003,7/4/2003,11:41 PM,7/6/2003,9:00 PM,Cinergy,"Southwest Ohio, portions of Indiana",ECAR,200,"55,142","severe weather, storm"
+Unit Tripped,2003,7/2/2003,1:54 PM,7/2/2003,3:59 PM,Pacific Gas and Electric Company,Northern California,WECC,200,1,generator trip
+Breaker Failure,2003,7/1/2003,3:15 PM,7/1/2003,3:50 PM,Arizona Public Service Company,"Phoenix, Arizona",WECC,"1,000","47,000",equipment failure
+Public Appeal,2003,6/15/2003,3:12 PM,6/16/2003,5:00 PM,Idaho Power Company Control Area,Idaho,WECC,0,0,public appeal
+Flood,2003,5/15/2003,2:00 PM,6/16/2003,2:00 PM,We Energies,Upper Michigan Peninsula,MAIN,240,2,"severe weather, flooding"
+Severe Thunderstorms,2003,5/2/2003,8:00 PM,5/3/2003,8:00 AM,Southern Company,"Central Georgia, Alabama",SERC,130,"102,842 (Georgia); 12,897 (Alabama)","severe weather, thunderstorm"
+Severe Thunderstorms,2003,5/2/2003,5:00 PM,5/4/2003,12:00 PM,Duke Energy Company/Duke Power Control Area,"Piedmont, North and South Carolina",SERC,"1,500","139,000","severe weather, thunderstorm"
+Vandalism,2003,4/28/2003,3:41 PM,4/29/2003,12:00 PM,American Transmission Company,"County of Waukesha,  Wisconsin,  Town of Lisbon, Wisconsin",MAIN,0,0,vandalism
+Ice Storm,2003,4/3/2003,7:00 PM,4/6/2003,5:00 PM,Consumers Energy,Lower Michigan Peninsula,ECAR,300,"425,000","severe weather, winter storm"
 Winter Storm,2002,12/25/2002,5:00 PM,12/26/2002,5:00 AM,PPL Corporation,Eastern Pennsylvania,MAAC,250,"106,000","severe weather, winter storm"
 Winter Storm,2002,12/19/2002,6:00 AM,12/21/2002,5:00 AM,Pacific Gas & Electric,Northern and Central California,WECC,56,"385,000","severe weather, winter storm"
 Winter Storm,2002,12/14/2002,11:00 AM,12/19/2002,4:00 AM,Pacific Gas & Electric,Northern and Central California,WECC,180,1.5 million,"severe weather, winter storm"
 Winter Storm,2002,12/11/2002,1:09 PM,12/13/2002,10:00 AM,Dominion-Virginia Power/North Carolina Power,Northern Virginia to Fredericksburg; Staunton to Harrisonburg,SERC,63,"130,000","severe weather, winter storm"
-Cable Tripped,2002,11/17/2002,3:48 PM,Unknown,Unknown,Long Island Power Authority,"Northport, NY; Norwalk, CT",NPPC,0,0,equipment failure
 Winter Storm,2002,11/6/2002,10:00 PM,11/10/2002,12:00 PM,Pacific Gas & Electric Co.,Northern and Central California,WECC,270,"939,000","severe weather, winter storm"
 Severe Weather,2002,8/28/2002,2:09 PM,8/28/2002,3:38 AM,Lakeworth Utils,Florida,SERC,67.6,"25,000",severe weather
 Interruption of Firm Power,2002,8/25/2002,3:41 AM,8/25/2002,9:17 AM,Pacific Gas & Elec.,California,WECC,120,1 PG&E,load shedding
@@ -1171,24 +962,17 @@ Severe Weather,2002,3/9/2002,12:00 AM,3/11/2002,12:00 PM,Consumers Energy Co.,Lo
 Interruption of Firm Load,2002,2/27/2002,10:48 AM,2/27/2002,11:35 AM,San Diego Gas & Electric,California,WECC,300,"255,000",load shedding
 Ice Storm,2002,1/30/2002,6:00 AM,2/7/2002,12:00 PM,Oklahoma Gas & Electric,Oklahoma,SPP,500,"1,881,134","severe weather, winter storm"
 Ice Storm,2002,1/30/2002,4:00 PM,2/10/2002,9:00 AM,Missouri Public Service,Missouri,SPP,210,"95,000","severe weather, winter storm"
-Voltage Reduction,2001,8/9/2001,3:11 p.m.,8/9/2001,7:12:00 PM,Virginia Electric and Power Co and Dominion Virginia Power Area,Virginia,PJM,0,"600,000",voltage reduction
-Firm Load Interruption,2001,6/6/2001,4:22 p.m.,6/6/2001,7:09:00 PM,Central Power and Light Company,Rio Grand Valley of Texas,ERCOT,350,"24,506",load shedding
-Interruption of Firm Power (Public Appeal),2001,5/8/2001,3:10 p.m.,5/8/2001,5:30:00 PM,CA Independent System Operator,California,WECC,400,Undetermined,"load shedding, public appeal"
-Interruption of Power,2001,5/8/2001,3:12 p.m.,5/8/2001,5:00:00 PM,Southern California Edison,California,WECC,"225, 159","70,848; 56718",unknown
-Interruption of Firm Power (Public Appeal),2001,5/7/2001,4:45 p.m.,5/7/2001,6:00:00 PM,CA Independent System Operator,California,WECC,300,Undetermined,"load shedding, public appeal"
-Interruption of Firm Power,2001,3/20/2001,9:17 a.m.,3/20/2001,2:33:00 PM,CA Independent System Operator,Southern California Area,WECC,300-500,Undetermined,load shedding
-Interruption of Firm Power,2001,3/20/2001,11:50 a.m.,3/20/2001,2:11:00 PM,Southern California Edison,Southern California Area,WECC,Various,"25,000 per hour",load shedding
-Interruption of Firm Power & Public Appeal,2001,3/19/2001,11:46 a.m.,3/19/2001,9:00:00 PM,CA Independent System Operator,Southern California Area,WECC,"400-1,000",Undetermined,"load shedding, public appeal"
-Interruption of Firm Power,2001,3/6/2001,9:17 a.m.,3/6/2001,11:00:00 AM,New England,Boston & Northeast Massachusetts,NPCC,340,"130,000",load shedding
-Severe Weather,2000,8/18/2000,6:30 p.m.,8/20/2000,12:00 p.m.,Duke Power,North Carolina,SERC,500,"130,000",severe weather
-Severe Weather,2000,8/10/2000,9:30 p.m.,8/11/2000,6:00 p.m.,Alabama Power Co,Alabama,SERC,None,"75,000",severe weather
-Severe Weather,2000,8/9/2000,6:30 p.m.,8/7/2000,11:59 p.m.,Cinergy Corp,Ohio,ECAR,None,"92,000",severe weather
-Severe Weather,2000,8/6/2000,4:00 p.m.,8/7/2000,12:00:00 PM,Commonwealth Edison,Illinois,MAIN,None,"239,567",severe weather
-Line Outages/Switch Fire,2000,6/28/2000,5:52 p.m.,6/28/2000,7:14:00 PM,Virginia Power/North Carolina Power,Virginia & North Carolina,SERC,175,"30,500","wild fire, transmission interruption"
-Tripped Lines Fire,2000,6/14/2000,3:54 p.m.,6/14/2000,5:00:00 PM,Tucson Electric Power,Arizona,WECC,138,"40,911","wild fire, transmission interruption"
-Severe Weather,2000,5/25/2000,10:00 a.m.,6/2/2000,6:00:00 AM,Duke Power,North Carolina,SERC,450-500,"Approx. 100,000",severe weather
-Voltage Elec Usage,2000,5/24/2000,10:15 a.m.,5/25/2000,10:14:00 PM,Entergy,Texas,SPP,None,Approx. 2 million,voltage reduction
-Transmission Line Loss,2000,3/18/2000,7:08 p.m.,3/18/2000,7:08:00 PM,Public Service of New Mexico,New Mexico,WECC,"1,040","500,000",transmission interruption
-Transmission Line Loss,2000,3/18/2000,4:00 p.m.,3/18/2000,5:10:00 PM,El Paso Elec. Co.,Texas,MAIN,400,"100,000",transmission interruption
-Ice Storm,2000,1/29/2000,10:00 p.m.,2/3/2000,12:00:00 PM,Duke Power Co.,South Carolina,SERC,300,"81,000","severe weather, winter storm"
-Ice Storm,2000,1/23/2000,8:00 a.m.,1/28/2000,12:00:00 PM,Duke Power Co.,South Carolina,SERC,450,"133,000","severe weather, winter storm"
+Voltage Reduction,2001,8/9/2001,3:11 PM,8/9/2001,7:12:00 PM,Virginia Electric and Power Co and Dominion Virginia Power Area,Virginia,PJM,0,"600,000",voltage reduction
+Firm Load Interruption,2001,6/6/2001,4:22 PM,6/6/2001,7:09:00 PM,Central Power and Light Company,Rio Grand Valley of Texas,ERCOT,350,"24,506",load shedding
+Interruption of Firm Power (Public Appeal),2001,5/8/2001,3:10 PM,5/8/2001,5:30:00 PM,CA Independent System Operator,California,WECC,400,Undetermined,"load shedding, public appeal"
+Interruption of Power,2001,5/8/2001,3:12 PM,5/8/2001,5:00:00 PM,Southern California Edison,California,WECC,"225, 159","70,848; 56718",unknown
+Interruption of Firm Power (Public Appeal),2001,5/7/2001,4:45 PM,5/7/2001,6:00:00 PM,CA Independent System Operator,California,WECC,300,Undetermined,"load shedding, public appeal"
+Severe Weather,2000,8/18/2000,6:30 PM,8/20/2000,12:00 PM,Duke Power,North Carolina,SERC,500,"130,000",severe weather
+Severe Weather,2000,8/10/2000,9:30 PM,8/11/2000,6:00 PM,Alabama Power Co,Alabama,SERC,None,"75,000",severe weather
+Severe Weather,2000,8/9/2000,6:30 PM,8/7/2000,11:59 PM,Cinergy Corp,Ohio,ECAR,None,"92,000",severe weather
+Severe Weather,2000,8/6/2000,4:00 PM,8/7/2000,12:00:00 PM,Commonwealth Edison,Illinois,MAIN,None,"239,567",severe weather
+Line Outages/Switch Fire,2000,6/28/2000,5:52 PM,6/28/2000,7:14:00 PM,Virginia Power/North Carolina Power,Virginia & North Carolina,SERC,175,"30,500","wild fire, transmission interruption"
+Tripped Lines Fire,2000,6/14/2000,3:54 PM,6/14/2000,5:00:00 PM,Tucson Electric Power,Arizona,WECC,138,"40,911","wild fire, transmission interruption"
+Transmission Line Loss,2000,3/18/2000,7:08 PM,3/18/2000,7:08:00 PM,Public Service of New Mexico,New Mexico,WECC,"1,040","500,000",transmission interruption
+Transmission Line Loss,2000,3/18/2000,4:00 PM,3/18/2000,5:10:00 PM,El Paso Elec. Co.,Texas,MAIN,400,"100,000",transmission interruption
+Ice Storm,2000,1/29/2000,10:00 PM,2/3/2000,12:00:00 PM,Duke Power Co.,South Carolina,SERC,300,"81,000","severe weather, winter storm"
